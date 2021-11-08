@@ -82,7 +82,7 @@ Reviewers for the Medical Image Analysis, SIAM Journal on Mathematics of Data Sc
 
 * (Fall 2021):  Mentoring two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & [Faduma Khalif]()) from EECS and BCS at MIT on the project - “Hyperbolic Graph Embedding for MEG Brain Network Analysis” in the MIT 9.58 course. (Course instructor: Prof. Tomaso Poggio). 
 
-
+* (Fall 2020):  Mentoring two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman)) from EECS and BCS at MIT on the project - “Learning Stochastic Graph Embeddings for Graph Analysis” in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
 
 ### Contact
 
