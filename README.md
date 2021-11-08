@@ -4,11 +4,13 @@
 
 <!--  above not used!!!-->
 
+# About Me
+
 I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, where I am advised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) in Providence, RI. I also collaborate with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) from [the MEG lab (part of the Athinoula A. Martinos Imaging Center) at MIT](http://www.pantazislab.org/) and [Prof. Quanzheng Li](https://gordon.mgh.harvard.edu/gc/people/faculty/quanzheng-li/) from [Massachusetts Gerneral Hospital, Havrard Medical School (Boston, MA, US)](https://hms.harvard.edu/affiliates/massachusetts-general-hospital) on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction. I obtained my PhD degree from the Department of Computer Science, [Northeastern University](http://english.neu.edu.cn/3551/list.htm) in Shenyang, China (My advisor is Prof. Hong Zhao, Co-founder of the [Neusoft Corporation](https://www.neusoft.com/)) and spent _two years_ as _a joint PhD_ in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) in Providence, RI. During my PhD training, I spent the first two years working at [Neusoft Research Institute](https://www.neusoft.com/) on developing effective medical image analysis tools for human brain MRI imaging data analysis. 
 
 My research interests mainly focus on the **optimization of deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical imaging data analysis for diverse applications** (e.g., [microscopy red blood cell image segmentation and classifciation](), [diabetics retinal microaneurysm detection using AOSLO imaging](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction and non-pharmacological cognitive training effect assessment]().)
 
-### Recent Publications (* Co-first author)
+## Recent Publications (* Co-first author)
 
 - **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
 
@@ -72,7 +74,7 @@ My research interests mainly focus on the **optimization of deep neural networks
 
 Please find more of my publications from [Google Scholar](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).
 
-### Presentations/Talks
+## Presentations/Talks
 
 > 2021
    > - mgh 
@@ -83,7 +85,7 @@ Please find more of my publications from [Google Scholar](https://scholar.google
    > -
 
 
-### Student Mentoring
+## Student Mentoring
 
 * (2021.09 ~ present): Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/), Master of EECS, MIT) on the project – _“Hyperbolic Knowledge Graph Embedding with Multiomics data for Alzheimer’s Disease Progression Prediction”_ (Collaborated with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/) at Department of Experimental Psychology, Complutense University of Madrid)
 
@@ -97,12 +99,12 @@ Please find more of my publications from [Google Scholar](https://scholar.google
 
 * (2014.12~2016.06): mentoring one high school student intern (_Jacob Aranda_) from the [MET high school](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming.
 
-### Professional Services
+## Professional Services
 
 Reviewers of the Medical Image Analysis, SIAM Journal on Mathematics of Data Science, PLoS One, Computers in Biology and Medicine, Journal of Computational Physics, etc.
 
 
-### Contact
+## Contact
 
 Address: [43 Vassar St, Cambridge, MA 02139, USA](https://www.google.com/maps/place/Brain+and+Cognitive+Sciences+Complex,+43+Vassar+St,+Cambridge,+MA+02139/@42.3623024,-71.0939546,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370abfd23371f:0x6de0e79d1bce9bf7!8m2!3d42.3623024!4d-71.0917659)
 
