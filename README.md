@@ -22,7 +22,7 @@ My research interests mainly focus on the **optimization of deep neural networks
    
    _Under Review, submitted to JBHI, 2021_
 
-@ **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)[[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]**
+- **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)[[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]**
 
    Akshay Rangamani, **Mengjia Xu**, Andrzej Banburski, Qianli Liao, Tomaso Poggio
 
