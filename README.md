@@ -4,7 +4,7 @@
 
 <!--  above not used!!!-->
 
-I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, where I am advised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, Brown University. I also collaborate with [Dr. Dimitrios Pantazis] from the MEG lab at MIT and [Prof. Quanzheng Li] from MGH, Havrard Medical School on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction. I obtained my PhD degree from the Department of Computer Science, Northeastern University in Shenyang, China and the Division of Applied Mathematics (_two-year joint PhD student_), Brown University in Providence, RI. During my PhD training, I spent the first two years working at Neusoft Research Institute on developing effective medical image analysis tools for human brain MRI imaging data analysis.
+I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, where I am advised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) in Providence, RI ([CRUNCH Group](https://www.brown.edu/research/projects/crunch/home)). I also collaborate with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) from [the MEG lab (part of the Martinos Center for Imaging) at MIT](http://www.pantazislab.org/) and [Prof. Quanzheng Li](https://gordon.mgh.harvard.edu/gc/people/faculty/quanzheng-li/) from [Massachusetts Gerneral Hospital, Havrard Medical School (Boston, MA, US)](https://hms.harvard.edu/affiliates/massachusetts-general-hospital) on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction. I obtained my PhD degree from the Department of Computer Science, [Northeastern University](http://english.neu.edu.cn/3551/list.htm) in Shenyang, China (My advisor is Prof. Hong Zhao, One of the three Co-founders of the [Neusoft Corporation](https://en.wikipedia.org/wiki/Neusoft))and the Division of Applied Mathematics (_two-year joint PhD student_), [Brown University in Providence, RI](https://www.brown.edu/). During my PhD training, I spent the first two years working at [Neusoft Research Institute] on developing effective medical image analysis tools for human brain MRI imaging data analysis.
 
 My research interests mainly focus on the **optimization of deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical imaging data analysis for diverse applications** (e.g., [microscopy red blood cell image segmentation and classifciation](), [diabetics retinal microaneurysm detection using AOSLO imaging](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction and non-pharmacological cognitive training effect assessment]().)
 
@@ -12,7 +12,7 @@ My research interests mainly focus on the **optimization of deep neural networks
 
 - **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
 
-    **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis
+    **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis [Paper](papers/), [Bibtex]()
     
     _Under review, submitted to TNNLS, 2021_
 
@@ -76,11 +76,11 @@ Please find more of my publications from [Google Scholar](https://scholar.google
 
 Reviewer of the Medical Image Analysis, SIAM Journal on Mathematics of Data Science, PLoS One, Computers in Biology and Medicine, Journal of Computational Physics, etc.
 
-### Mentoring Jobs
+### Student Mentoring
 
 * (2021.09 ~ present): Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/), Master of EECS, MIT) on the project – “Hyperbolic Knowledge Graph Embedding with Multiomics data for Alzheimer’s Disease Progression Prediction” (Collaborated with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/) at Department of Experimental Psychology, Complutense University of Madrid)
 
-* (Fall 2021):  Mentoring two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & [Faduma Khalif]()) from EECS and BCS at MIT on the project - “Hyperbolic Graph Embedding for MEG Brain Network Analysis” in the MIT 9.58 course. (Course instructor: Prof. Tomaso Poggio). 
+* (Fall 2021):  Mentoring two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & [Faduma Khalif]()) from EECS and BCS at MIT on the project - “Hyperbolic Graph Embedding for MEG Brain Network Analysis” in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2021/projects). (Course instructor: Prof. Tomaso Poggio). 
 
 * (Fall 2020):  Mentoring two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman)) from EECS and BCS at MIT on the project - “Learning Stochastic Graph Embeddings for Graph Analysis” in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
 
