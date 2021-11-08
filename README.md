@@ -37,7 +37,7 @@ My research interests mainly focus on the **optimization of deep neural networks
 
    **Mengjia Xu**, David Lopez Sanz, Pilar Garces, Fernando Maestu, Quanzheng Li, Dimitrios Pantazis
    
-   _IEEE Transactions on Biomedical Engineering, 68(5), pp.1579-1588, 2021._
+   _IEEE Transactions on Biomedical Engineering, 68(5), 1579-1588, 2021._
    
 6. **[A new Graph Gaussian embedding method for analyzing the effects of cognitive training](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186)**
 
@@ -56,6 +56,19 @@ My research interests mainly focus on the **optimization of deep neural networks
    Mo Zhang*, Xiang Li*, **Mengjia Xu***, Quanzheng Li
    
    _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 695-702, 2018_
+   
+   
+9. **[A deep convolutional neural network for classification of red blood cells in sickle cell anemia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005746)**
+
+   **Mengjia Xu**, Dimitrios P Papageorgiou, Sabia Z Abidi, Ming Dao, Hong Zhao, George Em Karniadakis
+   
+   _PLoS computational biology 13 (10), e1005746, 2021_
+   
+10. **[An image-enhancement method based on variable-order fractional differential operators](https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1430)**
+
+   **Mengjia Xu**, Jinzhu Yang, Dazhe Zhao, Hong Zhao
+   
+   _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015_
 
 
 For more publications see [My Google Scholar](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).
