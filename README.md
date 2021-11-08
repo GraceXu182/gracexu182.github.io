@@ -4,7 +4,7 @@
 
 <!--  above not used!!!-->
 
-# About Me
+## Biography
 
 I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, where I am advised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) in Providence, RI. I also collaborate with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) from [the MEG lab (part of the Athinoula A. Martinos Imaging Center) at MIT](http://www.pantazislab.org/) and [Prof. Quanzheng Li](https://gordon.mgh.harvard.edu/gc/people/faculty/quanzheng-li/) from [Massachusetts Gerneral Hospital, Havrard Medical School (Boston, MA, US)](https://hms.harvard.edu/affiliates/massachusetts-general-hospital) on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction. I obtained my PhD degree from the Department of Computer Science, [Northeastern University](http://english.neu.edu.cn/3551/list.htm) in Shenyang, China (My advisor is Prof. Hong Zhao, Co-founder of the [Neusoft Corporation](https://www.neusoft.com/)) and spent _two years_ as _a joint PhD_ in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) in Providence, RI. During my PhD training, I spent the first two years working at [Neusoft Research Institute](https://www.neusoft.com/) on developing effective medical image analysis tools for human brain MRI imaging data analysis. 
 
@@ -106,7 +106,7 @@ Reviewers of the Medical Image Analysis, SIAM Journal on Mathematics of Data Sci
 
 ## Contact
 
-Address: [43 Vassar St, Cambridge, MA 02139, USA](https://www.google.com/maps/place/Brain+and+Cognitive+Sciences+Complex,+43+Vassar+St,+Cambridge,+MA+02139/@42.3623024,-71.0939546,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370abfd23371f:0x6de0e79d1bce9bf7!8m2!3d42.3623024!4d-71.0917659)
+Address(:office:): [43 Vassar St, Cambridge, MA 02139, USA](https://www.google.com/maps/place/Brain+and+Cognitive+Sciences+Complex,+43+Vassar+St,+Cambridge,+MA+02139/@42.3623024,-71.0939546,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370abfd23371f:0x6de0e79d1bce9bf7!8m2!3d42.3623024!4d-71.0917659)
 
-Email: mengjia@mit.edu
+Email(:e-mail:): mengjia@mit.edu
 
