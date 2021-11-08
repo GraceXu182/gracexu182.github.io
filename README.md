@@ -1,8 +1,8 @@
 <!-- ## Welcome to Mengjia Xu's Pages -->
 
-I am currently a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, I am supervised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, Brown University. My research interests focus on optimizations of deep neural networks, spatio-temporal graph representation learning, uncertainty quantification and multimodal biomedical imaging data analysis for diverse applications.
+Hi, I am Mengjia, a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, I am supervised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, Brown University. My research interests focus on optimizations of deep neural networks, spatio-temporal graph representation learning, uncertainty quantification and multimodal biomedical imaging data analysis for diverse applications (e.g., [microscopy red blood cell image segmentation and classifciation], [AOSLO imaging for diabetics retinal microaneurysm detection], [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction].)
 
-### Markdown
+### Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,10 +26,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Projects
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GraceXu182/gracexu182.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
