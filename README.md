@@ -10,6 +10,8 @@ My research interests mainly focus on the **optimization of deep neural networks
 
 ## Recent Publications (* Co-first author)
 
+> **2021**
+
 - **[Understanding graph embedding methods and their applications](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
 
    **Mengjia Xu**
@@ -39,7 +41,9 @@ My research interests mainly focus on the **optimization of deep neural networks
    **Mengjia Xu**, David Lopez Sanz, Pilar Garces, Fernando Maestu, Quanzheng Li, Dimitrios Pantazis
    
    _IEEE Transactions on Biomedical Engineering, 68(5), 1579-1588, 2021._ [[Paper](Papers/2021_MEG_AD_progression.pdf)], [[Bibtex]()]
-   
+  
+ > **2020**
+ 
 - **[A new Graph Gaussian embedding method for analyzing the effects of cognitive training](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186)**
 
    **Mengjia Xu**, Zhijiang Wang, Haifeng Zhang, Dimitrios Pantazis, Huali Wang, Quanzheng Li
@@ -50,7 +54,13 @@ My research interests mainly focus on the **optimization of deep neural networks
      
    Mo Zhang*, Xiang Li*, **Mengjia Xu**, Quanzheng Li
    
-   _IEEE Journal of Biomedical and Health Informatics 24 (11), 3095-3102, 2020_ [[Paper](Papers/2020_RBC_JBHI.pdf)], [[Bibtex]()]
+   _IEEE Journal of Biomedical and Health Informatics 24 (11), 3095-3102, 2020._ [[Paper](Papers/2020_RBC_JBHI.pdf)], [[Bibtex]()]
+   
+- **[ Multi-label detection and classification of red blood cells in microscopic images](https://ieeexplore.ieee.org/abstract/document/9122550)**
+     
+   Wei Qiu, Jiaming Guo, Xiang Li, **Mengjia Xu**, Mo Zhang, Ning Guo, Quanzheng Li
+   
+   _IEEE International Conference on Big Data (Big Data) 24 (11), 4257-4263, 2020._ [[Paper](Papers/2020_RBC_BIGDATA.pdf)], [[Bibtex]()]
    
 - **[RBC semantic segmentation for sickle cell disease based on deformable U-Net](https://link.springer.com/chapter/10.1007/978-3-030-00937-3_79)**
 
@@ -62,7 +72,7 @@ My research interests mainly focus on the **optimization of deep neural networks
 
    **Mengjia Xu**, Dimitrios P Papageorgiou, Sabia Z Abidi, Ming Dao, Hong Zhao, George Em Karniadakis 
    
-   _PLoS computational biology 13 (10), e1005746, 2017._ [[Paper](Papers/2017_PLOS_RBC.pdf)], [[Bibtex]()], [[News]()]
+   _PLoS computational biology 13 (10), e1005746, 2017._ [[Paper](Papers/2017_PLOS_RBC.pdf)], [[Bibtex]()], [[News](https://phys.org/news/2017-10-machine-automatically-red-blood-cells.html)][[News](https://www.medindia.net/news/new-system-developed-to-identify-shapes-of-red-blood-cells-173976-1.htm)]
 
 - **[An image-enhancement method based on variable-order fractional differential operators](https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1430)**
 
@@ -70,7 +80,7 @@ My research interests mainly focus on the **optimization of deep neural networks
    
    _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015._ [[Paper](Papers/2015_fractional.pdf)], [[Bibtex]()]
 
-Please find more of my publications from [Google Scholar](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).
+(Please find more of my publications from [`Google Scholar`](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).)`
 
 ## Presentations & Talks
 
