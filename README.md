@@ -14,7 +14,7 @@ My research interests mainly focus on the **optimization of deep neural networks
 
    **Mengjia Xu**
 
-   _SIAM Review, 63(4), 825–853, 2021._ [[Paper](Papers/2021_SIREV)], [[Bibtex]()]
+   _SIAM Review, 63(4), 825–853, 2021._ [[Paper](Papers/2021_SIREV.pdf)], [[Bibtex]()]
 
 - **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
 
@@ -26,49 +26,49 @@ My research interests mainly focus on the **optimization of deep neural networks
 
    Qian Zhang*, Konstantina Sampani*, **Mengjia Xu***, Shengze Cai, Yixiang Deng, He Li, Jennifer K Sun, George Em Karniadakis
    
-   _Under Review, submitted to JBHI, 2021._ [[Paper](Papers/2021_AOSLOnet)], [[Bibtex]()]
+   _Under Review, submitted to JBHI, 2021._ [[Paper](Papers/2021_AOSLOnet.pdf)], [[Bibtex]()]
 
 - **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)[[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]**
 
    Akshay Rangamani, **Mengjia Xu**, Andrzej Banburski, Qianli Liao, Tomaso Poggio
 
-   _CBMM, memo 117, 2021._ [[Paper](Papers/2021_NC_dynamics_binary_CIFAR10)], [[Bibtex]()]
+   _CBMM, memo 117, 2021._ [[Paper](Papers/2021_NC_dynamics_binary_CIFAR10.pdf)], [[Bibtex]()]
    
 - **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
 
    **Mengjia Xu**, David Lopez Sanz, Pilar Garces, Fernando Maestu, Quanzheng Li, Dimitrios Pantazis
    
-   _IEEE Transactions on Biomedical Engineering, 68(5), 1579-1588, 2021._ [[Paper](Papers/2021_MEG_AD_progression)], [[Bibtex]()]
+   _IEEE Transactions on Biomedical Engineering, 68(5), 1579-1588, 2021._ [[Paper](Papers/2021_MEG_AD_progression.pdf)], [[Bibtex]()]
    
 - **[A new Graph Gaussian embedding method for analyzing the effects of cognitive training](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186)**
 
    **Mengjia Xu**, Zhijiang Wang, Haifeng Zhang, Dimitrios Pantazis, Huali Wang, Quanzheng Li
    
-   _PLoS computational biology 16 (9), e1008186, 2020._ [[Paper](Papers/2021_fMRI_AD)], [[Bibtex]()]
+   _PLoS computational biology 16 (9), e1008186, 2020._ [[Paper](Papers/2021_fMRI_AD.pdf)], [[Bibtex]()]
    
 - **[Automated semantic segmentation of red blood cells for sickle cell disease](https://ieeexplore.ieee.org/abstract/document/9122550)**
      
    Mo Zhang*, Xiang Li*, **Mengjia Xu**, Quanzheng Li
    
-   _IEEE Journal of Biomedical and Health Informatics 24 (11), 3095-3102, 2020_ [[Paper](Papers/2020_RBC_JBHI)], [[Bibtex]()]
+   _IEEE Journal of Biomedical and Health Informatics 24 (11), 3095-3102, 2020_ [[Paper](Papers/2020_RBC_JBHI.pdf)], [[Bibtex]()]
    
 - **[RBC semantic segmentation for sickle cell disease based on deformable U-Net](https://link.springer.com/chapter/10.1007/978-3-030-00937-3_79)**
 
    Mo Zhang*, Xiang Li*, **Mengjia Xu***, Quanzheng Li
    
-   _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 695-702, 2018._ [[Paper](Papers/2018_MICCAI_RBC)], [[Bibtex]()]
+   _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 695-702, 2018._ [[Paper](Papers/2018_MICCAI_RBC.pdf)], [[Bibtex]()]
     
 - **[A deep convolutional neural network for classification of red blood cells in sickle cell anemia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005746)** 
 
    **Mengjia Xu**, Dimitrios P Papageorgiou, Sabia Z Abidi, Ming Dao, Hong Zhao, George Em Karniadakis 
    
-   _PLoS computational biology 13 (10), e1005746, 2017._ [[Paper](Papers/2017_PLOS_RBC)], [[Bibtex]()], [[News]()]
+   _PLoS computational biology 13 (10), e1005746, 2017._ [[Paper](Papers/2017_PLOS_RBC.pdf)], [[Bibtex]()], [[News]()]
 
 - **[An image-enhancement method based on variable-order fractional differential operators](https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1430)**
 
    **Mengjia Xu**, Jinzhu Yang, Dazhe Zhao, Hong Zhao
    
-   _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015._ [[Paper](Papers/2015_fractional)], [[Bibtex]()]
+   _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015._ [[Paper](Papers/2015_fractional.pdf)], [[Bibtex]()]
 
 Please find more of my publications from [Google Scholar](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).
 
