@@ -15,43 +15,43 @@ My research interests mainly focus on the **optimization of deep neural networks
     
     _Under review, submitted to TNNLS, 2021_
 
-2. **[AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images]**(https://arxiv.org/pdf/2106.02800.pdf)
+2. **[AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://arxiv.org/pdf/2106.02800.pdf)**
 
    Qian Zhang*, Konstantina Sampani*, **Mengjia Xu***, Shengze Cai, Yixiang Deng, He Li, Jennifer K Sun, George Em Karniadakis
    
    _Under Review, submitted to JBHI, 2021_
 
-3. **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss]**(https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)[**[Code]**(https://github.com/GraceXu182/binaryclassifiers_squareloss)]
+3. **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)[[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]**
 
    Akshay Rangamani, **Mengjia Xu**, Andrzej Banburski, Qianli Liao, Tomaso Poggio
 
    _CBMM, memo 117, 2021_
 
-4. **[Understanding graph embedding methods and their applications]**(https://epubs.siam.org/doi/abs/10.1137/20M1386062)
+4. **[Understanding graph embedding methods and their applications](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
 
    **Mengjia Xu**
 
    _SIAM Review, 63(4), 825–853, 2021._
    
-5. **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks]**(https://epubs.siam.org/doi/abs/10.1137/20M1386062)
+5. **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
 
    **Mengjia Xu**, David Lopez Sanz, Pilar Garces, Fernando Maestu, Quanzheng Li, Dimitrios Pantazis
    
    _IEEE Transactions on Biomedical Engineering, 68(5), pp.1579-1588, 2021._
    
-6. **[A new Graph Gaussian embedding method for analyzing the effects of cognitive training]**(https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186)
+6. **[A new Graph Gaussian embedding method for analyzing the effects of cognitive training](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186)**
 
    **Mengjia Xu**, Zhijiang Wang, Haifeng Zhang, Dimitrios Pantazis, Huali Wang, Quanzheng Li
    
    _PLoS computational biology 16 (9), e1008186, 2020._
    
-7. **[Automated semantic segmentation of red blood cells for sickle cell disease]**(https://ieeexplore.ieee.org/abstract/document/9122550)
+7. **[Automated semantic segmentation of red blood cells for sickle cell disease](https://ieeexplore.ieee.org/abstract/document/9122550)**
      
    Mo Zhang, Xiang Li, **Mengjia Xu**, Quanzheng Li
    
    _IEEE Journal of Biomedical and Health Informatics 24 (11), 3095-3102, 2020_
    
-8. **[RBC semantic segmentation for sickle cell disease based on deformable U-Net]**(https://link.springer.com/chapter/10.1007/978-3-030-00937-3_79)
+8. **[RBC semantic segmentation for sickle cell disease based on deformable U-Net](https://link.springer.com/chapter/10.1007/978-3-030-00937-3_79)**
 
    Mo Zhang*, Xiang Li*, **Mengjia Xu***, Quanzheng Li
    
