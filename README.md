@@ -4,7 +4,7 @@
 
 <!--  above not used!!!-->
 
-I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, where I am advised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, Brown University. I also collaborate with Dr. Dimitrios Pantazis from the MEG lab at MIT and Prof. Quanzheng Li from MGH, Havrard Medical School on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction. I obtained my PhD degree from the Department of Computer Science, Northeastern University in Shenyang, China and spent two years as a joint PhD student in the Division of Applied Mathematics, Brown University in Providence, RI. During my PhD training, I spent the first two years working at Neusoft Research Institute on developing effective medical image analysis tools for human brain MRI imaging data analysis.
+I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, where I am advised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, Brown University. I also collaborate with [Dr. Dimitrios Pantazis] from the MEG lab at MIT and [Prof. Quanzheng Li] from MGH, Havrard Medical School on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction. I obtained my PhD degree from the Department of Computer Science, Northeastern University in Shenyang, China and the Division of Applied Mathematics (_two-year joint PhD student_), Brown University in Providence, RI. During my PhD training, I spent the first two years working at Neusoft Research Institute on developing effective medical image analysis tools for human brain MRI imaging data analysis.
 
 My research interests mainly focus on the **optimization of deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical imaging data analysis for diverse applications** (e.g., [microscopy red blood cell image segmentation and classifciation](), [diabetics retinal microaneurysm detection using AOSLO imaging](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction and non-pharmacological cognitive training effect assessment]().)
 
@@ -70,7 +70,7 @@ My research interests mainly focus on the **optimization of deep neural networks
    
    _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015_
 
-For more publications see [My Google Scholar](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).
+Please find more of my publications from [Google Scholar](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).
 
 ### Services
 
@@ -83,6 +83,14 @@ Reviewers for the Medical Image Analysis, SIAM Journal on Mathematics of Data Sc
 * (Fall 2021):  Mentoring two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & [Faduma Khalif]()) from EECS and BCS at MIT on the project - “Hyperbolic Graph Embedding for MEG Brain Network Analysis” in the MIT 9.58 course. (Course instructor: Prof. Tomaso Poggio). 
 
 * (Fall 2020):  Mentoring two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman)) from EECS and BCS at MIT on the project - “Learning Stochastic Graph Embeddings for Graph Analysis” in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
+
+(2020.03 ~ present) : Mentoring one first year PhD student (Qian Zhang, Division of Applied Mathematics at Brown) on the project - AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images” (Duration: 2020.01~2021.06, Paper submitted to JBHI) 
+
+(2020.12~present):  Mentoring one senior undergraduate intern ([Apoorva Vikram Singh](https://apoorvavsingh.github.io/), National Institute of Technology, Silchar) on the project - “DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs” (paper submitted to TNNLS 2021) and another ongoing work – “Dynamic Hyperbolic Graph Embedding (DynHypG2G)”.
+
+(2014.12~2016.06): mentoring one high school student intern (_Jacob Aranda_) from the [MET high school](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming.
+
+
 
 ### Contact
 
