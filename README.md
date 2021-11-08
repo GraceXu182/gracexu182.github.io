@@ -76,15 +76,15 @@ Please find more of my publications from [Google Scholar](https://scholar.google
 
 ## Presentations/Talks
 
-> 2021
+> **2021**
 > 
 > - 2021.9.20, present “Hyperbolic cognitive knowledge graph embedding for MEG brain network analysis with multimomics dataset” in the MIT 9.58 course (Instructor:   Prof. Tomaso Poggio). 
 > - 2021.9.16, attended the “Stanford Graph Learning Workshop 2021”. (Virtual) 
 > - 2021.9.16, attended the “TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”, our coauthored work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” being presented by Prof. Tomaso Poggio. (Virtual)
 > - 2021.2.13, gave a plenary talk on “A new stochastic graph embedding method for Alzheimer’s disease early‐stage prediction and intervention evaluation” in the IEEE EMBS Grand Challenges Forum: Data Science and Engineering in Healthcare. (Virtual)
 > - 2021.1.15, presented “nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation” at the Brown “Machine Learning +X” Crunch Seminar, invited by Prof. George Em Karniadakis at Brown University. (Virtual)  
-> 
-> 2020
+ 
+> **2020**
 >
 > - 2020.9.9, presented “Learning graph embeddings for network analysis” in the MIT 9.58 course (Fall 2020) for the projects in Science of Intelligence. (Virtual)
 > - 2020.7.31, presented “Understanding deep neural network-based Graph Embedding Methods” in MGH CAMCA group meeting (virtual), invited by Prof. Quanzheng Li from Harvard Medical School.
@@ -94,13 +94,13 @@ Please find more of my publications from [Google Scholar](https://scholar.google
 > - 2020.3.19, presented the work “MEG brain network Gaussian embeddings for predicting Alzheimer’s disease progression” in the online OHBMx Twitter conference (Cambridge, MA, USA)
 > - 2020.1.24, presented the work “A deep learning-based graph gaussian embedding method for the analysis of brain networks” in the Computation in Mind and Brain Seminar Series of Carney Institute for Brain Science at Brown University, hosted by Prof. Stephanie Jones. (Providence, RI, USA)
 
-> 2019
+> **2019**
 >
 > - 2019.11.18, presented the work “A novel multiple graph Gaussian embedding method to predict Alzheimer’s disease progression with MEG brain networks” in the MEG North America Workshop at NIH. (Bethesda, MD, USA)
 > - 2019.06.19, presented the work “Graph Embedding Method for Network Data Analysis” at AUV lab at MIT Sea Grant hosted by Prof. Chrys Chryssostomidis. (Cambridge, MA, USA)
 > - 2019.06.07, presented the work “Deep Learning-based Graph Gaussian Embedding Method” at Crunch Machine Learning Seminar, Division of Applied Mathematics, Brown University hosted by Prof. George Em Karniadakis. (Providence, RI, USA)
->
-> 2017
+
+> **2017**
 > 
 > - 2017.04.14, presented the work “Multiscale Imaging Analysis” at Massachusetts General Hospital invited by Prof. Quanzheng Li. (Boston, MA, USA)
 > - 2017.04.10-2017.04.12, present the work on “Automated, High-Throughput, ex-vivo Sickle Red Blood Cell Screening Assay Based on Deep Convolutional Neural Networks” in the 8th International Conference on Computational and Mathematical Biomedical Engineering (CMBE2017). (Pittsburgh, PA, USA)
