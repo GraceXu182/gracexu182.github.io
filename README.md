@@ -56,8 +56,7 @@ My research interests mainly focus on the **optimization of deep neural networks
    Mo Zhang*, Xiang Li*, **Mengjia Xu***, Quanzheng Li
    
    _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 695-702, 2018_
-   
-   
+    
 9. **[A deep convolutional neural network for classification of red blood cells in sickle cell anemia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005746)**
 
    **Mengjia Xu**, Dimitrios P Papageorgiou, Sabia Z Abidi, Ming Dao, Hong Zhao, George Em Karniadakis
@@ -69,7 +68,6 @@ My research interests mainly focus on the **optimization of deep neural networks
    **Mengjia Xu**, Jinzhu Yang, Dazhe Zhao, Hong Zhao
    
    _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015_
-
 
 For more publications see [My Google Scholar](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).
 
