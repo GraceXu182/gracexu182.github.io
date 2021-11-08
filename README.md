@@ -10,7 +10,7 @@ My research interests mainly focus on the **optimization of deep neural networks
 
 ### Recent Publications (* Co-first author)
 
-@ **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
+- **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
 
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis
     
