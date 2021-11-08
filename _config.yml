@@ -8,11 +8,18 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: "Mengjia Xu, CBMM, MIT, deep learning, optimization of deep neural networks, Graph embedding, AI" 
 baseurl: "/home" # the subpath of your site, e.g. /blog/
 url: "http://gracexu182.github.io" 
+
+#### personal info and site tools info:
 # twitter_username: xx_mengjia
 github_username:  GraceXu182
 email: mengjia@mit.edu
 aboutme_photo: https://i.imgur.com/15BT1.jpg
 
-# Build settings
+# site settings
+ShowContactInfo: "True"
+default_column: "two"
+default_locale: "en" 
+
+
 
 markdown: kramdown
