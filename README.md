@@ -1,10 +1,10 @@
 <!-- ## Welcome to Mengjia Xu's Pages -->
 
-Hi, I am Mengjia, a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, I am supervised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, Brown University. I obtained my PhD degree from the Department of Computer Science, Northeastern University at Shenyang, China and spent two years as a visiting phd student in the Division of Applied Mathematics, Brown University (Providence, RI). My research interests mainly focus on the optimization of deep neural networks, spatio-temporal graph representation learning, uncertainty quantification and multimodal biomedical imaging data analysis for diverse applications (e.g., [microscopy red blood cell image segmentation and classifciation](), [AOSLO imaging for diabetics retinal microaneurysm detection](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction]().)
+I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, I am supervised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, Brown University. I obtained my PhD degree from the Department of Computer Science, Northeastern University at Shenyang, China and spent two years as a visiting phd student in the Division of Applied Mathematics at Brown University in Providence, RI. My research interests mainly focus on the **optimization of deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification and multimodal biomedical imaging data analysis for diverse applications** (e.g., [microscopy red blood cell image segmentation and classifciation](), [AOSLO imaging for diabetics retinal microaneurysm detection](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction]()_.)
 
-### Publications
+### Recent Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```Selected Publications
 Syntax highlighted code block
@@ -20,8 +20,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
