@@ -63,12 +63,13 @@ My research interests mainly focus on the **optimization of deep neural networks
    **Mengjia Xu**, Dimitrios P Papageorgiou, Sabia Z Abidi, Ming Dao, Hong Zhao, George Em Karniadakis
    
    _PLoS computational biology 13 (10), e1005746, 2017_
-   
+
 10. **[An image-enhancement method based on variable-order fractional differential operators](https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1430)**
 
    **Mengjia Xu**, Jinzhu Yang, Dazhe Zhao, Hong Zhao
    
    _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015_
+
 
 
 For more publications see [My Google Scholar](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).
