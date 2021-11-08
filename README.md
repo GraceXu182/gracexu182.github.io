@@ -74,7 +74,14 @@ For more publications see [My Google Scholar](https://scholar.google.com/citatio
 
 ### Services
 
-Medical Image Analysis SIAM Journal on Mathematics of Data Science, , PLoS One, Computers in Biology and Medicine, Journal of Computational Physics, etc.
+Reviewers for the Medical Image Analysis, SIAM Journal on Mathematics of Data Science, PLoS One, Computers in Biology and Medicine, Journal of Computational Physics, etc.
+
+### Mentoring Jobs
+
+* (2021.09 ~ present): Master student (Cole S Baker, Master of Engineering, MIT) on the project – “Hyperbolic Knowledge Graph Embedding with Uncertainty Quantification for Alzheimer’s Disease Progression Prediction” (Collaborated with Dr. Dimitrios Pantazis and Prof. Fernando Maestú at Department of Experimental Psychology, Complutense University of Madrid)
+
+* (Fall 2021):  Mentoring two senior undergraduate students (Habeeb Salau& Faduma Khalif) from BCS at MIT on the project - “Hyperbolic Graph Embedding for MEG Brain Network Analysis” in the MIT 9.58 course. (Course instructor: Prof. Tomaso Poggio). 
+
 
 
 ### Contact
