@@ -78,9 +78,9 @@ Reviewers for the Medical Image Analysis, SIAM Journal on Mathematics of Data Sc
 
 ### Mentoring Jobs
 
-* (2021.09 ~ present): Master student (Cole S Baker, Master of Engineering, MIT) on the project – “Hyperbolic Knowledge Graph Embedding with Uncertainty Quantification for Alzheimer’s Disease Progression Prediction” (Collaborated with Dr. Dimitrios Pantazis and Prof. Fernando Maestú at Department of Experimental Psychology, Complutense University of Madrid)
+* (2021.09 ~ present): Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/), Master of Engineering, MIT) on the project – “Hyperbolic Knowledge Graph Embedding with Multiomics data for Alzheimer’s Disease Progression Prediction” (Collaborated with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/) at Department of Experimental Psychology, Complutense University of Madrid)
 
-* (Fall 2021):  Mentoring two senior undergraduate students (Habeeb Salau& Faduma Khalif) from BCS at MIT on the project - “Hyperbolic Graph Embedding for MEG Brain Network Analysis” in the MIT 9.58 course. (Course instructor: Prof. Tomaso Poggio). 
+* (Fall 2021):  Mentoring two senior undergraduate students (Habeeb Salau & Faduma Khalif) from BCS at MIT on the project - “Hyperbolic Graph Embedding for MEG Brain Network Analysis” in the MIT 9.58 course. (Course instructor: Prof. Tomaso Poggio). 
 
 
 
