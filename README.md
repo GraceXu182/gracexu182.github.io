@@ -4,7 +4,7 @@
 
 <!--  above not used!!!-->
 
-I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, where I am advised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, Brown University. I also collaborate with Dr. Dimitrios Pantazis from the MEG lab at MIT and Prof. Quanzheng Li from MGH, Havrard Medical School on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction. I obtained my PhD degree from the Department of Computer Science, Northeastern University in Shenyang, China and spent two years as a joint PhD student in the Division of Applied Mathematics, Brown University in Providence, RI. During my PhD training, I spent the first two years working at Neusoft Research Institute on developing efficient and effective medical image analysis tools for human brain MRI imaging data analysis.
+I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, where I am advised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, Brown University. I also collaborate with Dr. Dimitrios Pantazis from the MEG lab at MIT and Prof. Quanzheng Li from MGH, Havrard Medical School on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction. I obtained my PhD degree from the Department of Computer Science, Northeastern University in Shenyang, China and spent two years as a joint PhD student in the Division of Applied Mathematics, Brown University in Providence, RI. During my PhD training, I spent the first two years working at Neusoft Research Institute on developing effective medical image analysis tools for human brain MRI imaging data analysis.
 
 My research interests mainly focus on the **optimization of deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical imaging data analysis for diverse applications** (e.g., [microscopy red blood cell image segmentation and classifciation](), [diabetics retinal microaneurysm detection using AOSLO imaging](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction and non-pharmacological cognitive training effect assessment]().)
 
@@ -15,37 +15,47 @@ My research interests mainly focus on the **optimization of deep neural networks
     
     _Under review, submitted to TNNLS, 2021_
 
-2. [AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://arxiv.org/pdf/2106.02800.pdf)
+2. **[AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images]**(https://arxiv.org/pdf/2106.02800.pdf)
 
    Qian Zhang*, Konstantina Sampani*, **Mengjia Xu***, Shengze Cai, Yixiang Deng, He Li, Jennifer K Sun, George Em Karniadakis
    
    _Under Review, submitted to JBHI, 2021_
 
-3. [Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)[[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]
+3. **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss]**(https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)[**[Code]**(https://github.com/GraceXu182/binaryclassifiers_squareloss)]
 
    Akshay Rangamani, **Mengjia Xu**, Andrzej Banburski, Qianli Liao, Tomaso Poggio
 
    _CBMM, memo 117, 2021_
 
-4. [Understanding graph embedding methods and their applications](https://epubs.siam.org/doi/abs/10.1137/20M1386062)
+4. **[Understanding graph embedding methods and their applications]**(https://epubs.siam.org/doi/abs/10.1137/20M1386062)
 
    **Mengjia Xu**
 
    _SIAM Review, 63(4), 825–853, 2021._
    
-5. [A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks](https://epubs.siam.org/doi/abs/10.1137/20M1386062)
+5. **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks]**(https://epubs.siam.org/doi/abs/10.1137/20M1386062)
 
    **Mengjia Xu**, David Lopez Sanz, Pilar Garces, Fernando Maestu, Quanzheng Li, Dimitrios Pantazis
    
    _IEEE Transactions on Biomedical Engineering, 68(5), pp.1579-1588, 2021._
    
-6. [A new Graph Gaussian embedding method for analyzing the effects of cognitive training](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186)
+6. **[A new Graph Gaussian embedding method for analyzing the effects of cognitive training]**(https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186)
 
    **Mengjia Xu**, Zhijiang Wang, Haifeng Zhang, Dimitrios Pantazis, Huali Wang, Quanzheng Li
    
    _PLoS computational biology 16 (9), e1008186, 2020._
+   
+7. **[Automated semantic segmentation of red blood cells for sickle cell disease]**(https://ieeexplore.ieee.org/abstract/document/9122550)
      
+   Mo Zhang, Xiang Li, **Mengjia Xu**, Quanzheng Li
+   
+   _IEEE Journal of Biomedical and Health Informatics 24 (11), 3095-3102, 2020_
+   
+8. **[RBC semantic segmentation for sickle cell disease based on deformable U-Net]**(https://link.springer.com/chapter/10.1007/978-3-030-00937-3_79)
 
+   Mo Zhang*, Xiang Li*, **Mengjia Xu***, Quanzheng Li
+   
+   _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 695-702, 2018_
 
 
 For more publications see [My Google Scholar](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).
