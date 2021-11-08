@@ -9,7 +9,7 @@ I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](htt
 My research interests mainly focus on the **optimization of deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical imaging data analysis for diverse applications** (e.g., [microscopy red blood cell image segmentation and classifciation](), [diabetics retinal microaneurysm detection using AOSLO imaging](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction and non-pharmacological cognitive training effect assessment]().)
 
 ### Recent Publications (* Co-first author)
->**[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
+@ **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
 
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis
     
@@ -21,49 +21,49 @@ My research interests mainly focus on the **optimization of deep neural networks
    
    _Under Review, submitted to JBHI, 2021_
 
-3. **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)[[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]**
+@ **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)[[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]**
 
    Akshay Rangamani, **Mengjia Xu**, Andrzej Banburski, Qianli Liao, Tomaso Poggio
 
    _CBMM, memo 117, 2021_
 
-4. **[Understanding graph embedding methods and their applications](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
+@ **[Understanding graph embedding methods and their applications](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
 
    **Mengjia Xu**
 
    _SIAM Review, 63(4), 825–853, 2021._
    
-5. **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
+@ **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
 
    **Mengjia Xu**, David Lopez Sanz, Pilar Garces, Fernando Maestu, Quanzheng Li, Dimitrios Pantazis
    
    _IEEE Transactions on Biomedical Engineering, 68(5), 1579-1588, 2021._
    
-6. **[A new Graph Gaussian embedding method for analyzing the effects of cognitive training](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186)**
+@ **[A new Graph Gaussian embedding method for analyzing the effects of cognitive training](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186)**
 
    **Mengjia Xu**, Zhijiang Wang, Haifeng Zhang, Dimitrios Pantazis, Huali Wang, Quanzheng Li
    
    _PLoS computational biology 16 (9), e1008186, 2020._
    
-7. **[Automated semantic segmentation of red blood cells for sickle cell disease](https://ieeexplore.ieee.org/abstract/document/9122550)**
+@ **[Automated semantic segmentation of red blood cells for sickle cell disease](https://ieeexplore.ieee.org/abstract/document/9122550)**
      
    Mo Zhang*, Xiang Li*, **Mengjia Xu**, Quanzheng Li
    
    _IEEE Journal of Biomedical and Health Informatics 24 (11), 3095-3102, 2020_
    
-8. **[RBC semantic segmentation for sickle cell disease based on deformable U-Net](https://link.springer.com/chapter/10.1007/978-3-030-00937-3_79)**
+@ **[RBC semantic segmentation for sickle cell disease based on deformable U-Net](https://link.springer.com/chapter/10.1007/978-3-030-00937-3_79)**
 
    Mo Zhang*, Xiang Li*, **Mengjia Xu***, Quanzheng Li
    
    _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 695-702, 2018_
     
-9. **[A deep convolutional neural network for classification of red blood cells in sickle cell anemia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005746)**
+@ **[A deep convolutional neural network for classification of red blood cells in sickle cell anemia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005746)**
 
    **Mengjia Xu**, Dimitrios P Papageorgiou, Sabia Z Abidi, Ming Dao, Hong Zhao, George Em Karniadakis
    
    _PLoS computational biology 13 (10), e1005746, 2017_
 
-10. **[An image-enhancement method based on variable-order fractional differential operators](https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1430)**
+@ **[An image-enhancement method based on variable-order fractional differential operators](https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1430)**
 
    **Mengjia Xu**, Jinzhu Yang, Dazhe Zhao, Hong Zhao
    
