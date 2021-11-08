@@ -74,7 +74,7 @@ Please find more of my publications from [Google Scholar](https://scholar.google
 
 ### Services
 
-Reviewers for the Medical Image Analysis, SIAM Journal on Mathematics of Data Science, PLoS One, Computers in Biology and Medicine, Journal of Computational Physics, etc.
+Reviewer of the Medical Image Analysis, SIAM Journal on Mathematics of Data Science, PLoS One, Computers in Biology and Medicine, Journal of Computational Physics, etc.
 
 ### Mentoring Jobs
 
