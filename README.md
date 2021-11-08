@@ -84,11 +84,11 @@ Reviewers for the Medical Image Analysis, SIAM Journal on Mathematics of Data Sc
 
 * (Fall 2020):  Mentoring two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman)) from EECS and BCS at MIT on the project - “Learning Stochastic Graph Embeddings for Graph Analysis” in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
 
-(2020.03 ~ present) : Mentoring one first year PhD student (Qian Zhang, Division of Applied Mathematics at Brown) on the project - AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images” (Duration: 2020.01~2021.06, Paper submitted to JBHI) 
+* (2020.03 ~ present) : Mentoring one first year PhD student (Qian Zhang, Division of Applied Mathematics at Brown) on the project - AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images” (Duration: 2020.01~2021.06, Paper submitted to JBHI) 
 
-(2020.12~present):  Mentoring one senior undergraduate intern ([Apoorva Vikram Singh](https://apoorvavsingh.github.io/), National Institute of Technology, Silchar) on the project - “DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs” (paper submitted to TNNLS 2021) and another ongoing work – “Dynamic Hyperbolic Graph Embedding (DynHypG2G)”.
+* (2020.12~present):  Mentoring one senior undergraduate intern ([Apoorva Vikram Singh](https://apoorvavsingh.github.io/), National Institute of Technology, Silchar) on the project - “DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs” (paper submitted to TNNLS 2021) and another ongoing work – “Dynamic Hyperbolic Graph Embedding (DynHypG2G)”.
 
-(2014.12~2016.06): mentoring one high school student intern (_Jacob Aranda_) from the [MET high school](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming.
+* (2014.12~2016.06): mentoring one high school student intern (_Jacob Aranda_) from the [MET high school](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming.
 
 
 
