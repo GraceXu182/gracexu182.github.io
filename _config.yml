@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Postdoc Associate,
     Center for Brains, Minds and Machines, MIT in Cambridge, MA
 # keywords: "Mengjia Xu, CBMM, MIT, deep learning, optimization of deep neural networks, Graph embedding, AI" 
-baseurl: "/home" # the subpath of your site, e.g. /blog/
+# baseurl: "/home" # the subpath of your site, e.g. /blog/
 url: "http://gracexu182.github.io" 
 
 #### personal info and site tools info:
@@ -16,7 +16,7 @@ email: mengjia@mit.edu
 aboutme_photo: https://github.com/GraceXu182/gracexu182.github.io/tree/main/images/mjx.jpg
 
 # site settings
-# ShowContactInfo: "True"
+ShowContactInfo: "True"
 # default_column: "two"
 # default_locale: "en" 
 
