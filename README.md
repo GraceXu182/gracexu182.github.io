@@ -72,27 +72,39 @@ My research interests mainly focus on the **optimization of deep neural networks
 
 Please find more of my publications from [Google Scholar](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).
 
-### Services
+### Presentations/Talks
 
-Reviewers of the Medical Image Analysis, SIAM Journal on Mathematics of Data Science, PLoS One, Computers in Biology and Medicine, Journal of Computational Physics, etc.
+> 2021
+   > - mgh 
+   > - Brown
+   > - MIT
+   
+> 2020
+   > -
+
 
 ### Student Mentoring
 
-* (2021.09 ~ present): Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/), Master of EECS, MIT) on the project – “Hyperbolic Knowledge Graph Embedding with Multiomics data for Alzheimer’s Disease Progression Prediction” (Collaborated with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/) at Department of Experimental Psychology, Complutense University of Madrid)
+* (2021.09 ~ present): Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/), Master of EECS, MIT) on the project – _“Hyperbolic Knowledge Graph Embedding with Multiomics data for Alzheimer’s Disease Progression Prediction”_ (Collaborated with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/) at Department of Experimental Psychology, Complutense University of Madrid)
 
-* (Fall 2021):  Mentoring two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & [Faduma Khalif]()) from EECS and BCS at MIT on the project - “Hyperbolic Graph Embedding for MEG Brain Network Analysis” in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
+* (Fall 2021):  Mentoring two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & [Faduma Khalif]()) from EECS and BCS at MIT on the project - _“Hyperbolic Graph Embedding for MEG Brain Network Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
 
-* (Fall 2020):  Mentoring two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman)) from EECS and BCS at MIT on the project - “Learning Stochastic Graph Embeddings for Graph Analysis” in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
+* (Fall 2020):  Mentoring two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman)) from EECS and BCS at MIT on the project - _“Learning Stochastic Graph Embeddings for Graph Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
 
-* (2020.03 ~ present) : Mentoring one first year PhD student (Qian Zhang, Division of Applied Mathematics at Brown) on the project - AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images” (Duration: 2020.01~2021.06, Paper submitted to JBHI) 
+* (2020.03 ~ present) : Mentoring one first year PhD student ([Qian Zhang](https://appliedmath.brown.edu/people/qian-zhang), Division of Applied Mathematics at Brown University) on the project - _"AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images”_ (Duration: 2020.01~2021.06, Paper submitted to JBHI) 
 
-* (2020.12~present):  Mentoring one senior undergraduate intern ([Apoorva Vikram Singh](https://apoorvavsingh.github.io/), National Institute of Technology, Silchar) on the project - “DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs” (paper submitted to TNNLS 2021) and another ongoing work – “Dynamic Hyperbolic Graph Embedding (DynHypG2G)”.
+* (2020.12~present):  Mentoring one senior undergraduate intern ([Apoorva Vikram Singh](https://apoorvavsingh.github.io/), National Institute of Technology, Silchar) on the project - _“DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs”_ (paper submitted to TNNLS 2021) and another ongoing work – _“Dynamic Hyperbolic Graph Embedding (DynHypG2G)”_.
 
 * (2014.12~2016.06): mentoring one high school student intern (_Jacob Aranda_) from the [MET high school](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming.
 
+### Professional Services
+
+Reviewers of the Medical Image Analysis, SIAM Journal on Mathematics of Data Science, PLoS One, Computers in Biology and Medicine, Journal of Computational Physics, etc.
 
 
 ### Contact
 
-mengjia@mit.edu
+Address: [43 Vassar St, Cambridge, MA 02139, USA](https://www.google.com/maps/place/Brain+and+Cognitive+Sciences+Complex,+43+Vassar+St,+Cambridge,+MA+02139/@42.3623024,-71.0939546,17z/data=!3m1!4b1!4m5!3m4!1s0x89e370abfd23371f:0x6de0e79d1bce9bf7!8m2!3d42.3623024!4d-71.0917659)
+
+Email: mengjia@mit.edu
 
