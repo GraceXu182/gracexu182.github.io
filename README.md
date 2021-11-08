@@ -5,7 +5,7 @@ I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](htt
 My research interests mainly focus on the **optimization of deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical imaging data analysis for diverse applications** (e.g., [microscopy red blood cell image segmentation and classifciation](), [diabetics retinal microaneurysm detection using AOSLO imaging](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction and non-pharmacological cognitive training effect assessment]().)
 
 ### Projects
-**[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
+**[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**<\br>
 Mengjia Xu, Apoorva Vikram Singh, George Em Karniadakis
 ![Main architecture](https://github.com/GraceXu182/gracexu182.github.io/blob/main/images/DynG2G_workflow.png)
 
