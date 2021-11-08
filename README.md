@@ -12,6 +12,12 @@ My research interests mainly focus on the **optimization of deep neural networks
 
 ## Recent Publications (* Co-first author)
 
+- **[Understanding graph embedding methods and their applications](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
+
+   **Mengjia Xu**
+
+   _SIAM Review, 63(4), 825–853, 2021._ [[Paper](papers/)], [[Bibtex]()]
+
 - **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
 
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
@@ -29,12 +35,6 @@ My research interests mainly focus on the **optimization of deep neural networks
    Akshay Rangamani, **Mengjia Xu**, Andrzej Banburski, Qianli Liao, Tomaso Poggio
 
    _CBMM, memo 117, 2021_ [[Paper](papers/)], [[Bibtex]()]
-
-- **[Understanding graph embedding methods and their applications](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
-
-   **Mengjia Xu**
-
-   _SIAM Review, 63(4), 825–853, 2021._ [[Paper](papers/)], [[Bibtex]()]
    
 - **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
 
