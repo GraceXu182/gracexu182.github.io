@@ -80,7 +80,7 @@ My research interests mainly focus on the **optimization of deep neural networks
    
    _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015._ [[Paper](Papers/2015_fractional.pdf)], [[Bibtex]()]
 
-(Please find more of my publications from [`**Google Scholar**`](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).)
+(Please find more of my publications from [`Google Scholar`](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).)
 
 ## Presentations & Talks
 
