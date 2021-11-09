@@ -30,11 +30,11 @@ My research interests mainly focus on the **optimization of deep neural networks
    
    _Under Review, submitted to JBHI, 2021._ [[Paper](Papers/2021_AOSLOnet.pdf)], [[Bibtex]()]
 
-- **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)[[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]**
+- **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)
 
    Akshay Rangamani, **Mengjia Xu**, Andrzej Banburski, Qianli Liao, Tomaso Poggio
 
-   _CBMM, memo 117, 2021._ [[Paper](Papers/2021_NC_dynamics_binary_CIFAR10.pdf)], [[Bibtex]()]
+   _CBMM, memo 117, 2021._ [[Paper](Papers/2021_NC_dynamics_binary_CIFAR10.pdf)], [[Bibtex]()], [[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]
    
 - **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
 
