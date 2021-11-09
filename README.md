@@ -40,7 +40,7 @@ My research interests mainly focus on the **optimization of deep neural networks
 
    **Mengjia Xu**, David Lopez Sanz, Pilar Garces, Fernando Maestu, Quanzheng Li, Dimitrios Pantazis
    
-   _IEEE Transactions on Biomedical Engineering, 68(5), 1579-1588, 2021._ [[Paper](Papers/2021_MEG_AD_progression.pdf)], [[Bibtex]()]
+   _IEEE Transactions on Biomedical Engineering, 68(5), 1579-1588, 2021._ [[Paper](Papers/2021_MEG_AD_progression.pdf)], [[Bibtex]()], [[Code](https://github.com/GraceXu182/BrainNetEmb)]
   
  > **2020**
  
@@ -54,7 +54,7 @@ My research interests mainly focus on the **optimization of deep neural networks
      
    Mo Zhang*, Xiang Li*, **Mengjia Xu**, Quanzheng Li
    
-   _IEEE Journal of Biomedical and Health Informatics 24 (11), 3095-3102, 2020._ [[Paper](Papers/2020_RBC_JBHI.pdf)], [[Bibtex]()]
+   _IEEE Journal of Biomedical and Health Informatics 24 (11), 3095-3102, 2020._ [[Paper](Papers/2020_RBC_JBHI.pdf)], [[Bibtex]()], [[Code](https://github.com/moliqingcha/Deformable-U-Net)]
    
 - **[ Multi-label detection and classification of red blood cells in microscopic images](https://ieeexplore.ieee.org/abstract/document/9122550)**
      
