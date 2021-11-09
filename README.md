@@ -66,7 +66,7 @@ My research interests mainly focus on the **optimization of deep neural networks
 
    Mo Zhang*, Xiang Li*, **Mengjia Xu***, Quanzheng Li
    
-   _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 695-702, 2018._ [[Paper](Papers/2018_MICCAI_RBC.pdf)], [[Bibtex]()]
+   _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 695-702, 2018._ [[Paper](Papers/2018_MICCAI_RBC.pdf)], [[Bibtex]()], [[Code]()]
     
 - **[A deep convolutional neural network for classification of red blood cells in sickle cell anemia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005746)** 
 
@@ -80,17 +80,17 @@ My research interests mainly focus on the **optimization of deep neural networks
    
    _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015._ [[Paper](Papers/2015_fractional.pdf)], [[Bibtex]()]
 
-(Please find more of my publications from [`Google Scholar`](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).)`
+(Please find more of my publications from [`**Google Scholar**`](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).)
 
 ## Presentations & Talks
 
 > **2021**
 > 
 > - 2021.9.20, present “Hyperbolic cognitive knowledge graph embedding for MEG brain network analysis with multimomics dataset” in the MIT 9.58 course (Instructor:   Prof. Tomaso Poggio). 
-> - 2021.9.16, attended the “Stanford Graph Learning Workshop 2021”. (Virtual) 
-> - 2021.9.16, attended the “TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”, our coauthored work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” being presented by Prof. Tomaso Poggio. (Virtual)
-> - 2021.2.13, gave a plenary talk on “A new stochastic graph embedding method for Alzheimer’s disease early‐stage prediction and intervention evaluation” in the IEEE EMBS Grand Challenges Forum: Data Science and Engineering in Healthcare. (Virtual)
-> - 2021.1.15, presented “nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation” at the Brown “Machine Learning +X” Crunch Seminar, invited by Prof. George Em Karniadakis at Brown University. (Virtual)  
+> - 2021.9.16, attended the [“Stanford Graph Learning Workshop 2021”](https://snap.stanford.edu/graphlearning-workshop/index.html). (Virtual) 
+> - 2021.4.20-21, attended the [“TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”](https://topml.rice.edu/), our work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” being presented by Prof. Tomaso Poggio. (Virtual)
+> - 2021.2.13, gave a plenary talk on “A new stochastic graph embedding method for Alzheimer’s disease early‐stage prediction and intervention evaluation” in the [IEEE EMBS Grand Challenges Forum: Data Science and Engineering in Healthcare](https://grand-challenges.embs.org/2021datascience/). (Virtual)
+> - 2021.1.15, presented “nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation” at the [“Machine Learning +X” Crunch Seminar](https://www.brown.edu/research/projects/crunch/machine-learning-x-seminars), invited by Prof. George Em Karniadakis at Brown University. (Virtual)  
  
 > **2020**
 >
