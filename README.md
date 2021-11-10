@@ -4,11 +4,14 @@
 
 <!--  above not used!!!-->
 <!-- # Biography -->
+# Welcome to Mengjia Xu's Home Page!
 I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, where I am advised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) in Providence, RI. I also collaborate with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) from [the MEG lab (part of the Athinoula A. Martinos Imaging Center) at MIT](http://www.pantazislab.org/) and [Prof. Quanzheng Li](https://gordon.mgh.harvard.edu/gc/people/faculty/quanzheng-li/) from [Massachusetts Gerneral Hospital, Havrard Medical School (Boston, MA, US)](https://hms.harvard.edu/affiliates/massachusetts-general-hospital) on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction. I obtained my PhD degree from the Department of Computer Science, [Northeastern University](http://english.neu.edu.cn/3551/list.htm) in Shenyang, China (My advisor is Prof. Hong Zhao, Co-founder of the [Neusoft Corporation](https://www.neusoft.com/)) and spent _two years_ as _a joint PhD_ in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) in Providence, RI. During my PhD training, I spent the first two years working at [Neusoft Research Institute](https://www.neusoft.com/) on developing effective medical image analysis tools for human brain MRI imaging data analysis. 
 
 My research interests mainly focus on the **optimization of deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical imaging data analysis for diverse applications** (e.g., [microscopy red blood cell image segmentation and classifciation](), [diabetics retinal microaneurysm detection using AOSLO imaging](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction and non-pharmacological cognitive training effect assessment]().)
 
-## Recent Publications (* Co-first author)
+## Selected Publications (* Co-first author)
+
+### _List of all publications at_ [_Google Scholar_](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en)
 
 > **2021**
 
@@ -79,8 +82,6 @@ My research interests mainly focus on the **optimization of deep neural networks
    **Mengjia Xu**, Jinzhu Yang, Dazhe Zhao, Hong Zhao
    
    _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015._ [[Paper](Papers/2015_fractional.pdf)], [[Bibtex]()]
-
-(Please find more of my publications from [`Google Scholar`](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en).)
 
 ## Presentations & Talks
 
