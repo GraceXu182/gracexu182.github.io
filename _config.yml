@@ -13,7 +13,7 @@ url: "http://gracexu182.github.io"
 # twitter_username: xx_mengjia
 github_username:  GraceXu182
 email: mengjia@mit.edu
-aboutme_photo: https://github.com/GraceXu182/gracexu182.github.io/tree/main/images/mjx.jpg
+aboutme_photo: images/mjx.jpg
 
 # site settings
 ShowContactInfo: "True"
@@ -22,4 +22,4 @@ ShowContactInfo: "True"
 
 
 
-# markdown: kramdown
+markdown: kramdown
