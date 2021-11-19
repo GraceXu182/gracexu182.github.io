@@ -95,19 +95,19 @@ My current research interests include the **optimization of deep neural networks
  
 > **2020**
 >
-> - 2020.9.9, presented “Learning graph embeddings for network analysis” in the MIT 9.58 course (Fall 2020) for the projects in Science of Intelligence. (Virtual)
-> - 2020.7.31, presented “Understanding deep neural network-based Graph Embedding Methods” in MGH CAMCA group meeting (virtual), invited by Prof. Quanzheng Li from Harvard Medical School.
-> - 2020.7.28, presented a poster “A New Stochastic Graph Embedding Method for Alzheimer’s Disease Early-Stage Prediction and Intervention Evaluation” in the [AAIC 2020](https://aaic2020.vfairs.com/) (Virtual Conference)
-> - 2020.6.12, presented “Overview of self-supervised learning” in MGH CAMCA group meeting (virtual), invited by Prof. Quanzheng Li at Harvard Medical School
-> - 2020.3.30, presented the work “A deep learning-based graph embedding method for the analysis of brain networks” in [Poggio Lab](https://poggio-lab.mit.edu/) meeting, invited by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) at MIT (Cambridge, MA, USA)
-> - 2020.3.19, presented the work “MEG brain network Gaussian embeddings for predicting Alzheimer’s disease progression” in the online [OHBM EQUINOX TWITTER CONFERENCE](https://ohbmx.org/) (Cambridge, MA, USA)
+> - 2020.9.9, presented “Learning graph embeddings for network analysis” in the[ MIT 9.58 course (Fall 2020) for the projects in Science of Intelligence](https://cbmm.mit.edu/9-58/2020/course-overview). (Virtual)
+> - 2020.7.31, presented “Understanding deep neural network-based Graph Embedding Methods” in MGH CAMCA group meeting, invited by Prof. Quanzheng Li from Harvard Medical School. (Virtual)
+> - 2020.7.28, presented a poster “A New Stochastic Graph Embedding Method for Alzheimer’s Disease Early-Stage Prediction and Intervention Evaluation” in the [AAIC 2020](https://aaic2020.vfairs.com/). (Virtual)
+> - 2020.6.12, presented “Overview of self-supervised learning” in MGH CAMCA group meeting (virtual), invited by Prof. Quanzheng Li at Harvard Medical School. (Virtual)
+> - 2020.3.30, presented the work “A deep learning-based graph embedding method for the analysis of brain networks” in [Poggio Lab](https://poggio-lab.mit.edu/) meeting, invited by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) at MIT. (Cambridge, MA, USA)
+> - 2020.3.19, presented the work “MEG brain network Gaussian embeddings for predicting Alzheimer’s disease progression” in the online [OHBM EQUINOX TWITTER CONFERENCE](https://ohbmx.org/). (Cambridge, MA, USA)
 > - 2020.1.24, presented the work “A deep learning-based graph gaussian embedding method for the analysis of brain networks” in the Computation in Mind and Brain Seminar Series of [Carney Institute for Brain Science](https://www.brown.edu/carney/node/1) at [Brown University](https://www.brown.edu/), hosted by [Prof. Stephanie Jones](https://vivo.brown.edu/display/srj3). (Providence, RI, USA)
 
 > **2019**
 >
 > - 2019.11.18, presented the work “A novel multiple graph Gaussian embedding method to predict Alzheimer’s disease progression with MEG brain networks” in the [MEG North America Workshop](https://megcore.nih.gov/index.php/MEG_North_America_Workshop) at NIH. (Bethesda, MD, USA)
 > - 2019.06.19, presented the work “Graph Embedding Method for Network Data Analysis” at AUV lab at [MIT Sea Grant](https://seagrant.mit.edu/) hosted by [Prof. Chrys Chryssostomidis](http://meche.mit.edu/people/faculty/CHRYS@MIT.EDU). (Cambridge, MA, USA)
-> - 2019.06.07, presented the work “Deep Learning-based Graph Gaussian Embedding Method” at Crunch Machine Learning Seminar, Division of Applied Mathematics, Brown University hosted by Prof. George Em Karniadakis. (Providence, RI, USA)
+> - 2019.06.07, presented the work “Deep Learning-based Graph Gaussian Embedding Method” at Crunch Machine Learning + X Seminar, Division of Applied Mathematics, Brown University hosted by [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis). (Providence, RI, USA)
 
 > **2017**
 > 
@@ -117,9 +117,9 @@ My current research interests include the **optimization of deep neural networks
 
 ## Student Mentoring
 
-* (2021.09 ~ present): Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/), Master of EECS, MIT) on the project – _“Hyperbolic Knowledge Graph Embedding with Multiomics data for Alzheimer’s Disease Progression Prediction”_ (Collaborated with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/) at Department of Experimental Psychology, Complutense University of Madrid)
+* (2021.09 ~ present): Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/), Master of EECS, MIT) on the project – _“Hyperbolic Graph COnvolutional Neural Networks for Alzheimer’s Disease Prediction  with Multimodal MEG Dataset”_ (Collaborated with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/) at Department of Experimental Psychology, Complutense University of Madrid)
 
-* (Fall 2021):  Mentoring two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & [Faduma Khalif]()) from EECS and BCS at MIT on the project - _“Hyperbolic Graph Embedding for MEG Brain Network Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
+* (Fall 2021):  Mentoring two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & Faduma Khalif) from EECS and BCS at MIT on the project - _“Deep Neural Network-based Graph Embedding for MEG Brain Network Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
 
 * (Fall 2020):  Mentoring two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman)) from EECS and BCS at MIT on the project - _“Learning Stochastic Graph Embeddings for Graph Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course instructor: Prof. Tomaso Poggio). 
 
