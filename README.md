@@ -43,7 +43,7 @@ My current research interests include the **optimization of deep neural networks
 
    **Mengjia Xu**, David Lopez Sanz, Pilar Garces, Fernando Maestu, Quanzheng Li, Dimitrios Pantazis
    
-   _IEEE Transactions on Biomedical Engineering, 68(5), 1579-1588, 2021._ [[Paper](Papers/2021_MEG_AD_progression.pdf)], [[Bibtex]()], [[Code](https://github.com/GraceXu182/BrainNetEmb)]
+   _IEEE Transactions on Biomedical Engineering, 68(5), 1579-1588, 2021._ [[Paper](Papers/2021_MEG_AD_progression.pdf)], [[Bibtex]()]
   
  > **2020**
  
