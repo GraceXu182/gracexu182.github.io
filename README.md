@@ -131,8 +131,15 @@ My current research interests include the **optimization of deep neural networks
 
 ## Professional Services
 
-Reviewers of the Medical Image Analysis, SIAM Journal on Mathematics of Data Science, PLoS One, Computers in Biology and Medicine, Journal of Computational Physics, etc.
+**Reviewers**:
 
+- Medical Image Analysis
+- SIAM Journal on Mathematics of Data Science
+- PLoS One
+- International World Wide Web Conference (WWW)
+- MICCAI
+- Computers in Biology and Medicine
+- Journal of Computational Physics
 
 ## Contact
 
