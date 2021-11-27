@@ -39,7 +39,7 @@ My current research interests include the **optimization of deep neural networks
 
    _CBMM, memo 117, 2021._ [[Paper](Papers/2021_NC_dynamics_binary_CIFAR10.pdf)], [[Bibtex]()], [[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]
    
-- **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
+- **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks]()**
 
    **Mengjia Xu**, David Lopez Sanz, Pilar Garces, Fernando Maestu, Quanzheng Li, Dimitrios Pantazis
    
