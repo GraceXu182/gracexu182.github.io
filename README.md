@@ -106,6 +106,7 @@ My current research interests include the **optimization of deep neural networks
 > **2019**
 >
 > - 2019.11.18, presented the work “A novel multiple graph Gaussian embedding method to predict Alzheimer’s disease progression with MEG brain networks” in the [MEG North America Workshop](https://megcore.nih.gov/index.php/MEG_North_America_Workshop) at NIH. (Bethesda, MD, USA)
+> 2019.9.24, presented a poster on "Graph Gaussian embedding method for predicting Alzheimer’s disease progression with MEG brain networks" in the [MIT Quest for Intelligence Workshop](https://quest.mit.edu/). (Cambridge, MA, USA)
 > - 2019.06.19, presented the work “Graph Embedding Method for Network Data Analysis” at AUV lab at [MIT Sea Grant](https://seagrant.mit.edu/) hosted by [Prof. Chrys Chryssostomidis](http://meche.mit.edu/people/faculty/CHRYS@MIT.EDU). (Cambridge, MA, USA)
 > - 2019.06.07, presented the work “Deep Learning-based Graph Gaussian Embedding Method” at Crunch Machine Learning + X Seminar, Division of Applied Mathematics, Brown University hosted by [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis). (Providence, RI, USA)
 
