@@ -96,7 +96,7 @@ My current research interests include the **optimization of deep neural networks
 > **2020**
 >
 > - 2020.9.9, presented “Learning graph embeddings for network analysis” in the[ MIT 9.58 course (Fall 2020) for the projects in Science of Intelligence](https://cbmm.mit.edu/9-58/2020/course-overview). (Virtual)
-> - 2020.7.31, presented “Understanding deep neural network-based Graph Embedding Methods” in MGH CAMCA group meeting, invited by Prof. Quanzheng Li from Harvard Medical School. (Virtual)
+> - 2020.7.31, presented “Understanding deep neural network-based Graph Embedding Methods” in [MGH CAMCA group meeting](https://projects.iq.harvard.edu/camca), invited by Prof. Quanzheng Li from Harvard Medical School. (Virtual)
 > - 2020.7.28, presented a poster “A New Stochastic Graph Embedding Method for Alzheimer’s Disease Early-Stage Prediction and Intervention Evaluation” in the [AAIC 2020](https://aaic2020.vfairs.com/). (Virtual)
 > - 2020.6.12, presented “Overview of self-supervised learning” in [MGH CAMCA group](https://projects.iq.harvard.edu/camca) meeting (virtual), invited by Prof. Quanzheng Li at Harvard Medical School. (Virtual)
 > - 2020.3.30, presented the work “A deep learning-based graph embedding method for the analysis of brain networks” in [Poggio Lab](https://poggio-lab.mit.edu/) meeting, invited by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) at MIT. (Cambridge, MA, USA)
