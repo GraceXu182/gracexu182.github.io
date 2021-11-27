@@ -111,21 +111,19 @@ My current research interests include the **optimization of deep neural networks
 
 > **2017**
 > 
-> - 2017.04.14, presented the work “Multiscale Imaging Analysis” at Massachusetts General Hospital, Harvard Medical School, invited by Prof. Quanzheng Li. (Boston, MA, USA)
+> - 2017.04.14, presented the work “Multiscale Imaging Analysis” at [Massachusetts General Hospital, Harvard Medical School](https://hms.harvard.edu/affiliates/massachusetts-general-hospital), invited by Prof. Quanzheng Li. (Boston, MA, USA)
 > - 2017.04.10-2017.04.12, present the work on “Automated, High-Throughput, ex-vivo Sickle Red Blood Cell Screening Assay Based on Deep Convolutional Neural Networks” in the [8th International Conference on Computational and Mathematical Biomedical Engineering (CMBE2017)](https://www.compbiomed.net/2017/index.htm). (Pittsburgh, PA, USA)
 
 > **2016**
 > 
-> - 2016.11.10-2016.11.12, attended the 18th National Conference on Image and Graphics (NCIG'2016) hosted by Prof. Tieniu Tan, vice president of Chinese Academy of Sciences (CAS). (Nanning, Guangxi, China).
-> -	2016.10.28-2016.10.30, attended the 4th Annual Meeting of SCCT (Society of Cardiovascular Computed Tomography) China IRC directed by Prof. Bin Lv, director of Radiology Department of Beijing Fuwai Hospital and CAMS&PUMC. (Beijing, China).
-> -	2016.06.02-2016.06.03, attended the 10th Sickle Cell in Focus Conference at NIH, co-hosted by National Heart, Lung and Blood Institutes (NHLBI) in Washington, DC and the South Thames Sickle Cell & Thalassaemia Network (STSTN) in London, UK. (Bethesda, MD, USA)
-> - 2016.02.12-2016.02.14, presented a poster on “Thoracic aorta dissection image segmentation based on deep convolutional neural network” in the 8th International Bio-Fluid Symposium held at California Institute of Technology hosted by Prof. Shmuel Einav and Prof. Mory Gharib at Caltech. (Pasadena, CA, USA)
+> -	2016.06.02-2016.06.03, attended the [10th Sickle Cell in Focus Conference](https://www.nhlbi.nih.gov/events/4933) at NIH, co-hosted by National Heart, Lung and Blood Institutes (NHLBI) in Washington, DC and the South Thames Sickle Cell & Thalassaemia Network (STSTN) in London, UK. (Bethesda, MD, USA)
+> - 2016.02.12-2016.02.14, presented a poster on “Thoracic aorta dissection image segmentation based on deep convolutional neural network” in the [8th International Bio-Fluid Symposium](https://mede.caltech.edu/biofluid_symposium_2016) held at [Caltech](https://www.caltech.edu/) hosted by Prof. Shmuel Einav and Prof. Mory Gharib at Caltech. (Pasadena, CA, USA)
 
 > **2015**
 > 
-> -	2015.11.28-2015.12.04, presented the work on “An image-enhancement method based on variable order fractional differential operators” in the Imaging Seminar at Scientific Computing and Imaging Institute (SCI) at University of Utah and visited SCI for one week, hosted by Prof. Mike Kirby. (Salt Lake City, UT, USA).
-> -	2015.08.03 - 2015.08.07, attended MIT Professional Education short programs course on “Advances in Imaging: Emerging Devices and Visual Mining” directed by Prof. Ramesh Raskar (MIT Media Lab's Camera Culture research group) at MIT. (Cambridge, MA, USA).
-> -	2015.07.28 - 2015.07.30, attended the ICERM workshop on “Mathematics in Data Science” at Brown University. (Providence, RI, USA).
+> -	2015.11.28-2015.12.04, presented the work on “An image-enhancement method based on variable order fractional differential operators” in the Imaging Seminar at [Scientific Computing and Imaging Institute (SCI)](https://www.sci.utah.edu/) at [University of Utah](https://www.utah.edu/) and visited SCI for one week, hosted by Prof. Mike Kirby. (Salt Lake City, UT, USA).
+> -	2015.08.03 - 2015.08.07, attended MIT Professional Education short programs course on [“Advances in Imaging: Emerging Devices and Visual Mining”](https://professional.mit.edu/course-catalog/advances-imaging-and-machine-learning-medical-vr-ar-and-self-driving-cars) directed by Prof. Ramesh Raskar (MIT Media Lab's Camera Culture research group) at MIT. (Cambridge, MA, USA).
+> -	2015.07.28 - 2015.07.30, attended the [ICERM workshop on “Mathematics in Data Science”](https://icerm.brown.edu/programs/) at Brown University. (Providence, RI, USA).
 
 ## Student Mentoring
 
