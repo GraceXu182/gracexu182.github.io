@@ -115,6 +115,17 @@ My current research interests include the **optimization of deep neural networks
 > - 2017.04.10-2017.04.12, present the work on “Automated, High-Throughput, ex-vivo Sickle Red Blood Cell Screening Assay Based on Deep Convolutional Neural Networks” in the [8th International Conference on Computational and Mathematical Biomedical Engineering (CMBE2017)](https://www.compbiomed.net/2017/index.htm). (Pittsburgh, PA, USA)
 
 
+> **2016**
+> 
+> - 2016.11.10-2016.11.12, attended the 18th National Conference on Image and Graphics (NCIG'2016) hosted by Prof. Tieniu Tan, vice president of Chinese Academy of Sciences (CAS). (Nanning, Guangxi, China).
+> -	2016.10.28-2016.10.30, attended the 4th Annual Meeting of SCCT (Society of Cardiovascular Computed Tomography) China IRC directed by Prof. Bin Lv, director of Radiology Department of Beijing Fuwai Hospital and CAMS&PUMC. (Beijing, China).
+> -	2016.06.02-2016.06.03, attended the 10th Sickle Cell in Focus Conference at NIH, co-hosted by National Heart, Lung and Blood Institutes (NHLBI) in Washington, DC and the South Thames Sickle Cell & Thalassaemia Network (STSTN) in London, UK. (Bethesda, MD, USA)
+> - 2016.02.12-2016.02.14, presented a poster on “Thoracic aorta dissection image segmentation based on deep convolutional neural network” in the 8th International Bio-Fluid Symposium held at California Institute of Technology hosted by Prof. Shmuel Einav and Prof. Mory Gharib at Caltech. (Pasadena, CA, USA)
+> -	2015.11.28-2015.12.04, present the work on “An image-enhancement method based on variable order fractional differential operators” in the Imaging Seminar at Scientific Computing and Imaging Institute (SCI) at University of Utah and visited SCI for one week, hosted by Prof. Mike Kirby. (Salt Lake City, UT, USA).
+> -	2015.08.03 - 2015.08.07, attended MIT Professional Education short programs course on “Advances in Imaging: Emerging Devices and Visual Mining” directed by Prof. Ramesh Raskar (head of the MIT Media Lab's Camera Culture research group) at MIT. (Cambridge, MA, USA).
+> -	2015.07.28 - 2015.07.30, attended the ICERM workshop on “Mathematics in Data Science” at Brown University. (Providence, RI, USA).
+> - 2014.05.07-2014.05.09, attended 2014 International Conference on Scientific Computing at Extreme Scales in Shanghai Jiao Tong University. (Shanghai, China)
+
 ## Student Mentoring
 
 * (2021.09 ~ present): Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/), EECS, MIT) on the project – _“Hyperbolic Graph COnvolutional Neural Networks for Alzheimer’s Disease Prediction with Multimodal MEG Dataset”_ (working with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/) at Department of Experimental Psychology, Complutense University of Madrid)
