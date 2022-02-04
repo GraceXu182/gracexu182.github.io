@@ -87,7 +87,7 @@ My current research interests include the **optimization of deep neural networks
 
 > **2021**
 > 
-> - 2021.9.20, present “Hyperbolic graph embedding for MEG brain network analysis with multiomics dataset” in the MIT 9.58 course (Instructor:   Prof. Tomaso Poggio). 
+> - 2021.9.20, present “Hyperbolic graph embedding for MEG brain network analysis with multiomics dataset” in the [MIT 9.58 course (Fall 2021)](https://cbmm.mit.edu/9-58/2021) (Instructor:   Prof. Tomaso Poggio). 
 > - 2021.9.16, attended the [“Stanford Graph Learning Workshop 2021”](https://snap.stanford.edu/graphlearning-workshop/index.html). (Virtual) 
 > - 2021.4.20-21, attended the [“TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”](https://topml.rice.edu/), our work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” being presented by Prof. Tomaso Poggio. (Virtual)
 > - 2021.2.13, gave a plenary talk on “A new stochastic graph embedding method for Alzheimer’s disease early‐stage prediction and intervention evaluation” in the [IEEE EMBS Grand Challenges Forum: Data Science and Engineering in Healthcare](https://grand-challenges.embs.org/2021datascience/). (Virtual)
@@ -95,7 +95,7 @@ My current research interests include the **optimization of deep neural networks
  
 > **2020**
 >
-> - 2020.9.9, presented “Learning graph embeddings for network analysis” in the[ MIT 9.58 course (Fall 2020) for the projects in Science of Intelligence](https://cbmm.mit.edu/9-58/2020/course-overview). (Virtual)
+> - 2020.9.9, presented “Learning graph embeddings for network analysis” in the[ MIT 9.58 course (Fall 2020) for the projects in Science of Intelligence](https://cbmm.mit.edu/9-58/2020/course-overview). (Instructor: Prof. Tomaso Poggio)
 > - 2020.7.31, presented “Understanding deep neural network-based Graph Embedding Methods” in [MGH CAMCA group meeting](https://projects.iq.harvard.edu/camca), invited by Prof. Quanzheng Li from Harvard Medical School. (Virtual)
 > - 2020.7.28, presented a poster “A New Stochastic Graph Embedding Method for Alzheimer’s Disease Early-Stage Prediction and Intervention Evaluation” in the [AAIC 2020](https://aaic2020.vfairs.com/). (Virtual)
 > - 2020.6.12, presented “Overview of self-supervised learning” in [MGH CAMCA group](https://projects.iq.harvard.edu/camca) meeting (virtual), invited by Prof. Quanzheng Li at Harvard Medical School. (Virtual)
