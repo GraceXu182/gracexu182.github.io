@@ -123,7 +123,7 @@ My current research interests include the **optimization of deep neural networks
 
 > **2015**
 > 
-> -	2015.11.28-2015.12.04, presented the work on “An image-enhancement method based on variable order fractional differential operators” in the Imaging Seminar at [Scientific Computing and Imaging Institute (SCI)](https://www.sci.utah.edu/) at [University of Utah](https://www.utah.edu/) and visited SCI for one week, hosted by Prof. Mike Kirby. (Salt Lake City, UT, USA).
+> -	2015.11.28-2015.12.04, presented the work on “An image-enhancement method based on variable order fractional differential operators” in the Imaging Seminar at [Scientific Computing and Imaging Institute (SCI)](https://www.sci.utah.edu/) at [University of Utah](https://www.utah.edu/) and visited SCI for one week, hosted by [Prof. Mike Kirby](https://www.cs.utah.edu/~kirby/). (Salt Lake City, UT, USA).
 > -	2015.08.03 - 2015.08.07, attended MIT Professional Education short programs course on [“Advances in Imaging: Emerging Devices and Visual Mining”](https://professional.mit.edu/course-catalog/advances-imaging-and-machine-learning-medical-vr-ar-and-self-driving-cars) directed by Prof. Ramesh Raskar (MIT Media Lab's Camera Culture research group) at MIT. (Cambridge, MA, USA).
 > -	2015.07.28 - 2015.07.30, attended the [ICERM workshop on “Mathematics in Data Science”](https://icerm.brown.edu/programs/) at Brown University. (Providence, RI, USA).
 
