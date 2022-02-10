@@ -85,6 +85,11 @@ My current research interests include the **optimization of deep neural networks
 
 ## Presentations & Talks
 
+> **2022**
+
+> - 2022.2.22, to give a talk for the “AI + Math” Colloquia in the [Institute of Natural Sciences, Shanghai Jiao Tong University](https://ins.sjtu.edu.cn/).
+> - 2022.2.2, presented “Graph Embedding with Uncertainty Quantification for Diverse Applications” in the [Institue For Data Science](https://datascience.njit.edu/) and the Department of Data Science at [NJIT](https://www.njit.edu/).
+
 > **2021**
 > 
 > - 2021.9.20, present “Hyperbolic graph embedding for MEG brain network analysis with multiomics dataset” in the [MIT 9.58 course (Fall 2021)](https://cbmm.mit.edu/9-58/2021) (Instructor:   Prof. Tomaso Poggio). 
