@@ -25,7 +25,7 @@ My current research interests include the **optimization of deep neural networks
 
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
     
-    _Under revision, submitted to TNNLS, 2021._ [[Paper](Papers/2021_DynG2G.pdf)], [[Bibtex]()]
+    _Under revision, submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021._ [[Paper](Papers/2021_DynG2G.pdf)], [[Bibtex]()]
 
 - **[AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://arxiv.org/pdf/2106.02800.pdf)**
 
