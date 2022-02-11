@@ -51,7 +51,7 @@ My current research interests include the **optimization of deep neural networks
 
    **Mengjia Xu**, Zhijiang Wang, Haifeng Zhang, Dimitrios Pantazis, Huali Wang, Quanzheng Li
    
-   _PLoS computational biology 16 (9), e1008186, 2020._ [[Paper](Papers/2021_fMRI_AD.pdf)], [[Bibtex]()]
+   _PLoS Computational Biology 16 (9), e1008186, 2020._ [[Paper](Papers/2021_fMRI_AD.pdf)], [[Bibtex]()]
    
 - **[Automated semantic segmentation of red blood cells for sickle cell disease](https://ieeexplore.ieee.org/abstract/document/9122550)**
      
@@ -75,13 +75,13 @@ My current research interests include the **optimization of deep neural networks
 
    **Mengjia Xu**, Dimitrios P Papageorgiou, Sabia Z Abidi, Ming Dao, Hong Zhao, George Em Karniadakis 
    
-   _PLoS computational biology 13 (10), e1005746, 2017._ [[Paper](Papers/2017_PLOS_RBC.pdf)], [[Bibtex]()], [[News](https://phys.org/news/2017-10-machine-automatically-red-blood-cells.html)][[News](https://www.medindia.net/news/new-system-developed-to-identify-shapes-of-red-blood-cells-173976-1.htm)]
+   _PLoS Computational Biology 13 (10), e1005746, 2017._ [[Paper](Papers/2017_PLOS_RBC.pdf)], [[Bibtex]()], [[News](https://phys.org/news/2017-10-machine-automatically-red-blood-cells.html)][[News](https://www.medindia.net/news/new-system-developed-to-identify-shapes-of-red-blood-cells-173976-1.htm)]
 
 - **[An image-enhancement method based on variable-order fractional differential operators](https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1430)**
 
    **Mengjia Xu**, Jinzhu Yang, Dazhe Zhao, Hong Zhao
    
-   _Bio-medical materials and engineering, 26 (s1), S1325-S1333, 2015._ [[Paper](Papers/2015_fractional.pdf)], [[Bibtex]()]
+   _Bio-Medical Materials and Engineering, 26 (s1), S1325-S1333, 2015._ [[Paper](Papers/2015_fractional.pdf)], [[Bibtex]()]
 
 ## Presentations & Talks
 
