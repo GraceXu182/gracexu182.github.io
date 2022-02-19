@@ -94,7 +94,7 @@ My current research interests include the **optimization of deep neural networks
 > 
 > - 2021.9.20, present “Hyperbolic graph embedding for MEG brain network analysis with multiomics dataset” in the [MIT 9.58 course (Fall 2021)](https://cbmm.mit.edu/9-58/2021) (Instructor:   Prof. Tomaso Poggio). 
 > - 2021.9.16, attended the [“Stanford Graph Learning Workshop 2021”](https://snap.stanford.edu/graphlearning-workshop/index.html). (Virtual) 
-> - 2021.4.20-21, attended the [“TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”](https://topml.rice.edu/), our work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” being presented by Prof. Tomaso Poggio. (Virtual)
+> - 2021.4.20-21, attended the [“TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”](https://topml.rice.edu/), our work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” was presented by Prof. Tomaso Poggio. (Virtual)
 > - 2021.2.13, gave a plenary talk on “A new stochastic graph embedding method for Alzheimer’s disease early‐stage prediction and intervention evaluation” in the [IEEE EMBS Grand Challenges Forum: Data Science and Engineering in Healthcare](https://grand-challenges.embs.org/2021datascience/). (Virtual)
 > - 2021.1.15, presented “nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation” at the [“Machine Learning +X” CRUNCH Seminar](https://www.brown.edu/research/projects/crunch/machine-learning-x-seminars), invited by Prof. George Em Karniadakis at Brown University. (Virtual)  
  
