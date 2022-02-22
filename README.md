@@ -87,11 +87,10 @@ My current research interests include the **optimization of deep neural networks
 
 > **2022**
 
-> **UPCOMING EVENTS**
-  > 2022.9.26-30, I am going to present our dynamic graph embedding work in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (in San Diego, CA).
+> - 2022.9.26 - 30, I am going to attend and present our dynamic graph embedding work in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (in San Diego, CA).
 
-> - 2022.2.22, give a talk “Graph Embedding with Uncertainty Quantification for Diverse Applications” for the “AI + Math” Colloquia in the [Institute of Natural Sciences, Shanghai Jiao Tong University](https://ins.sjtu.edu.cn/), invited by [Prof. Yuguang Wang](https://yuguangwang.github.io/).
-> - 2022.2.2, presented “Graph Embedding with Uncertainty Quantification for Diverse Applications” in the [Institue For Data Science](https://datascience.njit.edu/) and Department of Data Science in the Ying Wu College of Computing at [New Jersey Institute of Technology](https://www.njit.edu/), hosted by [Prof. David Bader](https://davidbader.net/) and [Prof. Guiling Wang](https://web.njit.edu/~gwang/).
+> - 2022.2.22, gave a talk on the “Graph Representation Learning with Uncertainty Quantification” in the “AI + Math” Colloquia at the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/), Shanghai Jiao Tong University, invited by [Prof. Yuguang Wang](https://yuguangwang.github.io/).
+> - 2022.2.2, presented “Graph Embedding with Uncertainty Quantification for Diverse Applications” in the [Institue for Data Science](https://datascience.njit.edu/) and Department of Data Science in the Ying Wu College of Computing at [New Jersey Institute of Technology](https://www.njit.edu/), hosted by [Prof. David Bader](https://davidbader.net/) and [Prof. Guiling Wang](https://web.njit.edu/~gwang/).
 
 > **2021**
 > 
@@ -161,6 +160,7 @@ My current research interests include the **optimization of deep neural networks
 - PLoS One
 - International World Wide Web Conference (WWW)
 - MICCAI
+- NeurIPS, ICML, ICLR
 - Computers in Biology and Medicine
 - Journal of Computational Physics
 
