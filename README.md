@@ -87,14 +87,14 @@ My current research interests include the **optimization of deep neural networks
 
 > **2022**
 
-> - 2022.9.26 - 30, I am going to attend and present our dynamic graph embedding work in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (in San Diego, CA).
+> - 2022.9.26 - 30, I will give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 
 > - 2022.2.22, gave a talk on the “Graph Representation Learning with Uncertainty Quantification” in the “AI + Math” Colloquia at the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/), Shanghai Jiao Tong University, invited by [Prof. Yuguang Wang](https://yuguangwang.github.io/).
 > - 2022.2.2, presented “Graph Embedding with Uncertainty Quantification for Diverse Applications” in the [Institue for Data Science](https://datascience.njit.edu/) and Department of Data Science in the Ying Wu College of Computing at [New Jersey Institute of Technology](https://www.njit.edu/), hosted by [Prof. David Bader](https://davidbader.net/) and [Prof. Guiling Wang](https://web.njit.edu/~gwang/).
 
 > **2021**
 > 
-> - 2021.9.20, present “Hyperbolic graph embedding for MEG brain network analysis with multiomics dataset” in the [MIT 9.58 course (Fall 2021)](https://cbmm.mit.edu/9-58/2021) (Instructor:   Prof. Tomaso Poggio). 
+> - 2021.9.20, presented “Hyperbolic graph embedding for MEG brain network analysis with multiomics dataset” in the [MIT 9.58 course (Fall 2021)](https://cbmm.mit.edu/9-58/2021) (Instructor:   Prof. Tomaso Poggio). 
 > - 2021.9.16, attended the [“Stanford Graph Learning Workshop 2021”](https://snap.stanford.edu/graphlearning-workshop/index.html). (Virtual) 
 > - 2021.4.20-21, attended the [“TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”](https://topml.rice.edu/), our work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” was presented by Prof. Tomaso Poggio. (Virtual)
 > - 2021.2.13, gave a plenary talk on “A new stochastic graph embedding method for Alzheimer’s disease early‐stage prediction and intervention evaluation” in the [IEEE EMBS Grand Challenges Forum: Data Science and Engineering in Healthcare](https://grand-challenges.embs.org/2021datascience/). (Virtual)
