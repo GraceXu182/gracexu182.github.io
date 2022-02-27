@@ -1,17 +1,27 @@
-<!-- ## Welcome to Mengjia Xu's Pages -->
-<!--     [Main architecture](https://github.com/GraceXu182/gracexu182.github.io/blob/main/images/DynG2G_workflow.png#50*20) -->   
-<!-- > Dynamic graph embedding has gained great attention recently due to its capability of learning low-dimensional and meaningful graph representations for complex temporal graphs with high accuracy. However, recent advances mostly focus on learning node embeddings as *deterministic "vectors"* for *static* graphs, hence disregarding the key graph temporal dynamics and the evolving uncertainties associated with node embedding in the latent space. In this work, we propose an efficient stochastic dynamic graph embedding method (DynG2G) that applies an inductive feed-forward encoder trained with node triplet energy-based ranking loss. Every node per timestamp is encoded as a time-dependent *probabilistic multivariate Gaussian distribution* in the latent space, hence we are able to quantify the node embedding uncertainty on-the-fly. We have considered eight different benchmarks that represent diversity in size (from 96 nodes to 87,626 and from 13,398 edges to 4,870,863) as well as diversity in dynamics, from slowly changing temporal evolution to rapidly varying multi-rate dynamics. We demonstrate through extensive experiments based on these eight dynamic graph benchmarks that DynG2G achieves new state-of-the-art performance in capturing the underlying temporal node embeddings. We also demonstrate that DynG2G can simultaneously predict the evolving node embedding uncertainty, which plays a crucial role in quantifying the *intrinsic dimensionality* of the dynamical system over time. In particular, we obtain a "universal" relation of the optimal embedding dimension, ![$L_o$](https://latex.codecogs.com/svg.image?L_o), versus the effective dimensionality of uncertainty, ![$D_u$](https://latex.codecogs.com/svg.image?D_u), and we infer that ![$L_o=D_u$](https://latex.codecogs.com/svg.image?L_o%20=%20D_u) for all cases; see Table III. This, in turn, implies that the uncertainty quantification approach we employ in the DynG2G algorithm correctly captures the intrinsic dimensionality of the dynamics of such evolving graphs despite the diverse nature and composition of the graphs at each timestamp. In addition, this ![$L_o - D_u$](https://latex.codecogs.com/svg.image?L_o&space;-&space;D_u) correlation provides a clear path to selecting adaptively the optimum embedding size at each timestamp by setting ![$L \ge D_u$](https://latex.codecogs.com/svg.image?L&space;\ge&space;D_u) -->
-
-<!--  above not used!!!-->
 <!-- # Biography -->
 <!-- # Welcome to Mengjia Xu's Home Page! -->
 I am a Postdoctoral Associate at the [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/) at MIT, where I am advised by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Prof. George Em Karniadakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en) in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) in Providence, RI. I also collaborate with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) from [the MEG lab (part of the Athinoula A. Martinos Imaging Center) at MIT](http://www.pantazislab.org/) and [Prof. Quanzheng Li](https://gordon.mgh.harvard.edu/gc/people/faculty/quanzheng-li/) from the [Massachusetts Gerneral Hospital, Havrard Medical School (Boston, MA, US)](https://hms.harvard.edu/affiliates/massachusetts-general-hospital) on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction. I obtained my PhD degree from the Department of Computer Science, [Northeastern University](http://english.neu.edu.cn/3551/list.htm) in Shenyang, China advised by Prof. Hong Zhao (Co-founder of the [Neusoft Corporation](https://www.neusoft.com/)) and spent _two years as a joint PhD student_ in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) (Providence, RI) supervised by [Prof. George Em Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en). During my PhD, I spent the first two years working at Neusoft Research Institute on developing effective medical image analysis tools for human brain MRI imaging data analysis. 
 
 My current research interests include the **optimization of deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical imaging data analysis for diverse applications** (e.g., [microscopy red blood cell image segmentation and classifciation](), [diabetics retinal microaneurysm detection using AOSLO imaging](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction and non-pharmacological cognitive training effect assessment]().)
 
+## NEWS
+
+* August 2022, I will join the [New Jersey Institute of Technology](https://www.njit.edu/) as an _Assistant Professor_ in the Department of Data Science, Ying Wu College of Computing.
+
+* September 26 - 30, 2022, I will give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
+
+
 ## Selected Publications (* Co-first author)
 
 ### _List of all publications at_ [_Google Scholar_](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en)
+
+> **2022**
+
+- **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
+
+    **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
+    
+    _IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Under revision, Januray, 2022._ [[Paper](Papers/2021_DynG2G.pdf)], [[Bibtex]()]
 
 > **2021**
 
@@ -20,12 +30,6 @@ My current research interests include the **optimization of deep neural networks
    **Mengjia Xu**
 
    _SIAM Review, 63(4), 825–853, 2021._ [[Paper](Papers/2021_SIREV.pdf)], [[Bibtex]()]
-
-- **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
-
-    **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
-    
-    _Under revision, submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021._ [[Paper](Papers/2021_DynG2G.pdf)], [[Bibtex]()]
 
 - **[AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://arxiv.org/pdf/2106.02800.pdf)**
 
@@ -86,9 +90,7 @@ My current research interests include the **optimization of deep neural networks
 ## Presentations & Talks
 
 > **2022**
-
-> - 2022.9.26 - 30, I will give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
-
+> 
 > - 2022.2.22, gave a talk on the “Graph Representation Learning with Uncertainty Quantification” in the “AI + Math” Colloquia at the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/), Shanghai Jiao Tong University, invited by [Prof. Yuguang Wang](https://yuguangwang.github.io/).
 > - 2022.2.2, presented “Graph Embedding with Uncertainty Quantification for Diverse Applications” in the [Institue for Data Science](https://datascience.njit.edu/) and Department of Data Science in the Ying Wu College of Computing at [New Jersey Institute of Technology](https://www.njit.edu/), hosted by [Prof. David Bader](https://davidbader.net/) and [Prof. Guiling Wang](https://web.njit.edu/~gwang/).
 
@@ -157,6 +159,7 @@ My current research interests include the **optimization of deep neural networks
 - Medical Image Analysis
 - PLoS Computational Biology
 - SIAM Journal on Mathematics of Data Science
+- Applied Soft Computing
 - PLoS One
 - International World Wide Web Conference (WWW)
 - MICCAI
