@@ -150,7 +150,7 @@ My current research interests include the **optimization of deep neural networks
 
 * (2020.01 ~ 2021.06) : Mentored one first-year PhD student ([Qian Zhang](https://appliedmath.brown.edu/people/qian-zhang), Division of Applied Mathematics at Brown University) on the project - _"AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images”_ (Paper submitted to JBHI) 
 
-* (2014.12~2016.06): Mentored one high school student intern (_Jacob Aranda_) from the [MET high school](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming. 
+* (2014.12~2016.06): Mentored one high school student intern (_Jacob Aranda_) from the [MET High School](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming", Jacob is pursuing his B.S. degree in Computer Science at Rhode Island College (Providence, RI, USA). 
 
 ## Professional Services
 
