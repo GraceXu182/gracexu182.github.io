@@ -90,12 +90,12 @@ My current research interests include the **optimization of deep neural networks
 ## Presentations & Talks
 
 > **2022**
-> 
+
 > - 2022.2.22, gave a talk on the “Graph Representation Learning with Uncertainty Quantification” in the “AI + Math” Colloquia at the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/), Shanghai Jiao Tong University, invited by [Prof. Yuguang Wang](https://yuguangwang.github.io/).
 > - 2022.2.2, presented “Graph Embedding with Uncertainty Quantification for Diverse Applications” in the [Institue for Data Science](https://datascience.njit.edu/) and Department of Data Science in the Ying Wu College of Computing at [New Jersey Institute of Technology](https://www.njit.edu/), hosted by [Prof. David Bader](https://davidbader.net/) and [Prof. Guiling Wang](https://web.njit.edu/~gwang/).
 
 > **2021**
-> 
+ 
 > - 2021.9.20, presented “Hyperbolic graph embedding for MEG brain network analysis with multiomics dataset” in the [MIT 9.58 course (Fall 2021)](https://cbmm.mit.edu/9-58/2021) (Instructor:   Prof. Tomaso Poggio). 
 > - 2021.9.16, attended the [“Stanford Graph Learning Workshop 2021”](https://snap.stanford.edu/graphlearning-workshop/index.html). (Virtual) 
 > - 2021.4.20-21, attended the [“TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”](https://topml.rice.edu/), our work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” was presented by Prof. Tomaso Poggio. (Virtual)
@@ -103,7 +103,7 @@ My current research interests include the **optimization of deep neural networks
 > - 2021.1.15, presented “nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation” at the [“Machine Learning +X” CRUNCH Seminar](https://www.brown.edu/research/projects/crunch/machine-learning-x-seminars), invited by Prof. George Em Karniadakis at Brown University. (Virtual)  
  
 > **2020**
->
+
 > - 2020.9.9, presented “Learning graph embeddings for network analysis” in the[ MIT 9.58 course (Fall 2020) for the projects in Science of Intelligence](https://cbmm.mit.edu/9-58/2020/course-overview). (Instructor: Prof. Tomaso Poggio)
 > - 2020.7.31, presented “Understanding deep neural network-based Graph Embedding Methods” in [MGH CAMCA group meeting](https://projects.iq.harvard.edu/camca), invited by Prof. Quanzheng Li from Harvard Medical School. (Virtual)
 > - 2020.7.28, presented a poster “A New Stochastic Graph Embedding Method for Alzheimer’s Disease Early-Stage Prediction and Intervention Evaluation” in the [AAIC 2020](https://aaic2020.vfairs.com/). (Virtual)
@@ -114,43 +114,43 @@ My current research interests include the **optimization of deep neural networks
 > - 2020.1.24, presented the work “A deep learning-based graph gaussian embedding method for the analysis of brain networks” in the Computation in Mind and Brain Seminar Series of [Carney Institute for Brain Science](https://www.brown.edu/carney/node/1) at [Brown University](https://www.brown.edu/), hosted by [Prof. Stephanie Jones](https://vivo.brown.edu/display/srj3). (Providence, RI, USA)
 
 > **2019**
->
+
 > - 2019.11.18, presented the work “A novel multiple graph Gaussian embedding method to predict Alzheimer’s disease progression with MEG brain networks” in the [MEG North America Workshop](https://megcore.nih.gov/index.php/MEG_North_America_Workshop) at NIH. (Bethesda, MD, USA)
 > - 2019.9.24, presented a poster on "Graph Gaussian embedding method for predicting Alzheimer’s disease progression with MEG brain networks" in the [MIT Quest for Intelligence Workshop](https://quest.mit.edu/). (Cambridge, MA, USA)
 > - 2019.06.19, presented the work “Graph Embedding Method for Network Data Analysis” at AUV lab at [MIT Sea Grant](https://seagrant.mit.edu/) hosted by [Prof. Chrys Chryssostomidis](http://meche.mit.edu/people/faculty/CHRYS@MIT.EDU). (Cambridge, MA, USA)
 > - 2019.06.07, presented the work “Deep Learning-based Graph Gaussian Embedding Method” at Crunch Machine Learning + X Seminar, Division of Applied Mathematics, Brown University hosted by [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis). (Providence, RI, USA)
 
 > **2017**
-> 
+ 
 > - 2017.04.14, presented the work “Multiscale Imaging Analysis” at [Massachusetts General Hospital, Harvard Medical School](https://hms.harvard.edu/affiliates/massachusetts-general-hospital), invited by Prof. Quanzheng Li. (Boston, MA, USA)
 > - 2017.04.10-2017.04.12, present the work on “Automated, High-Throughput, ex-vivo Sickle Red Blood Cell Screening Assay Based on Deep Convolutional Neural Networks” in the [8th International Conference on Computational and Mathematical Biomedical Engineering (CMBE2017)](https://www.compbiomed.net/2017/index.htm). (Pittsburgh, PA, USA)
 
 > **2016**
-> 
+ 
 > -	2016.06.02-2016.06.03, attended the [10th Sickle Cell in Focus Conference](https://www.nhlbi.nih.gov/events/4933) at NIH, co-hosted by National Heart, Lung and Blood Institutes (NHLBI) in Washington, DC and the South Thames Sickle Cell & Thalassaemia Network (STSTN) in London, UK. (Bethesda, MD, USA)
 > - 2016.02.12-2016.02.14, presented a poster on “Thoracic aorta dissection image segmentation based on deep convolutional neural network” in the [8th International Bio-Fluid Symposium](https://mede.caltech.edu/biofluid_symposium_2016) held at [Caltech](https://www.caltech.edu/) hosted by Prof. Shmuel Einav and Prof. Mory Gharib at Caltech. (Pasadena, CA, USA)
 
 > **2015**
-> 
+ 
 > -	2015.11.28-2015.12.04, presented the work on “An image-enhancement method based on variable order fractional differential operators” in the Imaging Seminar at [Scientific Computing and Imaging Institute (SCI)](https://www.sci.utah.edu/) at [University of Utah](https://www.utah.edu/) and visited SCI for one week, hosted by [Prof. Mike Kirby](https://www.cs.utah.edu/~kirby/). (Salt Lake City, UT, USA).
 > -	2015.08.03 - 2015.08.07, attended MIT Professional Education short programs course on [“Advances in Imaging: Emerging Devices and Visual Mining”](https://professional.mit.edu/course-catalog/advances-imaging-and-machine-learning-medical-vr-ar-and-self-driving-cars) directed by [Prof. Ramesh Raskar](https://web.media.mit.edu/~raskar/) ([MIT Media Lab's Camera Culture research group](https://www.media.mit.edu/people/raskar/projects/)) at MIT. (Cambridge, MA, USA).
 > -	2015.07.28 - 2015.07.30, attended the [ICERM workshop on “Mathematics in Data Science”](https://icerm.brown.edu/programs/) at Brown University. (Providence, RI, USA).
 
 ## Student Mentoring
 
-* (2022.01 ~ present): Mentoring one first-year PhD student ([Sicheng Wang](https://appliedmath.brown.edu/people/sicheng-liu), Division of Applied Mathematics at Brown University) on the project "Dynamic graph representation learning" (Co-work with _Apoorva Vikram Singh_ from the University of Tübingen, Germany).
+* (2022.01 ~ present): Mentoring one first-year PhD student ([Sicheng Wang](https://appliedmath.brown.edu/people/sicheng-liu) from the Division of Applied Mathematics at Brown University) on the project "Dynamic graph representation learning" (Co-work with _Apoorva Vikram Singh_ from the University of Tübingen, Germany).
 
-* (2021.09 ~ present): Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/), EECS, MIT) on the project – _“Hyperbolic Graph Convolutional Neural Networks for Alzheimer’s Disease Prediction with Multimodal MEG Dataset”_ (working with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/) at Department of Experimental Psychology, Complutense University of Madrid)
+* (2021.09 ~ present): Mentoring one Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/) from EECS at MIT) on the project – _“Hyperbolic Graph Convolutional Neural Networks for Alzheimer’s Disease Prediction with Multimodal MEG Dataset”_ (working with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/) at Department of Experimental Psychology, Complutense University of Madrid)
+
+* (Fall 2021):  Mentored two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & Faduma Khalif from EECS and BCS at MIT) on the project - _“Deep Neural Network-based Graph Embedding for MEG Brain Network Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course Instructor: [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio)). 
 
 * (2020.12 ~ present):  Mentoring one senior undergraduate intern ([Apoorva Vikram Singh](https://apoorvavsingh.github.io/), National Institute of Technology, Silchar, India) on the project - _“DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs”_ (paper submitted to TNNLS 2021, under revision). 
 
-* (Fall 2021):  Mentoring two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & Faduma Khalif from EECS and BCS at MIT) on the project - _“Deep Neural Network-based Graph Embedding for MEG Brain Network Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course Instructor: Prof. Tomaso Poggio). 
+* (Fall 2020):  Mentored two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman) from EECS and BCS at MIT) on the project - _“Learning Stochastic Graph Embeddings for Graph Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course Instructor: Prof. Tomaso Poggio). 
 
-* (Fall 2020):  Mentoring two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman) from EECS and BCS at MIT) on the project - _“Learning Stochastic Graph Embeddings for Graph Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course Instructor: Prof. Tomaso Poggio). 
+* (2020.01 ~ 2021.06) : Mentored one first-year PhD student ([Qian Zhang](https://appliedmath.brown.edu/people/qian-zhang), Division of Applied Mathematics at Brown University) on the project - _"AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images”_ (Paper submitted to JBHI) 
 
-* (2020.01 ~ 2021.06) : Mentoring one first-year PhD student ([Qian Zhang](https://appliedmath.brown.edu/people/qian-zhang), Division of Applied Mathematics at Brown University) on the project - _"AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images”_ (Paper submitted to JBHI) 
-
-* (2014.12~2016.06): mentoring one high school student intern (_Jacob Aranda_) from the [MET high school](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming.
+* (2014.12~2016.06): Mentored one high school student intern (_Jacob Aranda_) from the [MET high school](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming. 
 
 ## Professional Services
 
