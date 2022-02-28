@@ -91,7 +91,7 @@ My current research interests include the **optimization of deep neural networks
 
 > **2022**
 
-> - 2022.2.22, gave a talk on the “Graph Representation Learning with Uncertainty Quantification” in the “AI + Math” Colloquia at the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/), Shanghai Jiao Tong University, invited by [Prof. Yuguang Wang](https://yuguangwang.github.io/).
+> - 2022.2.22, gave a talk on the “Graph Representation Learning with Uncertainty Quantification” in the “AI + Math” Colloquia at the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/), Shanghai Jiao Tong University, invited by [Prof. Yuguang Wang](https://yuguangwang.github.io/). 
 > - 2022.2.2, presented “Graph Embedding with Uncertainty Quantification for Diverse Applications” in the [Institue for Data Science](https://datascience.njit.edu/) and Department of Data Science in the Ying Wu College of Computing at [New Jersey Institute of Technology](https://www.njit.edu/), hosted by [Prof. David Bader](https://davidbader.net/) and [Prof. Guiling Wang](https://web.njit.edu/~gwang/).
 
 > **2021**
@@ -106,9 +106,9 @@ My current research interests include the **optimization of deep neural networks
 
 > - 2020.9.9, presented “Learning graph embeddings for network analysis” in the[ MIT 9.58 course (Fall 2020) for the projects in Science of Intelligence](https://cbmm.mit.edu/9-58/2020/course-overview). (Instructor: Prof. Tomaso Poggio)
 > - 2020.7.31, presented “Understanding deep neural network-based Graph Embedding Methods” in [MGH CAMCA group meeting](https://projects.iq.harvard.edu/camca), invited by Prof. Quanzheng Li from Harvard Medical School. (Virtual)
-> - 2020.7.28, presented a poster “A New Stochastic Graph Embedding Method for Alzheimer’s Disease Early-Stage Prediction and Intervention Evaluation” in the [AAIC 2020](https://aaic2020.vfairs.com/). (Virtual)
-> - 2020.6.12, presented “Overview of self-supervised learning” in [MGH CAMCA group](https://projects.iq.harvard.edu/camca) meeting (virtual), invited by Prof. Quanzheng Li at Harvard Medical School. (Virtual)
-> - 2020.5.15, presented "Automated data augmentation and their applications" at the [“Machine Learning +X” CRUNCH Seminar](https://www.brown.edu/research/projects/crunch/machine-learning-x-seminars), invited by Prof. George Em Karniadakis at Brown University. (Virtual)
+> - 2020.7.28, presented a poster on “A New Stochastic Graph Embedding Method for Alzheimer’s Disease Early-Stage Prediction and Intervention Evaluation” in the [AAIC 2020](https://aaic2020.vfairs.com/). (Virtual)
+> - 2020.6.12, presented “Overview of self-supervised learning” in [MGH CAMCA group](https://projects.iq.harvard.edu/camca) meeting, invited by Prof. Quanzheng Li at Harvard Medical School. (Virtual)
+> - 2020.5.15, presented "Automated data augmentation and their applications" at the [“Machine Learning + X” CRUNCH Seminar](https://www.brown.edu/research/projects/crunch/machine-learning-x-seminars), invited by Prof. George Em Karniadakis at Brown University. (Virtual)
 > - 2020.3.30, presented the work “A deep learning-based graph embedding method for the analysis of brain networks” in [Poggio Lab](https://poggio-lab.mit.edu/) meeting, invited by [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) at MIT. (Cambridge, MA, USA)
 > - 2020.3.19, presented the work “MEG brain network Gaussian embeddings for predicting Alzheimer’s disease progression” in the online [OHBM EQUINOX TWITTER CONFERENCE](https://ohbmx.org/). (Cambridge, MA, USA)
 > - 2020.1.24, presented the work “A deep learning-based graph gaussian embedding method for the analysis of brain networks” in the Computation in Mind and Brain Seminar Series of [Carney Institute for Brain Science](https://www.brown.edu/carney/node/1) at [Brown University](https://www.brown.edu/), hosted by [Prof. Stephanie Jones](https://vivo.brown.edu/display/srj3). (Providence, RI, USA)
