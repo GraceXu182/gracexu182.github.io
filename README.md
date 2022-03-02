@@ -159,6 +159,7 @@ My current research interests include the **optimization of deep neural networks
 - Medical Image Analysis
 - PLoS Computational Biology
 - SIAM Journal on Mathematics of Data Science
+- SIAM Journal on Scientific Computing
 - Applied Soft Computing
 - PLoS One
 - International World Wide Web Conference (WWW)
