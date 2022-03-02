@@ -160,13 +160,13 @@ My current research interests include the **optimization of deep neural networks
 - PLoS Computational Biology
 - SIAM Journal on Mathematics of Data Science
 - SIAM Journal on Scientific Computing
-- Applied Soft Computing
-- PLoS One
-- International World Wide Web Conference (WWW)
-- MICCAI
-- NeurIPS, ICML, ICLR
 - Computers in Biology and Medicine
+- International World Wide Web Conference (WWW)
+- PLoS One
 - Journal of Computational Physics
+- Applied Soft Computing
+- MICCAI, NeurIPS, ICML
+
 
 ## Contact
 
