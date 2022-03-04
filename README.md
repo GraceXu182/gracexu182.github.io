@@ -6,7 +6,7 @@ My current research interests include the **optimization of deep neural networks
 
 ## NEWS
 
-* August 2022, I will join the [New Jersey Institute of Technology (NJ, USA)](https://www.njit.edu/) as a _Tenure Track Assistant Professor_ in the Department of Data Science, Ying Wu College of Computing.
+* August 2022, I will join the [New Jersey Institute of Technology (NJ, USA)](https://www.njit.edu/) as a _Tenure-Track Assistant Professor_ in the Department of Data Science, Ying Wu College of Computing.
 
 * September 26 - 30, 2022, I will give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 
