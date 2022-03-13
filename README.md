@@ -162,12 +162,13 @@ Journal:
 - Medical Image Analysis
 - IEEE Transactions on Neural Networks and Learning Systems
 - PLoS Computational Biology
+- Computer Methods and Programs in Biomedicine
+- Computers in Biology and Medicine
 - SIAM Journal on Mathematics of Data Science
 - SIAM Journal on Scientific Computing
-- Computers in Biology and Medicine
 - Journal of Computational Physics
-- PLoS One
 - Applied Soft Computing
+- PLoS One
 
  Conference:
  
