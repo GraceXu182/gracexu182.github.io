@@ -129,30 +129,30 @@ My current research interests include the **optimization of deep neural networks
 
 > **2016**
  
-> -	6/2/2016-6/3/2016, attended the [10th Sickle Cell in Focus Conference](https://www.nhlbi.nih.gov/events/4933) at NIH, co-hosted by National Heart, Lung and Blood Institutes (NHLBI) in Washington, DC and the South Thames Sickle Cell & Thalassaemia Network (STSTN) in London, UK. (Bethesda, MD, USA)
+> - 6/2/2016-6/3/2016, attended the [10th Sickle Cell in Focus Conference](https://www.nhlbi.nih.gov/events/4933) at NIH, co-hosted by National Heart, Lung and Blood Institutes (NHLBI) in Washington, DC and the South Thames Sickle Cell & Thalassaemia Network (STSTN) in London, UK. (Bethesda, MD, USA)
 > - 2/12/2016-2/14/2016, presented a poster on “Thoracic aorta dissection image segmentation based on deep convolutional neural network” in the [8th International Bio-Fluid Symposium](https://mede.caltech.edu/biofluid_symposium_2016) held at [Caltech](https://www.caltech.edu/) hosted by Prof. Shmuel Einav and Prof. Mory Gharib at Caltech. (Pasadena, CA, USA)
 
 > **2015**
  
-> -	11/28/2015-12/4/2015, presented the work “An image-enhancement method based on variable order fractional differential operators” in the Imaging Seminar at [Scientific Computing and Imaging Institute (SCI)](https://www.sci.utah.edu/) at [University of Utah](https://www.utah.edu/) and visited SCI for one week, hosted by [Prof. Mike Kirby](https://www.cs.utah.edu/~kirby/). (Salt Lake City, UT, USA).
-> -	8/3/2015 - 8/7/2015, attended MIT Professional Education short programs course on [“Advances in Imaging: Emerging Devices and Visual Mining”](https://professional.mit.edu/course-catalog/advances-imaging-and-machine-learning-medical-vr-ar-and-self-driving-cars) directed by [Prof. Ramesh Raskar](https://web.media.mit.edu/~raskar/) ([MIT Media Lab's Camera Culture research group](https://www.media.mit.edu/people/raskar/projects/)) at MIT. (Cambridge, MA, USA).
-> -	7/28/2015 - 7/30/2015, attended the [ICERM workshop on “Mathematics in Data Science”](https://icerm.brown.edu/programs/) at Brown University. (Providence, RI, USA).
+> - 11/28/2015-12/4/2015, presented the work “An image-enhancement method based on variable order fractional differential operators” in the Imaging Seminar at [Scientific Computing and Imaging Institute (SCI)](https://www.sci.utah.edu/) at [University of Utah](https://www.utah.edu/) and visited SCI for one week, hosted by [Prof. Mike Kirby](https://www.cs.utah.edu/~kirby/). (Salt Lake City, UT, USA).
+> - 8/3/2015 - 8/7/2015, attended MIT Professional Education short programs course on [“Advances in Imaging: Emerging Devices and Visual Mining”](https://professional.mit.edu/course-catalog/advances-imaging-and-machine-learning-medical-vr-ar-and-self-driving-cars) directed by [Prof. Ramesh Raskar](https://web.media.mit.edu/~raskar/) ([MIT Media Lab's Camera Culture research group](https://www.media.mit.edu/people/raskar/projects/)) at MIT. (Cambridge, MA, USA).
+> - 7/28/2015 - 7/30/2015, attended the [ICERM workshop on “Mathematics in Data Science”](https://icerm.brown.edu/programs/) at Brown University. (Providence, RI, USA).
 
 ## Student Mentoring
 
-* (Jan, 2022 ~ present): Mentoring one first-year PhD student ([Sicheng Wang](https://appliedmath.brown.edu/people/sicheng-liu) from the Division of Applied Mathematics at Brown University) on the project "Dynamic graph representation learning" (Co-work with _Apoorva Vikram Singh_ from the University of Tübingen, Germany).
+* (Jan. 2022 ~ present): Mentoring one first-year PhD student ([Sicheng Wang](https://appliedmath.brown.edu/people/sicheng-liu) from the Division of Applied Mathematics at Brown University) on the project "Dynamic graph representation learning" (Co-work with _Apoorva Vikram Singh_ from the University of Tübingen, Germany).
 
-* (Sep, 2021 ~ present): Mentoring one Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/) from EECS at MIT) on the project – _“Hyperbolic Graph Convolutional Networks for Alzheimer’s Disease Prediction with Multimodal MEG Dataset”_ (working with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/), Department of Experimental Psychology, Complutense University of Madrid in Spain.)
+* (Sep. 2021 ~ present): Mentoring one Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/) from EECS at MIT) on the project – _“Hyperbolic Graph Convolutional Networks for Alzheimer’s Disease Prediction with Multimodal MEG Dataset”_ (working with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/), Department of Experimental Psychology, Complutense University of Madrid in Spain.)
 
 * (Fall 2021):  Mentored two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & Faduma Khalif from EECS and BCS at MIT) on the project - _“Deep Neural Network-based Graph Embedding for MEG Brain Network Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course Instructor: [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio)). 
 
-* (Dec, 2020 ~ present):  Mentoring one senior undergraduate intern ([Apoorva Vikram Singh](https://apoorvavsingh.github.io/), National Institute of Technology, Silchar, India) on the project - _“DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs”_ (paper submitted to TNNLS 2021, under revision). 
+* (Dec. 2020 ~ present):  Mentoring one senior undergraduate intern ([Apoorva Vikram Singh](https://apoorvavsingh.github.io/), National Institute of Technology, Silchar, India) on the project - _“DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs”_ (paper submitted to TNNLS 2021, under revision). 
 
 * (Fall 2020):  Mentored two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman) from EECS and BCS at MIT) on the project - _“Learning Stochastic Graph Embeddings for Graph Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course Instructor: Prof. Tomaso Poggio). 
 
-* (Jan, 2020 ~ Jun, 2021) : Mentored one first-year PhD student ([Qian Zhang](https://appliedmath.brown.edu/people/qian-zhang), Division of Applied Mathematics at Brown University) on the project - _"AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images”_ (Paper submitted to JBHI) 
+* (Jan. 2020 ~ Jun. 2021) : Mentored one first-year PhD student ([Qian Zhang](https://appliedmath.brown.edu/people/qian-zhang), Division of Applied Mathematics at Brown University) on the project - _"AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images”_ (Paper submitted to JBHI) 
 
-* (Dec, 2014 ~ Jun, 2016): Mentored one high school student intern (_[Jacob Aranda](https://www.stencon.com/who-we-are)_) from the [MET High School](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming".
+* (Dec. 2014 ~ Jun. 2016): Mentored one high school student intern (_[Jacob Aranda](https://www.stencon.com/who-we-are)_) from the [MET High School](http://www.themethighschool.org/) (Providence, RI, USA) on the project - _“Microscopic red blood cell image preprocessing and segmentation”_ with Python programming".
 
 ## Professional Services
 
