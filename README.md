@@ -163,6 +163,7 @@ Journal:
 - PLoS Computational Biology
 - Computer Methods and Programs in Biomedicine
 - Computers in Biology and Medicine
+- Engineering Applications of Artificial Intelligence
 - SIAM Journal on Mathematics of Data Science
 - SIAM Journal on Scientific Computing
 - Journal of Computational Physics
