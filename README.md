@@ -174,7 +174,6 @@ Journal:
  
 - MICCAI, NeurIPS, ICML
 - International World Wide Web Conference (WWW)
-- etc.
 
 
 ## Contact
