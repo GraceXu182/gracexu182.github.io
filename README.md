@@ -99,7 +99,7 @@ My current research interests include the **optimization of deep neural networks
  
 > - 9/20/2021, presented “Hyperbolic graph embedding for MEG brain network analysis with multiomics dataset” in the [MIT 9.58 course (Fall 2021)](https://cbmm.mit.edu/9-58/2021) (Instructor:   Prof. Tomaso Poggio). 
 > - 9/16/2021, attended the [“Stanford Graph Learning Workshop 2021”](https://snap.stanford.edu/graphlearning-workshop/index.html). (Virtual) 
-> - 2021.4.20-21, attended the [“TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”](https://topml.rice.edu/), our work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” was presented by Prof. Tomaso Poggio. (Virtual)
+> - 4/20/2021 - 4/21/2021, attended the [“TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”](https://topml.rice.edu/), our work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” was presented by Prof. Tomaso Poggio. (Virtual)
 > - 2/13/2021, gave a plenary talk on “A new stochastic graph embedding method for Alzheimer’s disease early‐stage prediction and intervention evaluation” in the [IEEE EMBS Grand Challenges Forum: Data Science and Engineering in Healthcare](https://grand-challenges.embs.org/2021datascience/). (Virtual)
 > - 1/15/2021, presented “nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation” at the [“Machine Learning +X” CRUNCH Seminar](https://www.brown.edu/research/projects/crunch/machine-learning-x-seminars), invited by Prof. George Em Karniadakis at Brown University. (Virtual)  
  
@@ -124,7 +124,7 @@ My current research interests include the **optimization of deep neural networks
 > **2017**
  
 > - 4/14/2017, presented the work “Multiscale Imaging Analysis” at [Massachusetts General Hospital, Harvard Medical School](https://hms.harvard.edu/affiliates/massachusetts-general-hospital), invited by Prof. Quanzheng Li. (Boston, MA, USA)
-> - 2017.04.10-2017.04.12, present the work on “Automated, High-Throughput, ex-vivo Sickle Red Blood Cell Screening Assay Based on Deep Convolutional Neural Networks” in the [8th International Conference on Computational and Mathematical Biomedical Engineering (CMBE2017)](https://www.compbiomed.net/2017/index.htm). (Pittsburgh, PA, USA)
+> - 4/10/2017-4/12/2017, present the work on “Automated, High-Throughput, ex-vivo Sickle Red Blood Cell Screening Assay Based on Deep Convolutional Neural Networks” in the [8th International Conference on Computational and Mathematical Biomedical Engineering (CMBE2017)](https://www.compbiomed.net/2017/index.htm). (Pittsburgh, PA, USA)
 
 > **2016**
  
