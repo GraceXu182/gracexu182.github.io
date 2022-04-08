@@ -17,6 +17,12 @@ My current research interests include the **optimization of deep neural networks
 
 > **2022**
 
+- **[Scalable algorithms for physics-informed neural and graph networks]()**
+
+    Khemraj Shukla1, **Mengjia Xu**, Nathaniel Trask and George Em Karniadakis George Em Karniadakis 
+    
+    _Data Centric Engineering, under review, March, 2022._ [[Paper]()], [[Bibtex]()] 
+
 - **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
 
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
