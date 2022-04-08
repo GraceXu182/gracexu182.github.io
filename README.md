@@ -19,7 +19,7 @@ My current research interests include the **optimization of deep neural networks
 
 - **[Scalable algorithms for physics-informed neural and graph networks]()**
 
-    Khemraj Shukla, **Mengjia Xu**, Nathaniel Trask and George Em Karniadakis George Em Karniadakis 
+    Khemraj Shukla, **Mengjia Xu**, Nathaniel Trask and George Em Karniadakis
     
     _Data-Centric Engineering, under review, March 2022._ [[Paper]()], [[Bibtex]()] 
 
