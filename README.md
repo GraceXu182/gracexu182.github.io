@@ -10,6 +10,10 @@ My current research interests include the **optimization of deep neural networks
 
 * September 26 - 30, 2022, I was invited to give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 
+## TEACHING
+
+* [CS675]() Introduction to Machine Learning (Fall 2022)
+
 
 ## Selected Publications (* Co-first author)
 
