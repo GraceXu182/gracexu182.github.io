@@ -14,7 +14,7 @@ My current research interests include the **optimization of deep neural networks
 
 ## TEACHING
 
-* [CS675]() Introduction to Machine Learning (Fall 2022)
+* [CS675]() Machine Learning (Fall 2022)
 
 
 ## Selected Publications (* Co-first author)
