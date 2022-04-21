@@ -167,10 +167,10 @@ My current research interests include the **optimization of deep neural networks
 
 ## Professional Services
 
-**Reviewers**:
+**Reviewer**:
 
 - Medical Image Analysis
-- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - PLoS Computational Biology
 - Computer Methods and Programs in Biomedicine
 - Computers in Biology and Medicine
