@@ -6,7 +6,7 @@ My current research interests include the **optimization of deep neural networks
 
 ## NEWS
 
-* April 2022, our work *"Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline"* has been accepted as a poster presentation in the [MIT MGB AI Cures Conference 2022](https://www.mitmgb.ai/) (Samberg Center, MIT)
+* April 2022, our recent work *"Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline"* was presented in the [MIT MGB AI Cures Conference 2022](https://www.mitmgb.ai/) (Samberg Center, MIT)
 
 * September 26 - 30, 2022, I was invited to give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 
@@ -150,6 +150,8 @@ My current research interests include the **optimization of deep neural networks
 > - 7/28/2015 - 7/30/2015, attended the [ICERM workshop on “Mathematics in Data Science”](https://icerm.brown.edu/programs/) at Brown University. (Providence, RI, USA).
 
 ## Student Mentoring
+
+* (May 2022 ~ present): Mentoring one senior undergraduate intern ([Madhav Vadlamani]() from the Department of Mathematics at IIT, Bombay)
 
 * (Jan. 2022 ~ present): Mentoring one first-year PhD student ([Sicheng Wang](https://appliedmath.brown.edu/people/sicheng-liu) from the Division of Applied Mathematics at Brown University) on the project "Dynamic graph representation learning" (Co-work with _Apoorva Vikram Singh_ from the University of Tübingen, Germany).
 
