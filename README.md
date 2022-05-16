@@ -27,7 +27,7 @@ My current research interests include the **optimization of deep neural networks
 
     Khemraj Shukla, **Mengjia Xu**, Nathaniel Trask and George Em Karniadakis
     
-    _Data-Centric Engineering, under review, March 2022._ [[Paper]()], [[Bibtex]()] 
+    _Data-Centric Engineering, under review, March 2022._ [[Paper](Papers/DCE_paper_2022_arxiv (1).pdf)], [[Bibtex]()] 
 
 - **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
 
