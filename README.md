@@ -103,7 +103,7 @@ My current research interests include the **optimization of deep neural networks
 
 > **2022**
 
-> - 3/14/2022, gave a webinar talk on "Graph Embedding with Uncertainty Quantification for Diverse Applications" in the [PhILMs: Physics-Informed Learning Machines Center](https://www.pnnl.gov/projects/PHILMS) at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/about).
+> - 3/14/2022, gave a webinar presentation on "Graph Embedding with Uncertainty Quantification for Diverse Applications" in the [PhILMs: Physics-Informed Learning Machines Center](https://www.pnnl.gov/projects/PHILMS) at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/about).
 > - 2/22/2022, gave a talk on “Graph Representation Learning with Uncertainty Quantification” in the “AI + Math” Colloquia at the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/), Shanghai Jiao Tong University, invited by [Prof. Yuguang Wang](https://yuguangwang.github.io/). 
 > - 2/2/2022, presented “Graph Embedding with Uncertainty Quantification for Diverse Applications” in the [Institue for Data Science](https://datascience.njit.edu/) and Department of Data Science in the Ying Wu College of Computing at [New Jersey Institute of Technology](https://www.njit.edu/), hosted by [Prof. David Bader](https://davidbader.net/) and [Prof. Guiling Wang](https://web.njit.edu/~gwang/).
 
