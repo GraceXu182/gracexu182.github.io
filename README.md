@@ -151,7 +151,7 @@ My current research interests include the **optimization of deep neural networks
 
 ## Student Mentoring
 
-* (May 2022 ~ present): Mentoring one senior undergraduate intern ([Madhav Vadlamani]() from the Department of Mathematics at IIT, Bombay)
+* (May 2022 ~ present): Mentoring one senior undergraduate intern ([Madhav Vadlamani](https://www.linkedin.com/in/vadlamani-madhav-54800918b/) from the Department of Mathematics at IIT, Bombay)
 
 * (Jan. 2022 ~ present): Mentoring one first-year PhD student ([Sicheng Wang](https://appliedmath.brown.edu/people/sicheng-liu) from the Division of Applied Mathematics at Brown University) on the project "Dynamic graph representation learning" (Co-work with _Apoorva Vikram Singh_ from the University of Tübingen, Germany).
 
