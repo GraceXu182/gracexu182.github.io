@@ -33,7 +33,7 @@ My current research interests include the **optimization of deep neural networks
 
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
     
-    _IEEE Transactions on Neural Networks and Learning Systems (TNNLS),**Accepted**, May 2022._ [[Paper](Papers/2021_DynG2G.pdf)], [[Bibtex]()]
+    _IEEE Transactions on Neural Networks and Learning Systems (TNNLS), **Accepted**, May 2022._ [[Paper](Papers/2021_DynG2G.pdf)], [[Bibtex]()]
 
 > **2021**
 
