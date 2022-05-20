@@ -33,7 +33,7 @@ My current research interests include the **optimization of deep neural networks
 
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
     
-    _IEEE Transactions on Neural Networks and Learning Systems (TNNLS), under revision, January 2022._ [[Paper](Papers/2021_DynG2G.pdf)], [[Bibtex]()]
+    _IEEE Transactions on Neural Networks and Learning Systems (TNNLS),**Accepted**, May 2022._ [[Paper](Papers/2021_DynG2G.pdf)], [[Bibtex]()]
 
 > **2021**
 
@@ -47,7 +47,7 @@ My current research interests include the **optimization of deep neural networks
 
    Qian Zhang*, Konstantina Sampani*, **Mengjia Xu***, Shengze Cai, Yixiang Deng, He Li, Jennifer K Sun, George Em Karniadakis
    
-   _Under Review, submitted to IEEE Journal of Biomedical and Health Informatics (JBHI), 2021._ [[Paper](Papers/2021_AOSLOnet.pdf)], [[Bibtex]()]
+   _Under revision, TSVT, 2021._ [[Paper](Papers/2021_AOSLOnet.pdf)], [[Bibtex]()]
 
 - **[Dynamics and Neural Collapse in Deep Classifiers trained with the Square Loss](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021-22.pdf)**
 
