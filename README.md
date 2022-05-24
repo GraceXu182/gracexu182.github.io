@@ -185,8 +185,8 @@ My current research interests include the **optimization of deep neural networks
 - Journal of Computational Physics
 - Applied Soft Computing
 - PLoS One
-- MICCAI, NeurIPS, ICML
 - International World Wide Web Conference (WWW)
+- etc.
 
 
 ## Contact
