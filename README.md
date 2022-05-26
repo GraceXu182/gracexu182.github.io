@@ -6,11 +6,9 @@ My current research interests include the **optimization of deep neural networks
 
 ## NEWS
 
-* April 2022, our recent work *"Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline"* was presented in the [MIT MGB AI Cures Conference 2022](https://www.mitmgb.ai/) (Samberg Center, MIT)
-
 * September 26 - 30, 2022, I was invited to give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 
-* August 2022, I will join the [New Jersey Institute of Technology (NJ, USA)](https://www.njit.edu/) as a _Tenure-Track Assistant Professor_ in the Department of Data Science, Ying Wu College of Computing.
+* August 2022, I will join [New Jersey Institute of Technology (NJ, USA)](https://www.njit.edu/) as a _Tenure-Track Assistant Professor_ in the Department of Data Science, Ying Wu College of Computing.
 
 ## TEACHING
 
@@ -103,6 +101,7 @@ My current research interests include the **optimization of deep neural networks
 
 > **2022**
 
+> - 4/25/2022, our recent work on the *"Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline"* was presented in the [MIT MGB AI Cures Conference 2022](https://www.mitmgb.ai/) (Samberg Center, MIT)
 > - 3/14/2022, gave a webinar presentation on "Graph Embedding with Uncertainty Quantification for Diverse Applications" in the [PhILMs: Physics-Informed Learning Machines Center](https://www.pnnl.gov/projects/PHILMS) at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/about).
 > - 2/22/2022, gave a talk on “Graph Representation Learning with Uncertainty Quantification” in the “AI + Math” Colloquia at the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/), Shanghai Jiao Tong University, invited by [Prof. Yuguang Wang](https://yuguangwang.github.io/). 
 > - 2/2/2022, presented “Graph Embedding with Uncertainty Quantification for Diverse Applications” in the [Institue for Data Science](https://datascience.njit.edu/) and Department of Data Science in the Ying Wu College of Computing at [New Jersey Institute of Technology](https://www.njit.edu/), hosted by [Prof. David Bader](https://davidbader.net/) and [Prof. Guiling Wang](https://web.njit.edu/~gwang/).
