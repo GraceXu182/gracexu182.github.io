@@ -169,9 +169,6 @@ My current research interests include the **optimization of deep neural networks
 
 ## Professional Services
 
- - Program Chair Committee for [the 2nd AI4Science Workshop in ICML2022](http://www.ai4science.net/icml22/)
- - Program Chair Committee for [the Math of Geometric Deep Learning Workshop in ICML2022]()
-
 **Reviewer**:
 
 - Medical Image Analysis
@@ -189,6 +186,7 @@ My current research interests include the **optimization of deep neural networks
 - Applied Soft Computing
 - PLoS One
 - International World Wide Web Conference (WWW)
+- ICML
 - etc.
 
 
