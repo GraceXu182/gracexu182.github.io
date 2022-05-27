@@ -6,7 +6,7 @@ My current research interests include the **optimization of deep neural networks
 
 ## NEWS
 
-* May 2022, our work has been accepted as an oral presentation in [BIOMAG2022](https://biomag2020.org/) Conference (Every two years). 
+* August 28 - Sepetember 1,  2022, our work has been accepted as an oral presentation in the [BIOMAG2022](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
 
 * September 26 - 30, 2022, I was invited to give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 
