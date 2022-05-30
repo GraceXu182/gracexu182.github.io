@@ -27,7 +27,7 @@ My current research interests include the **optimization of deep neural networks
 
    **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
    
-   _CBMM, memo 117 (updated), 2022._ [[Paper](Papers/JMLR__2021_0.pdf)], [[Bibtex]()], [[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]
+   _CBMM, memo 117 (updated), 2022._ [[Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_0.pdf)], [[Bibtex]()]
 
 - **[Scalable algorithms for physics-informed neural and graph networks]()**
 
