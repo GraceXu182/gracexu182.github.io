@@ -176,6 +176,7 @@ My current research interests include the **optimization of deep neural networks
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Journal of Biomedical and Health Informatics (JBHI)
 - PLoS Computational Biology
+- Frontiers in Aging Neuroscience
 - Computer Methods and Programs in Biomedicine
 - Computers in Biology and Medicine
 - Engineering Applications of Artificial Intelligence
