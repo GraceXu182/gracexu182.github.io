@@ -6,7 +6,7 @@ My current research interests include the **optimization of deep neural networks
 
 ## NEWS
 
-* August 28 - Sepetember 1,  2022, our work will be presented in the [BIOMAG2022](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
+* August 28 - Sepetember 1,  2022, our recent work will be presented in the [BIOMAG2022](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
 
 * September 26 - 30, 2022, I was invited to give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 
@@ -22,6 +22,12 @@ My current research interests include the **optimization of deep neural networks
 ### _List of all publications at_ [_Google Scholar_](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en)
 
 > **2022**
+
+- **[Dynamics in Deep Classifiers trained with the Square Loss: Normalization, Low Rank and Neural Collapse]()**
+
+   **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
+   
+   _CBMM, memo 117, 2021._ [[Paper](Papers/JMLR__2021_0.pdf)], [[Bibtex]()], [[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]
 
 - **[Scalable algorithms for physics-informed neural and graph networks]()**
 
@@ -39,8 +45,7 @@ My current research interests include the **optimization of deep neural networks
 
 - **[Understanding graph embedding methods and their applications](https://epubs.siam.org/doi/abs/10.1137/20M1386062)**
 
-   **Mengjia Xu**
-
+   **Mengjia Xu*
    _SIAM Review, 63(4), 825–853, 2021._ [[Paper](Papers/2021_SIREV.pdf)], [[Bibtex]()]
 
 - **[AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://arxiv.org/pdf/2106.02800.pdf)**
@@ -48,12 +53,6 @@ My current research interests include the **optimization of deep neural networks
    Qian Zhang*, Konstantina Sampani*, **Mengjia Xu***, Shengze Cai, Yixiang Deng, He Li, Jennifer K Sun, George Em Karniadakis
    
    _Under revision, TSVT, 2021._ [[Paper](Papers/2021_AOSLOnet.pdf)], [[Bibtex]()]
-
-- **[Dynamics in Deep Classifiers trained with the Square Loss: Normalization, Low Rank and Neural Collapse]()**
-
-   **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
-
-   _CBMM, memo 117, 2021._ [[Paper]()], [[Bibtex]()], [[Code](https://github.com/GraceXu182/binaryclassifiers_squareloss)]
    
 - **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks]()**
 
