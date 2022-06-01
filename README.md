@@ -159,7 +159,7 @@ My current research interests include the **optimization of deep neural networks
 
 * (Fall 2021):  Mentored two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & Faduma Khalif from EECS and BCS at MIT) on the project - _“Deep Neural Network-based Graph Embedding for MEG Brain Network Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course Instructor: [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio)). 
 
-* (Dec. 2020 ~ Mar. 2022):  Mentored one senior undergraduate intern ([Apoorva Vikram Singh](https://apoorvavsingh.github.io/), National Institute of Technology, Silchar, India) on the project - _“DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs”_ (paper submitted to TNNLS 2021, under revision). 
+* (Dec. 2020 ~ Mar. 2022):  Mentored one senior undergraduate intern ([Apoorva Vikram Singh](https://apoorvavsingh.github.io/), National Institute of Technology, Silchar, India) on the project - _“DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs”_ (paper accepted by TNNLS). 
 
 * (Fall 2020):  Mentored two senior undergraduate students ([Jasmine F Zou](https://www.linkedin.com/in/jasmine-zou-058913158/) & [Mona M Abdelrahman](https://bcs.mit.edu/directory/mona-abdelrahman) from EECS and BCS at MIT) on the project - _“Learning Stochastic Graph Embeddings for Graph Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course Instructor: Prof. Tomaso Poggio). 
 
