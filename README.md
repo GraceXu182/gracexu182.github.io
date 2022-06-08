@@ -53,7 +53,7 @@ My current research interests include the **optimization of deep neural networks
 
    Qian Zhang*, Konstantina Sampani*, **Mengjia Xu***, Shengze Cai, Yixiang Deng, He Li, Jennifer K Sun, George Em Karniadakis
    
-   _Under revision, TSVT, 2021._ [[Paper](Papers/2021_AOSLOnet.pdf)], [[Bibtex]()]
+   _TSVT, under revision, 2021._ [[Paper](Papers/2021_AOSLOnet.pdf)], [[Bibtex]()]
    
 - **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks]()**
 
