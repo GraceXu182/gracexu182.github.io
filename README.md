@@ -6,9 +6,9 @@ My current research interests include the **optimization of deep neural networks
 
 ## NEWS
 
-* August 28 - Sepetember 1,  2022,  I will give an oral presentation on our recent work on "Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline" in the 22nd [BIOMAG2022](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
+* 9/28/2022, I was invited to give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 
-* September 26 - 30, 2022, I was invited to give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
+* 8/28/2022,  I will give an oral presentation on our recent work on "Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline" in the 22nd [BIOMAG2022](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
 
 * August 2022, I will join [New Jersey Institute of Technology (NJ, USA)](https://www.njit.edu/) as a _Tenure-Track Assistant Professor_ in the Department of Data Science, Ying Wu College of Computing.
 
