@@ -6,7 +6,7 @@ My current research interests include the **optimization of deep neural networks
 
 ## NEWS
 
-* August 28 - Sepetember 1,  2022, our recent work will be presented in the [BIOMAG2022](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
+* August 28 - Sepetember 1,  2022,  I will give an oral presentation on our recent work on "Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline" in the 22nd [BIOMAG2022](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
 
 * September 26 - 30, 2022, I was invited to give a talk in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 
