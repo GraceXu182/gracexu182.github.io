@@ -188,6 +188,7 @@ My current research interests include the **optimization of deep neural networks
 - Applied Soft Computing
 - PLoS One
 - International World Wide Web Conference (WWW)
+- Learning on Graphs Conference (LoG)
 - ICML
 - etc.
 
