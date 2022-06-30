@@ -10,7 +10,7 @@ My current research interests include the **optimization of deep neural networks
 
 * 8/28/2022,  I will give an oral presentation on our recent work "Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline" in the 22nd [BIOMAG](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
 
-* August 2022, I will join [New Jersey Institute of Technology (NJ, USA)](https://www.njit.edu/) as a _Tenure-Track Assistant Professor_ in the Department of Data Science, Ying Wu College of Computing.
+* August 2022, I will join [New Jersey Institute of Technology (NJ, USA)](https://www.njit.edu/) as a _tenure-track Assistant Professor_ in the Department of Data Science, Ying Wu College of Computing.
 
 ## TEACHING
 
