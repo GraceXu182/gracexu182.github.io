@@ -6,7 +6,7 @@ My current research interests include the **optimization of deep neural networks
 
 ## NEWS
 
-* 9/28/2022, I will present our recent accepted TNNLS paper in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
+* 9/28/2022, I will present our recent accepted TNNLS paper on "Dynamic graph representation learning with uncertainty quantification" in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 
 * 8/28/2022,  I will give an oral presentation on our recent work "Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline" in the 22nd [BIOMAG](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
 
