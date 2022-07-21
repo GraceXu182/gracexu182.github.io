@@ -23,11 +23,11 @@ My current research interests include the **optimization of deep neural networks
 
 > **2022**
 
-- **[Dynamics in Deep Classifiers trained with the Square Loss: Normalization, Low Rank and Neural Collapse]()**
+- **[Dynamics in Deep Classifiers trained with the Square Loss: Normalization, Low Rank and Neural Collapse](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)**
 
    **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
    
-   _CBMM, memo 117 (updated), 2022._ [[Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_0.pdf)], [[Bibtex]()]
+   _CBMM, memo 117 (updated), 2022._ [[Paper]([https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_0.pdf](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf))], [[Bibtex]()]
 
 - **[Scalable algorithms for physics-informed neural and graph networks]()**
 
@@ -35,7 +35,7 @@ My current research interests include the **optimization of deep neural networks
     
     _Data-Centric Engineering, **Accepted**, March 2022._ [[Paper](Papers/DCE_paper_2022_arxiv (1).pdf)], [[Bibtex]()] 
 
-- **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://arxiv.org/pdf/2109.13441.pdf)**
+- **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://ieeexplore.ieee.org/abstract/document/9793727)**
 
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
     
