@@ -176,7 +176,6 @@ My current research interests include the **optimization of deep neural networks
 - PLoS Computational Biology
 - Frontiers in Aging Neuroscience
 - Computer Methods and Programs in Biomedicine
-- Methods in Ecology and Evolution
 - Computers in Biology and Medicine
 - Engineering Applications of Artificial Intelligence
 - SIAM Journal on Scientific Computing
@@ -184,6 +183,7 @@ My current research interests include the **optimization of deep neural networks
 - Bulletin of Mathematical Biology
 - Journal of Innovative Optical Health Sciences
 - Journal of Computational Physics
+- Methods in Ecology and Evolution
 - Applied Soft Computing
 - PLoS One
 - International World Wide Web Conference (WWW)
