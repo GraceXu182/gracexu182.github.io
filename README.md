@@ -23,11 +23,11 @@ My current research interests include the **optimization of deep neural networks
 
 > **2022**
 
-- **[Dynamics in Deep Classifiers trained with the Square Loss: Normalization, Low Rank and Neural Collapse](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)**
+- **[Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)**
 
    **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
    
-   _CBMM, memo 117 (updated), 2022._ [[Paper]([https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_0.pdf](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf))], [[Bibtex]()]
+   _CBMM, memo 117 (updated), 2022._ [[Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
 
 - **[Scalable algorithms for physics-informed neural and graph networks]()**
 
