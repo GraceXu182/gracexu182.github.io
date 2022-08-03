@@ -27,19 +27,19 @@ My current research interests include the **optimization of deep neural networks
 
    **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
    
-   _CBMM, memo 117 (updated), 2022._ [[Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
+   _CBMM, memo 117 (under review), 2022._ [[Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
 
 - **[Scalable algorithms for physics-informed neural and graph networks]()**
 
     Khemraj Shukla, **Mengjia Xu**, Nathaniel Trask and George Em Karniadakis
     
-    _Data-Centric Engineering, **Accepted**, March 2022._ [[Paper](Papers/DCE_paper_2022_arxiv (1).pdf)], [[Bibtex]()] 
+    _Data-Centric Engineering, 3, e24-1-e-24-26, 2022._ [[Paper](https://www.cambridge.org/core/journals/data-centric-engineering/article/scalable-algorithms-for-physicsinformed-neural-and-graph-networks/D3C3AE6E34E195DF539071BD09ED8583)], [[Bibtex]()] 
 
 - **[DynG2G: An Efficient Stochastic Graph Embedding Method for Temporal Graphs](https://ieeexplore.ieee.org/abstract/document/9793727)**
 
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
     
-    _IEEE Transactions on Neural Networks and Learning Systems (TNNLS), **Accepted**, May 2022._ [[Paper](Papers/2021_DynG2G.pdf)], [[Bibtex]()]
+    _IEEE Transactions on Neural Networks and Learning Systems (TNNLS), June 10, 2022._ [[Paper](https://ieeexplore.ieee.org/document/9793727)], [[Bibtex]()]
 
 > **2021**
 
