@@ -10,7 +10,6 @@ My current research interests include the **optimization of deep neural networks
 
 * 8/28/2022,  I will give an oral presentation on our recent work "Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline" in the 22nd [BIOMAG](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
 
-
 ## Selected Publications (* Co-first author)
 
 ### _List of all publications at_ [_Google Scholar_](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en)
