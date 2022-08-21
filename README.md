@@ -33,6 +33,12 @@ My current research interests include the **optimization of deep neural networks
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
     
     _IEEE Transactions on Neural Networks and Learning Systems (TNNLS), June 10, 2022._ [[Paper](https://ieeexplore.ieee.org/document/9793727)], [[Bibtex]()]
+    
+- **[AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://arxiv.org/pdf/2106.02800.pdf)**
+
+   Qian Zhang*, Konstantina Sampani*, **Mengjia Xu***, Shengze Cai, Yixiang Deng, He Li, Jennifer K Sun, George Em Karniadakis
+   
+   _Translational Vision Science & Technology 11 (8), 7-7, 2022_ [[Paper](Papers/2021_AOSLOnet.pdf)], [[Bibtex]()]
 
 > **2021**
 
@@ -41,12 +47,6 @@ My current research interests include the **optimization of deep neural networks
    **Mengjia Xu**
    
    _SIAM Review, 63(4), 825–853, 2021._ [[Paper](Papers/2021_SIREV.pdf)], [[Bibtex]()]
-
-- **[AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://arxiv.org/pdf/2106.02800.pdf)**
-
-   Qian Zhang*, Konstantina Sampani*, **Mengjia Xu***, Shengze Cai, Yixiang Deng, He Li, Jennifer K Sun, George Em Karniadakis
-   
-   _TSVT, accepted, 2021._ [[Paper](Papers/2021_AOSLOnet.pdf)], [[Bibtex]()]
    
 - **[A Graph Gaussian Embedding Method for Predicting Alzheimer's Disease Progression With MEG Brain Networks]()**
 
