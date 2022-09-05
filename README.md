@@ -94,8 +94,7 @@ My current research interests include the **optimization of deep neural networks
 
 > **2022**
 
-> - 8/30/2022, gave an oral presentation on "A multi-graph Gaussian embedding method with uncertainty quantification for Alzheimer's disease progression prediction" in the 22nd [BIOMAG](https://biomag2020.org/) Conference (University of Birmingham, Birmingham, UK). 
-
+> - 8/30/2022, gave an oral presentation on "A multi-graph Gaussian embedding method with uncertainty quantification for Alzheimer's disease progression prediction" in the 22nd [BIOMAG Conference (University of Birmingham, Birmingham, UK)](https://biomag2020.org/). 
 > - 4/25/2022, our recent work on the *"Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline"* was presented in the [MIT MGB AI Cures Conference 2022](https://www.mitmgb.ai/) (Samberg Center, MIT)
 > - 3/14/2022, gave a webinar presentation on "Graph Embedding with Uncertainty Quantification for Diverse Applications" in the [PhILMs: Physics-Informed Learning Machines Center](https://www.pnnl.gov/projects/PHILMS) at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/about).
 > - 2/22/2022, gave a talk on “Graph Representation Learning with Uncertainty Quantification” in the “AI + Math” Colloquia at the [Institute of Natural Sciences](https://ins.sjtu.edu.cn/), Shanghai Jiao Tong University, invited by [Prof. Yuguang Wang](https://yuguangwang.github.io/). 
