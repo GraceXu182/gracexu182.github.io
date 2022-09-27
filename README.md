@@ -6,8 +6,8 @@ My current research interests include the **generalization in deep neural networ
 
 ## NEWS
 
-* 9/28/2022, I was invited to present our recent accepted TNNLS paper on "Dynamic graph representation learning with uncertainty quantification" in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
-* 6/7/2023, I was invited to give a talk in our upcoming “Mathematical and Scientific Machine Learning” topical workshop in ICERM at Brown University (Providence, RI, USA)
+* 9/28/2022, I was invited to present our recent accepted TNNLS paper on the "Dynamic graph representation learning with uncertainty quantification" in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
+* 6/7/2023, I was invited to give a talk in the  “Mathematical and Scientific Machine Learning” topical workshop in the ICERM at Brown University (Providence, RI, USA)
 
 ## Selected Publications (* Co-first author)
 
