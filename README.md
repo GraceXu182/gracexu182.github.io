@@ -6,7 +6,6 @@ My current research interests include the **generalization in deep neural networ
 
 ## NEWS
 
-* 9/28/2022, I was invited to present our recent accepted TNNLS paper on the "Dynamic graph representation learning with uncertainty quantification" in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 * 6/7/2023, I was invited to give a talk in the  “Mathematical and Scientific Machine Learning” topical workshop in the ICERM at Brown University (Providence, RI, USA)
 
 ## Selected Publications (* Co-first author)
@@ -95,6 +94,7 @@ My current research interests include the **generalization in deep neural networ
 
 > **2022**
 
+> - 9/28/2022, gave an oral presentation on "Dynamic graph representation learning with uncertainty quantification" in the [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences/cm/conference/mds22) (San Diego, CA, USA).
 > - 8/30/2022, gave an oral presentation on "A multi-graph Gaussian embedding method with uncertainty quantification for Alzheimer's disease progression prediction" in the 22nd [BIOMAG Conference (University of Birmingham, Birmingham, UK)](https://biomag2020.org/). 
 > - 4/25/2022, our recent work on the *"Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline"* was presented in the [MIT MGB AI Cures Conference 2022](https://www.mitmgb.ai/) (Samberg Center, MIT)
 > - 3/14/2022, gave a webinar presentation on "Graph Embedding with Uncertainty Quantification for Diverse Applications" in the [PhILMs: Physics-Informed Learning Machines Center](https://www.pnnl.gov/projects/PHILMS) at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/about).
