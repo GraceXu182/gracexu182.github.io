@@ -145,7 +145,7 @@ My current research interests include the **generalization in deep neural networ
 
 ## Student Mentoring
 
-*(Fall 2022): Mentoring one senior undergraduate student ([Ilan Mitnikov]() from EECS at MIT) on the project - _“Stochastic dynamic graph reperesentation learning with uncertainty quantification”_ in the [**MIT 9.58 course**](). (Course Instructor: [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio)). 
+*(Fall 2022): Mentoring one senior undergraduate student ([Ilan Mitnikov](https://www.linkedin.com/in/ilan-mitnikov/) from EECS at MIT) on the project - _“Stochastic dynamic graph reperesentation learning with uncertainty quantification”_ in the [**MIT 9.58 course**](). (Course Instructor: [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio)). 
 
 * (May 2022 ~ present): Mentoring one research intern ([Madhav Vadlamani](https://www.linkedin.com/in/vadlamani-madhav-54800918b/) from the Department of Electrical Engineering at IIT, Bombay).
 
