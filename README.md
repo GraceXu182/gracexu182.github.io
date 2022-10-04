@@ -6,7 +6,7 @@ My current research interests include the **generalization in deep neural networ
 
 ## NEWS
 
-* 6/7/2023, I was invited to give a talk in the  “Mathematical and Scientific Machine Learning” topical workshop in the ICERM at Brown University (Providence, RI, USA)
+* 6/7/2023, I was invited to give a talk in the  [“Mathematical and Scientific Machine Learning” workshop at the ICERM, Brown University (Providence, RI, USA)](https://icerm.brown.edu/topical_workshops/tw-23-msml/)
 
 ## Selected Publications (* Co-first author)
 
