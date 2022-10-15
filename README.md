@@ -94,7 +94,7 @@ My current research interests include the **generalization in deep neural networ
 
 > **2022**
 
-> - 10/13/2022, presented our recent work on "Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse, and generalization bounds" in the online C-BRIC industry meeting.
+> - 10/13/2022, presented our recent work on "Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse, and generalization bounds" at the C-BRIC industry meeting.
 > - 9/28/2022, gave an oral presentation on "Dynamic graph representation learning with uncertainty quantification" in the [SIAM Conference on Mathematics of Data Science(San Diego, CA, USA)](https://www.siam.org/conferences/cm/conference/mds22).
 > - 9/19/2022, presented “Stochastic dynamic graph representation learning” in the [MIT 9.58 course (Fall 2022) (Instructor: Prof. Tomaso Poggio)](https://cbmm.mit.edu/9-58/2022). 
 > - 8/30/2022, gave an oral presentation on "A multi-graph Gaussian embedding method with uncertainty quantification for Alzheimer's disease progression prediction" in the 22nd [BIOMAG Conference (University of Birmingham, Birmingham, UK)](https://biomag2020.org/). 
