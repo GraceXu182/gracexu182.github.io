@@ -18,7 +18,7 @@ My current research interests include the **generalization in deep neural networ
 
    **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
    
-   _Research (under revision), 2022._ [[CBMM, memo 117, Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
+   _Research (accepted), 2022._ [[CBMM, memo 117, Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
 
 - **[Scalable algorithms for physics-informed neural and graph networks]()**
 
@@ -30,7 +30,7 @@ My current research interests include the **generalization in deep neural networ
 
     **Mengjia Xu**, Apoorva Vikram Singh, George Em Karniadakis 
     
-    _IEEE Transactions on Neural Networks and Learning Systems (TNNLS), June 10, 2022._ [[Paper](https://ieeexplore.ieee.org/document/9793727)], [[Bibtex]()]
+    _IEEE Transactions on Neural Networks and Learning Systems (TNNLS), accepted, June 10, 2022._ [[Paper](https://ieeexplore.ieee.org/document/9793727)], [[Bibtex]()]
     
 - **[AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://arxiv.org/pdf/2106.02800.pdf)**
 
