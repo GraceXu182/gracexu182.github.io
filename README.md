@@ -18,7 +18,7 @@ My current research interests include the **generalization in deep neural networ
 
    **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
    
-   _Research (accepted), 2022._ [[CBMM, memo 117, Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
+   _Research (in press), 2022._ [[CBMM, memo 117, Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
 
 - **[Scalable algorithms for physics-informed neural and graph networks]()**
 
