@@ -12,6 +12,14 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ### _List of all publications at_ [_Google Scholar_](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en)
 
+> **2023**
+
+- **[Norm-based Generalization Bounds for Compositionally Sparse Neural Networks](https://arxiv.org/abs/2301.12033)**
+
+  T Galanti, **M Xu**, L Galanti, T Poggio
+  
+  [arXiv preprint arXiv:2301.12033](https://arxiv.org/abs/2301.12033)
+
 > **2022**
 
 - **[Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/10.34133/research.0024)**
