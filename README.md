@@ -180,6 +180,7 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Journal of Biomedical and Health Informatics (JBHI)
 - PLoS Computational Biology
+- NeuroImage
 - Frontiers in Aging Neuroscience
 - Computer Methods and Programs in Biomedicine
 - Computers in Biology and Medicine
