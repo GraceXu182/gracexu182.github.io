@@ -19,14 +19,14 @@ My current research focus on the intersection of Computer Science, Medical Imagi
   T Galanti, **M Xu**, L Galanti, T Poggio
   
   [arXiv preprint arXiv:2301.12033](https://arxiv.org/abs/2301.12033)
-
-> **2022**
-
-- **[Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/10.34133/research.0024)**
+  
+  - **[Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/pdf/10.34133/research.0024)**
 
    **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
    
    _Research (in press), 2022._ [[CBMM, memo 117, Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
+
+> **2022**
 
 - **[Scalable algorithms for physics-informed neural and graph networks]()**
 
