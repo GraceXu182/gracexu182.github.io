@@ -156,7 +156,7 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ## Student Mentoring
 
-* (Mar. 2023 ~ present): Mentoring one Master student ([Hugo Ramirez](https://news.mit.edu/2020/laser-focused-mit-students-foster-new-insights-inertial-confinement-fusion-0903) from EECS and Math at MIT) on the project – _“Hyperbolic Graph Neural Networks for Cognitive Age Prediction with Multimodal MEG Dataset”_ (working with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Davide Tabarelli]() from the University of Trento in Italy.)
+* (Mar. 2023 ~ present): Mentoring one Master student ([Hugo Ramirez](https://news.mit.edu/2020/laser-focused-mit-students-foster-new-insights-inertial-confinement-fusion-0903) from EECS and Math at MIT) on the project – _“Hyperbolic Graph Neural Networks for Cognitive Age Prediction with Multimodal MEG Dataset”_
 
 * (Nov. 2022 ~ present): Mentoring one graduate student ([Alan John Varghese](https://engineering.brown.edu/people/alan-john-varghese) from Applied Math at Brown University) on the project – _“Stochastic dynamic graph embedding with Transformer”_)
 
