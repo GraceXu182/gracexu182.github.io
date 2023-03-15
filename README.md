@@ -22,11 +22,11 @@ My current research focus on the intersection of Computer Science, Medical Imagi
   
   [arXiv preprint arXiv:2301.12033](https://arxiv.org/abs/2301.12033)
   
-  - **[Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/pdf/10.34133/research.0024)**
+- **[Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/pdf/10.34133/research.0024)**
 
    **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
    
-   _Research, vol. 6, Jan 10, 2022._ [[CBMM, memo 117, Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
+   _Research, vol. 6, Jan 10, 2023._ [[CBMM, memo 117, Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
 
 > **2022**
 
