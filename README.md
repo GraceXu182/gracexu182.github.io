@@ -156,11 +156,15 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ## Student Mentoring
 
-* (Fall 2022): Mentoring one senior undergraduate student ([Ilan Mitnikov](https://www.linkedin.com/in/ilan-mitnikov/) from EECS at MIT) on the project - _“Stochastic dynamic graph reperesentation learning with uncertainty quantification”_ in the [**MIT 9.58 course**](). (Course Instructor: [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio)). 
+* (Mar. 2023 ~ present): Mentoring one Master student ([Hugo Ramirez](https://news.mit.edu/2020/laser-focused-mit-students-foster-new-insights-inertial-confinement-fusion-0903) from EECS and Math at MIT) on the project – _“Hyperbolic Graph Neural Networks for Cognitive Age Prediction with Multimodal MEG Dataset”_ (working with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Davide Tabarelli]() from the University of Trento in Italy.)
 
-* (May 2022 ~ present): Mentoring one research intern ([Madhav Vadlamani](https://www.linkedin.com/in/vadlamani-madhav-54800918b/) from the Department of Electrical Engineering at IIT, Bombay).
+* (Nov. 2022 ~ present): Mentoring one graduate student ([Alan John Varghese](https://engineering.brown.edu/people/alan-john-varghese) from Applied Math at Brown University) on the project – _“Stochastic dynamic graph embedding with Transformer”_)
 
-* (Sep. 2021 ~ Sep. 2022): Mentored one Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/) from EECS at MIT) on the project – _“Hyperbolic Graph Convolutional Networks for Alzheimer’s Disease Prediction with Multimodal MEG Dataset”_ (working with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/), Department of Experimental Psychology, Complutense University of Madrid in Spain.)
+* (Fall 2022): Mentored one senior undergraduate student ([Ilan Mitnikov](https://www.linkedin.com/in/ilan-mitnikov/) from EECS at MIT) on the project - _“Stochastic dynamic graph reperesentation learning with uncertainty quantification”_ in the [**MIT 9.58 course**](). (Course Instructor: [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio)). 
+
+* (May 2022 ~ Dec. 2022): Mentored one research intern ([Madhav Vadlamani](https://www.linkedin.com/in/vadlamani-madhav-54800918b/) from the Department of Electrical Engineering at IIT, Bombay).
+
+* (Sep. 2021 ~ present): Mentored one Master student ([Cole S Baker](https://www.linkedin.com/in/cole-baker-724573130/) from EECS at MIT) on the project – _“Hyperbolic Graph Convolutional Networks for Alzheimer’s Disease Prediction with Multimodal MEG Dataset”_ (working with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) at MIT and [Prof. Fernando Maestú](http://meg.ctb.upm.es/members/director/maestu/), Department of Experimental Psychology, Complutense University of Madrid in Spain.)
 
 * (Fall 2021):  Mentored two senior undergraduate students ([Habeeb Salau](https://www.linkedin.com/in/habeeb-salau/) & Faduma Khalif from EECS and BCS at MIT) on the project - _“Deep Neural Network-based Graph Embedding for MEG Brain Network Analysis”_ in the [**MIT 9.58 course**](https://cbmm.mit.edu/9-58/2020/projects). (Course Instructor: [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio)). 
 
