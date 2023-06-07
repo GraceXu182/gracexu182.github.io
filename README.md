@@ -6,9 +6,9 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ## NEWS
 
-* 3/8/2023, our recent work entitled [Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/pdf/10.34133/research.0024) has been published in _Research_ journal and also featured on the [MIT News](https://news.mit.edu/2023/training-dynamics-deep-classifiers-0308)
+* 3/8/2023, our recent work entitled [Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/pdf/10.34133/research.0024) has been published in _Research_ journal [(MIT News)](https://news.mit.edu/2023/training-dynamics-deep-classifiers-0308)
 
-* 6/7/2023, I was invited to give a talk in the  [“Mathematical and Scientific Machine Learning” workshop at the ICERM, Brown University (Providence, RI, USA)](https://icerm.brown.edu/topical_workshops/tw-23-msml/)
+* 6/7/2023, I was invited to give a keynote talk in the  [“Mathematical and Scientific Machine Learning” Conference at the ICERM, Brown University (Providence, RI, USA)](https://icerm.brown.edu/topical_workshops/tw-23-msml/)
 
 ## Selected Publications (* Co-first author)
 
