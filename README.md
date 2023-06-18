@@ -8,8 +8,6 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 * 3/8/2023, our recent work entitled [Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/pdf/10.34133/research.0024) has been published in _Research_ journal [(MIT News)](https://news.mit.edu/2023/training-dynamics-deep-classifiers-0308)
 
-* 6/7/2023, I was invited to give a keynote talk in the  [“Mathematical and Scientific Machine Learning” Conference at the ICERM, Brown University (Providence, RI, USA)](https://icerm.brown.edu/topical_workshops/tw-23-msml/)
-
 ## Selected Publications (* Co-first author)
 
 ### _List of all publications at_ [_Google Scholar_](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en)
@@ -104,7 +102,7 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 > **2022**
 
-> - 6/9/2023, give a keynote talk entitled “Dynamics in Deep Classifiers Trained with the Square Loss: Normalization, Low Rank, and Generalization” in the MSML conference at ICERM (Providence, RI).
+> - 6/9/2023, gave a keynote talk on “Dynamics in Deep Classifiers Trained with the Square Loss: Normalization, Low Rank, and Generalization” in the MSML conference at ICERM (Providence, RI).
 > - 5/30/2023, presented our work entitled “Temporal stochastic graph embedding based on transformers” in the DOE center “SEA-CROGS” Webinar (Online).
 > - 4/24/2023, our work entitled “Hyperbolic graph convolutional networks: A novel approach to discover aging trajectories and signatures of cognitive decline” was presented in the MIT-MGB AI Cures Conference 2023 (MIT Samberg Center, Cambridge, MA)
 > - 11/4/2022, presented our work entitled "Towards understanding underlying principles of Deep Learning" at the [MIT Quest for Intelligence event (Cambridge, MA, US)](https://quest.mit.edu/events/advances2022).
