@@ -100,11 +100,14 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ## Presentations & Talks
 
-> **2022**
+> **2023**
 
 > - 6/9/2023, gave a keynote talk on “Dynamics in Deep Classifiers Trained with the Square Loss: Normalization, Low Rank, and Generalization” in the MSML conference at ICERM (Providence, RI).
 > - 5/30/2023, presented our work entitled “Temporal stochastic graph embedding based on transformers” in the DOE center “SEA-CROGS” Webinar (Online).
 > - 4/24/2023, our work entitled “Hyperbolic graph convolutional networks: A novel approach to discover aging trajectories and signatures of cognitive decline” was presented in the MIT-MGB AI Cures Conference 2023 (MIT Samberg Center, Cambridge, MA)
+
+> **2022**
+
 > - 11/4/2022, presented our work entitled "Towards understanding underlying principles of Deep Learning" at the [MIT Quest for Intelligence event (Cambridge, MA, US)](https://quest.mit.edu/events/advances2022).
 > - 10/13/2022, presented our recent work on "Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse, and generalization bounds" at the [C-BRIC industry meeting (Purdue University, West Lafayette, IN, US)](https://engineering.purdue.edu/C-BRIC).
 > - 9/28/2022, gave an oral presentation on "Dynamic graph representation learning with uncertainty quantification" in the [SIAM Conference on Mathematics of Data Science(San Diego, CA, USA)](https://www.siam.org/conferences/cm/conference/mds22).
