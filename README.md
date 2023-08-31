@@ -2,7 +2,7 @@
 <!-- # Welcome to Mengjia Xu's Home Page! -->
 I am an Assistant Professor (Research) in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) collaborating with [Prof. George Em Karniadakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en). I am also a Research Affliate at MIT's [Center for Brains, Minds and Machines](https://cbmm.mit.edu/), [McGovern Insitute for Brain Research](https://mcgovern.mit.edu/), where I work with [Prof. Tomaso Poggio](https://scholar.google.com/citations?user=WgAGy7wAAAAJ&hl=en&oi=sra) on machine learning theory and I also collaborate with [Dr. Dimitrios Pantazis](https://scholar.google.com/citations?user=uz8P5hYAAAAJ&hl=en) from [the MEG lab (part of the Athinoula A. Martinos Imaging Center) at MIT]() and [Prof. Quanzheng Li](https://projects.iq.harvard.edu/camca/people/li-quanzheng-phd) from the [Massachusetts Gerneral Hospital, Havrard Medical School](https://hms.harvard.edu/affiliates/massachusetts-general-hospital) on functional neuroimaging data analysis for Alzheimer's disease early-stage prediction and cognitive training effect evaluation. I obtained my PhD degree from the Department of Computer Science, [Northeastern University](http://english.neu.edu.cn/3551/list.htm) in Shenyang, China advised by Prof. Hong Zhao (Co-founder of the [Neusoft Corporation](https://www.neusoft.com/)) and spent _two years as a joint PhD student_ in the Division of Applied Mathematics, [Brown University](https://www.brown.edu/) supervised by [Prof. George Em Karnidakis](https://scholar.google.com/citations?user=yZ0-ywkAAAAJ&hl=en). During my PhD, I spent the first two years working at Neusoft Research Institute on developing effective medical image analysis tools for human brain MRI imaging data analysis.
 
-My current research focus on the intersection of Computer Science, Medical Imaging and Neuroscience, including **generalization in deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical imaging data analysis**. I am interested indiverse biomedical applications, including [microscopy red blood cell image segmentation and classifciation](), [diabetics retinal microaneurysm detection using AOSLO imaging](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction and non-pharmacological cognitive training effect assessment]().)
+My current research focus on the intersection of Computer Science, Medical Imaging and Neuroscience, including **generalization in deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical imaging data analysis**. I am interested in diverse biomedical applications, including [microscopy red blood cell image segmentation and classifciation](), [diabetics retinal microaneurysm detection using AOSLO imaging](), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction and non-pharmacological cognitive training effect assessment]().)
 
 ## NEWS
 
@@ -13,6 +13,12 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 ### _List of all publications at_ [_Google Scholar_](https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en)
 
 > **2023**
+
+- **[TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers](https://arxiv.org/pdf/2307.02588.pdf)**
+
+  AJ Varghese, A Bora, **M Xu**, GE Karniadakis
+
+  [arXiv preprint arXiv:2307.02588](https://arxiv.org/pdf/2307.02588.pdf)
 
 - **[Norm-based Generalization Bounds for Compositionally Sparse Neural Networks](https://arxiv.org/abs/2301.12033)**
 
