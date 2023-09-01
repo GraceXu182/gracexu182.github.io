@@ -17,7 +17,7 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 - **[TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers](https://arxiv.org/pdf/2307.02588.pdf)**
 
   AJ Varghese, A Bora, **M Xu**, GE Karniadakis
-
+  
   [arXiv preprint arXiv:2307.02588](https://arxiv.org/pdf/2307.02588.pdf)
 
 - **[Norm-based Generalization Bounds for Compositionally Sparse Neural Networks](https://arxiv.org/abs/2301.12033)**
@@ -169,7 +169,9 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ## Student Mentoring
 
-* (Mar. 2023 ~ present): Mentoring one Master student ([Hugo Ramirez](https://news.mit.edu/2020/laser-focused-mit-students-foster-new-insights-inertial-confinement-fusion-0903) from EECS and Math at MIT) on the project – _“Hyperbolic Graph Neural Networks for Cognitive Age Prediction with Multimodal MEG Dataset”_
+* (Jun. 2023 ~ present): one visiting student (Yulu Gan, CS, Peking University) from MIT CBMM on the project "training without optimization"_ (co-work with Prof. Tomaso Poggio and Dr. Brian Cheung at MIT)
+
+* (Mar. 2023 ~ present): co-mentoring one Master student ([Hugo Ramirez](https://news.mit.edu/2020/laser-focused-mit-students-foster-new-insights-inertial-confinement-fusion-0903) from EECS and Math at MIT) for the thesis titled – _“Hyperbolic Graph Neural Networks for Cognitive Age Prediction with Multimodal MEG Dataset”_
 
 * (Nov. 2022 ~ present): Mentoring one graduate student ([Alan John Varghese](https://engineering.brown.edu/people/alan-john-varghese) from Applied Math at Brown University) on the project – _“Stochastic dynamic graph embedding with Transformer”_)
 
