@@ -220,7 +220,5 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ## Contact
 
-Address: [77 Massachusetts Ave, Cambridge, MA 02139](https://goo.gl/maps/Tia85jpDHKfZQKir5)
-
-Email: mengjia@mit.edu
+Email: mx6@njit.edu
 
