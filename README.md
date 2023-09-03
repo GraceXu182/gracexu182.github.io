@@ -110,7 +110,7 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 > - 8/22/2023, presented our work titled "Adaptive time-stepping for learning temporal graph embeddings using transformers" at the [ICIAM Workshop on "Mathematics of Geometric Deep Learning"](https://iciam2023.org/) (Tokyo, Japan).
 > - 6/9/2023, gave a keynote talk on “Dynamics in Deep Classifiers Trained with the Square Loss: Normalization, Low Rank, and Generalization” in the [MSML conference](https://icerm.brown.edu/topical_workshops/tw-23-msml/) at [ICERM](https://icerm.brown.edu/) (Providence, RI).
-> - 5/30/2023, presented our work entitled “Temporal stochastic graph embedding based on transformers” in the [DoE center “SEA-CROGS”](https://www.pnnl.gov/projects/sea-crogs) Webinar.
+> - 5/30/2023, presented our work entitled “Temporal stochastic graph embedding based on transformers” in the [DOE Center “SEA-CROGS”](https://www.pnnl.gov/projects/sea-crogs) Webinar.
 > - 4/24/2023, our work entitled “Hyperbolic graph convolutional networks: A novel approach to discover aging trajectories and signatures of cognitive decline” was presented in the [MIT-MGB AI Cures Conference 2023](https://www.mitmgb.ai/) (MIT Samberg Center, Cambridge, MA)
 
 > **2022**
