@@ -118,7 +118,7 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 > **2022**
 
 > - 11/4/2022, presented our work entitled "Towards understanding underlying principles of Deep Learning" at the [MIT Quest for Intelligence event (Cambridge, MA, US)](https://quest.mit.edu/events/advances2022).
-> - 10/13/2022, presented our recent work on "Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse, and generalization bounds" at the [C-BRIC industry meeting (Purdue University, West Lafayette, IN, US)](https://engineering.purdue.edu/C-BRIC).
+> - 10/13/2022, presented our recent work on "Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse, and generalization bounds" at the [Center for Brain-Inspired Computing (C-BRIC) industry meeting (Purdue University, West Lafayette, IN, US)](https://engineering.purdue.edu/C-BRIC).
 > - 9/28/2022, gave an oral presentation on "Dynamic graph representation learning with uncertainty quantification" in the [SIAM Conference on Mathematics of Data Science(San Diego, CA, USA)](https://www.siam.org/conferences/cm/conference/mds22).
 > - 9/19/2022, presented “Stochastic dynamic graph representation learning” in the [MIT 9.58 course (Fall 2022) (Instructor: Prof. Tomaso Poggio)](https://cbmm.mit.edu/9-58/2022). 
 > - 8/30/2022, gave an oral presentation on "A multi-graph Gaussian embedding method with uncertainty quantification for Alzheimer's disease progression prediction" in the 22nd [BIOMAG Conference (University of Birmingham, Birmingham, UK)](https://biomag2020.org/). 
