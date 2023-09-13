@@ -11,7 +11,6 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 ## Teaching
 
 * [DS675: Machine Learning]() (Fall 2023)
-* [Indepdent Study (I)]() (Fall 2023)
 
 ## Selected Publications (+ Corresponding author; * Co-first author)
 
