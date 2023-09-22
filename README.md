@@ -6,7 +6,7 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ## NEWS
 
-* 9/21/2023, our paper on ["norm-based generalization bounds for compositionally sparse neural networks"](https://arxiv.org/abs/2301.12033) has been accepted by **[NeurIPS2023](https://nips.cc/)**
+* 9/21/2023, our paper titled ["Norm-based generalization bounds for compositionally sparse neural networks"](https://arxiv.org/abs/2301.12033) was accepted by **[NeurIPS2023](https://nips.cc/)**
 
 * 3/8/2023, our recent work entitled [Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/pdf/10.34133/research.0024) has been published in _Research_ journal [(MIT News)](https://news.mit.edu/2023/training-dynamics-deep-classifiers-0308)
 
