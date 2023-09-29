@@ -24,13 +24,13 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
   AJ Varghese, A Bora, **M Xu<sup>+</sup>**, GE Karniadakis
   
-  [arXiv preprint arXiv:2307.02588](https://arxiv.org/pdf/2307.02588.pdf)
+  [arXiv preprint arXiv:2307.02588](https://arxiv.org/pdf/2307.02588.pdf) (Under Revision)
 
 - **[Norm-based Generalization Bounds for Compositionally Sparse Neural Networks](https://arxiv.org/abs/2301.12033)**
 
   T Galanti, **M Xu**, L Galanti, T Poggio
   
-  [arXiv preprint arXiv:2301.12033](https://arxiv.org/abs/2301.12033)
+  [arXiv preprint arXiv:2301.12033](https://arxiv.org/abs/2301.12033) (NeurIPS 2023 Accepted)
   
 - **[Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/pdf/10.34133/research.0024)**
 
@@ -197,7 +197,9 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ## Professional Services
 
-NJIT Data Science Department (PhD committtee member, new Faculty recruitment member, Chair of Guest Speaker Committee)
+- PhD Admission Committtee member (Fall 2023)
+- New Faculty Recruitment Committee member (Fall 2023)
+- DS Guest Speaker Committee (Chair) (Fall 2023)
 
 **Reviewer**:
 
