@@ -4,9 +4,9 @@ I am an Assistant Professor in the Department of Data Science, Ying Wu College o
 
 My current research focus on the intersection of Computer Science, Medical Imaging and Neuroscience, including **generalization in deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical neuorimaging data analysis**. I am interested in applying AI techniques for biomedical imaging data analysis and times series data analysis for diverse applications, such as climate modeling and stock market prediction. Some relavant works include [microscopy red blood cell image segmentation and classifciation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005746), [diabetics retinal microaneurysm detection using AOSLO imaging](https://tvst.arvojournals.org/article.aspx?articleid=2783552), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction](https://ieeexplore.ieee.org/abstract/document/9314203) and [non-pharmacological cognitive training effect assessment](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186).)
 
-## Information for Prospective Graduate Students
+## <span style="color:red;">Information for Prospective Graduate Students</span>
 
-**I am currently looking for highly motivated PhD students to work with me on research projects in the areas of developing effective and efficient geometric deep learning methods and LLMs for:**
+**<span style="color:red;">I am currently looking for highly motivated PhD students to work with me on research projects in the areas of developing effective and efficient geometric deep learning methods and LLMs for:</span>**
 - Multimodal human brain neuroimaging data (MEG, fMRI, T1 MRI, etc.) computing for discovering heterogeneous healthy brain aging trajectory, and Alzheimer's disease early-stage prediction;
 - Sensor-based climate data inference and prediction;
 - Spatial-temporal graph representation learning for financial data prediction;
