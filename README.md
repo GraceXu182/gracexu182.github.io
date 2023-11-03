@@ -13,7 +13,7 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 My research lies at the intersection of machine learning, multimodal medical image computing, and computational neuroscience, so I am most excited to work with students that have gained some experiences in these areas and great Python implementation skills. It is a plus if you have been previously exposed to courses in AI, deep learning, or machine learning.
 
-**If you fit this profile, please send an application to the DS PhD program at NJIT, and also send me your CV via [email](mx6@njit.edu).**
+**<span style="color:red;">If you fit this profile, please send an application to the DS PhD program at NJIT, and also send me your CV via [email](mx6@njit.edu).</span>**
 
 ## NEWS
 
