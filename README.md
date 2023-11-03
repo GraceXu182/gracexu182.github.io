@@ -6,7 +6,7 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ## Information for Prospective Graduate Students
 
-**<span style="color:red;">I am currently looking for highly motivated PhD students to work with me on research projects in the areas of developing effective and efficient geometric deep learning methods and LLMs for:</span>**
+**I am currently looking for highly motivated PhD students to work with me on research projects in the areas of developing effective and efficient geometric deep learning methods and LLMs for:**
 - Multimodal human brain neuroimaging data (MEG, fMRI, T1 MRI, etc.) computing for discovering heterogeneous healthy brain aging trajectory, and Alzheimer's disease early-stage prediction;
 - Sensor-based climate data inference and prediction;
 - Spatial-temporal graph representation learning for financial data prediction;
