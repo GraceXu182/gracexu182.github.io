@@ -127,7 +127,7 @@ C Baker, I Suárez-Méndez, G Smith, EB Marsh, M Funke, JC Mosher, F Maestu, M X
 
 > **2023**
 
-> - 10/22/2023, presented our work titled "Adaptive time-stepping for learning temporal graph embeddings using transformers" at the [The first annual meeting of SIAM-NNP"](https://sites.google.com/view/siam-nynjpa/annual-meeting).
+> - 10/22/2023, presented our work titled "Adaptive time-stepping for learning temporal graph embeddings using transformers" at the [Annual meeting of SIAM-NNP"](https://sites.google.com/view/siam-nynjpa/annual-meeting).
 > - 8/22/2023, presented our work titled "Learning temporal graph embeddings using transformers" at the [ICIAM Workshop on "Mathematics of Geometric Deep Learning"](https://iciam2023.org/) (Tokyo, Japan).
 > - 6/9/2023, gave a keynote talk on “Dynamics in Deep Classifiers Trained with the Square Loss: Normalization, Low Rank, and Generalization” in the [MSML conference](https://icerm.brown.edu/topical_workshops/tw-23-msml/) at [ICERM](https://icerm.brown.edu/) (Providence, RI).
 > - 5/30/2023, presented our work entitled “Temporal stochastic graph embedding based on transformers” in the [DOE Center “SEA-CROGS”](https://www.pnnl.gov/projects/sea-crogs) Webinar.
