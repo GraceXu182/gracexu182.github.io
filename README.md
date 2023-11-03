@@ -7,9 +7,9 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 ## Information for Prospective Graduate Students
 
 **I am currently looking for highly motivated PhD students to work with me on research projects in the areas of developing effective and efficient geometric deep learning methods and LLMs for:**
-- Multimodal human brain neuroimaging data (MEG, fMRI, T1 MRI, etc.) computing for discovering heterogeneous healthy brain aging trajectory, and Alzheimer's disease early-stage prediction;
+- Human brain neuroimaging data (MEG, fMRI, T1 MRI, etc.) computing for discovering heterogeneous healthy brain aging trajectory, and Alzheimer's disease early-stage prediction;
 - Climate measurements (temprature, forcing, etc.) inference and prediction;
-- Spatial-temporal graph representation learning for time-series data prediction in finance and healthcare;
+- Time-series data prediction in finance and healthcare.
 
 My research lies at the intersection of machine learning, multimodal medical image computing, and computational neuroscience, so I am most excited to work with students that have gained some experiences in these areas and great Python implementation skills. It is a plus if you have been previously exposed to courses in AI, deep learning, or machine learning.
 
