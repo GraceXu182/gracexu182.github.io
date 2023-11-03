@@ -11,7 +11,7 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 - Climate measurements (temprature, forcing, etc.) inference and prediction;
 - Time-series data prediction in finance and healthcare.
 
-My research lies at the intersection of machine learning, multimodal medical image computing, and computational neuroscience, so I am most excited to work with students that have gained some experiences in these areas and great Python implementation skills. It is a plus if you have been previously exposed to courses in AI, deep learning, or machine learning.
+My research lies at the intersection of machine learning, multimodal medical image computing, and computational neuroscience. Preference will be given to students having experiences in these areas, coupled with great Python programming skills. It is a plus if you have been previously exposed to courses in AI, deep learning, or machine learning.
 
 **<span style="color:red;">If you fit this profile, please send an application to the DS PhD program at NJIT, and also send me your CV via [email](mx6@njit.edu).</span>**
 
