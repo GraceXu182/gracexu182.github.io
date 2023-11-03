@@ -34,9 +34,9 @@ My research lies at the intersection of machine learning, multimodal medical ima
 
 - **[Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline](https://www.biorxiv.org/content/10.1101/2023.10.23.563643v2.abstract)**
 
-C Baker, I Suárez-Méndez, G Smith, EB Marsh, M Funke, JC Mosher, F Maestu, M Xu<sup>+</sup>, D Pantazis (Corresponding Author)
+  C Baker, I Suárez-Méndez, G Smith, EB Marsh, M Funke, JC Mosher, F Maestu, M Xu<sup>+</sup>, D Pantazis (Corresponding Author)
 
-[bioRxiv, 2023.10. 23.563643](https://www.biorxiv.org/content/10.1101/2023.10.23.563643v2.abstract)
+  [bioRxiv, 2023.10. 23.563643](https://www.biorxiv.org/content/10.1101/2023.10.23.563643v2.abstract)
 
 - **[A framework of computer vision-enhanced microfluidic approach for automated assessment of the transient sickling kinetics in sickle red blood cells]()**
 
