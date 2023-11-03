@@ -6,6 +6,15 @@ My current research focus on the intersection of Computer Science, Medical Imagi
 
 ## NEWS
 
+I am currently looking for highly motivated PhD students to work with me on research projects in the areas of developing effective and efficient geometric deep learning methods and LLMs for:
+- multimodal human brain network data (MEG, fMRI, T1 MRI, etc.) analysis for discovering heterogeneous healthy brain aging trajectory;
+- Sensor-based climate data inference and prediction;
+- spatial-temporal graph representation learning for financial data prediction;
+
+My research lies at the intersection of machine learning, multimodal medical image computing, and computational neuroscience, so I am most excited to work with students that have gained some experiences in these areas and great Python implementation skills. It is a plus if you have been previously exposed to courses in AI, deep learning, or machine learning.
+
+If you fit this profile, please send an application to the CS PhD program at NJIT, and also send me your CV via [email](mx6@njit.edu).
+
 * 9/21/2023, our paper titled ["Norm-based generalization bounds for compositionally sparse neural networks"](https://arxiv.org/abs/2301.12033) has been accepted by **[NeurIPS2023](https://nips.cc/)**
 
 * 3/8/2023, our recent work entitled [Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/pdf/10.34133/research.0024) has been published in _Research_ journal [(MIT News)](https://news.mit.edu/2023/training-dynamics-deep-classifiers-0308)
