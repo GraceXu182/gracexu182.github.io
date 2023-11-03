@@ -4,16 +4,18 @@ I am an Assistant Professor in the Department of Data Science, Ying Wu College o
 
 My current research focus on the intersection of Computer Science, Medical Imaging and Neuroscience, including **generalization in deep neural networks**, **spatio-temporal graph representation learning**, **uncertainty quantification** and **multimodal biomedical neuorimaging data analysis**. I am interested in applying AI techniques for biomedical imaging data analysis and times series data analysis for diverse applications, such as climate modeling and stock market prediction. Some relavant works include [microscopy red blood cell image segmentation and classifciation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005746), [diabetics retinal microaneurysm detection using AOSLO imaging](https://tvst.arvojournals.org/article.aspx?articleid=2783552), [fMRI and MEG neuroimaging data analysis for Alzheimer's disease progression prediction](https://ieeexplore.ieee.org/abstract/document/9314203) and [non-pharmacological cognitive training effect assessment](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186).)
 
-## NEWS
+## Information for Prospective Graduate Students
 
-I am currently looking for highly motivated PhD students to work with me on research projects in the areas of developing effective and efficient geometric deep learning methods and LLMs for:
+**I am currently looking for highly motivated PhD students to work with me on research projects in the areas of developing effective and efficient geometric deep learning methods and LLMs for:**
 - multimodal human brain network data (MEG, fMRI, T1 MRI, etc.) analysis for discovering heterogeneous healthy brain aging trajectory;
 - Sensor-based climate data inference and prediction;
-- spatial-temporal graph representation learning for financial data prediction;
+- Spatial-temporal graph representation learning for financial data prediction;
 
 My research lies at the intersection of machine learning, multimodal medical image computing, and computational neuroscience, so I am most excited to work with students that have gained some experiences in these areas and great Python implementation skills. It is a plus if you have been previously exposed to courses in AI, deep learning, or machine learning.
 
-If you fit this profile, please send an application to the CS PhD program at NJIT, and also send me your CV via [email](mx6@njit.edu).
+**If you fit this profile, please send an application to the CS PhD program at NJIT, and also send me your CV via [email](mx6@njit.edu).**
+
+## NEWS
 
 * 9/21/2023, our paper titled ["Norm-based generalization bounds for compositionally sparse neural networks"](https://arxiv.org/abs/2301.12033) has been accepted by **[NeurIPS2023](https://nips.cc/)**
 
@@ -22,6 +24,8 @@ If you fit this profile, please send an application to the CS PhD program at NJI
 ## Teaching
 
 * [DS675: Machine Learning]() (Fall 2023)
+* [DS677: Deep learning]() (Spring 2024)
+* []
 
 ## Selected Publications (+ Corresponding author; * Co-first author)
 
