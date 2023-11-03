@@ -25,7 +25,6 @@ My research lies at the intersection of machine learning, multimodal medical ima
 
 * [DS675: Machine Learning]() (Fall 2023)
 * [DS677: Deep learning]() (Spring 2024)
-* []
 
 ## Selected Publications (+ Corresponding author; * Co-first author)
 
