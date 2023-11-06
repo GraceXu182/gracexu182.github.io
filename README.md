@@ -201,7 +201,7 @@ My research lies at the intersection of computer science, medical imaging, and n
 
 ## Student Mentoring
 
-* (Jun. 2023 ~ present): one visiting student (Yulu Gan, CS, Peking University) from MIT CBMM on the project _"training without optimization"_ (joint work with [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Dr. Brian Cheung](https://scholar.google.com/citations?user=7N-ethYAAAAJ&hl=en&oi=ao) at MIT)
+* (Jun. 2023 ~ present): one visiting student ([Yulu Gan](https://scholar.google.com/citations?user=hQ-J_eAAAAAJ&hl=en), CS, Peking University) from MIT CBMM on the project _"training without optimization"_ (joint work with [Prof. Tomaso Poggio](https://poggio-lab.mit.edu/people/tomaso-poggio) and [Dr. Brian Cheung](https://scholar.google.com/citations?user=7N-ethYAAAAJ&hl=en&oi=ao) at MIT)
 
 * (Mar. 2023 ~ present): Mentoring one Master student ([Hugo Ramirez](https://news.mit.edu/2020/laser-focused-mit-students-foster-new-insights-inertial-confinement-fusion-0903) from EECS and Math at MIT) for the thesis titled – _“Hyperbolic Graph Neural Networks for Cognitive Age Prediction with Multimodal MEG Dataset”_
 
