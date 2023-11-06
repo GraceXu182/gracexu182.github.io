@@ -42,12 +42,12 @@ My research lies at the intersection of computer science, medical imaging, and n
 
   Yu Qiang, M Xu, M Dao
 
-  _Frontiers in PHysics_, (under review, Oct, 2023)
+  _Frontiers in Physics_, (under review, Oct, 2023)
   
 
 - **[TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers](https://arxiv.org/pdf/2307.02588.pdf)**
 
-  AJ Varghese, A Bora, **M Xu<sup>+</sup>**, GE Karniadakis
+  AJ Varghese, A Bora, **M Xu<sup>+</sup>**, GE Karniadakis (Corresponding Author)
   
   [arXiv preprint arXiv:2307.02588](https://arxiv.org/pdf/2307.02588.pdf) (Under Revision)
 
