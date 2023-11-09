@@ -235,9 +235,9 @@ My research lies at the intersection of computer science, medical imaging, and n
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Neural Networks
 - SIAM REVIEW
-- IEEE Journal of Biomedical and Health Informatics (JBHI)
 - PLoS Computational Biology
 - NeuroImage
+- IEEE Journal of Biomedical and Health Informatics (JBHI)
 - Frontiers in Aging Neuroscience
 - Computer Methods and Programs in Biomedicine
 - Computers in Biology and Medicine
