@@ -127,7 +127,7 @@ My research lies at the intersection of computer science, medical imaging, and n
 
    **Mengjia Xu**, Dimitrios P Papageorgiou, Sabia Z Abidi, Ming Dao, Hong Zhao, George Em Karniadakis 
    
-   _PLoS Computational Biology 13 (10), e1005746, 2017._ [[Paper](Papers/2017_PLOS_RBC.pdf)], [[Bibtex]()], [[News](https://phys.org/news/2017-10-machine-automatically-red-blood-cells.html)][[News](https://www.medindia.net/news/new-system-developed-to-identify-shapes-of-red-blood-cells-173976-1.htm)]
+   _PLoS Computational Biology 13 (10), e1005746, 2017._ [[Paper](Papers/2017_PLOS_RBC.pdf)], [[Bibtex]()], [[News](https://phys.org/news/2017-10-machine-automatically-red-blood-cells.html)][[News](https://www.medindia.net/news/new-system-developed-to-identify-shapes-of-red-blood-cells-173976-1.htm)][ScienceDaily News](https://www.sciencedaily.com/releases/2017/10/171019142659.htm)
 
 - **[An image-enhancement method based on variable-order fractional differential operators](https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1430)**
 
