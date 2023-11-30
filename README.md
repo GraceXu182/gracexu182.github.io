@@ -61,8 +61,7 @@ My research lies at the intersection of computer science, medical imaging, and n
 
    **Mengjia Xu**, Akshay Rangamani, Andrzej Banburski, Qianli Liao, Tomer Galanti, Tomaso Poggio
    
-   _Research, vol. 6, Jan 10, 2023._ [[CBMM, memo 117, Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [[Bibtex]()]
-
+   _Research, vol. 6, Jan 10, 2023._ [[CBMM, memo 117, Paper](https://cbmm.mit.edu/sites/default/files/publications/JMLR__2021_1.pdf)], [(MIT News)](https://news.mit.edu/2023/training-dynamics-deep-classifiers-0308)
 > **2022**
 
 - **[Scalable algorithms for physics-informed neural and graph networks]()**
