@@ -140,7 +140,7 @@ My research lies at the intersection of computer science, medical imaging, and n
 > **2023**
 >
 > - 11/30/2023, invited to give a talk at the ["Machine Learning and Dynamical Systems Seminar", AI Turing Institute (UK)](https://www.turing.ac.uk/research/interest-groups/machine-learning-and-dynamical-systems) . 
-> - 11/13/2023, invited to give a seminar on the "Hyperbolic graph embedding" at the Caltech (hosted by [Prof. Houman Owhadi](https://www.eas.caltech.edu/people/owhadi)).
+> - 11/13/2023, invited to present "Hyperbolic graph embedding" at the Caltech Seminar (hosted by [Prof. Houman Owhadi](https://www.eas.caltech.edu/people/owhadi)).
 > - 11/6/2023, presented our work titled "Hyperbolic graph embedding for MEG brain network analysis" in the IDS Data Science Summit 2023 at [NJIT@Jersey City](https://jerseycity.njit.edu/).
 > - 11/2/2023, reviewed the paper entitled "A Generalization of ViT/MLP-Mixer to Graphs" to the FinTech seminar in the [Martin Tuchman School of Management](https://management.njit.edu/) at NJIT.
 > - 10/22/2023, presented our work titled "Adaptive time-stepping for learning temporal graph embeddings using transformers" at the [Annual meeting of SIAM-NNP"](https://sites.google.com/view/siam-nynjpa/annual-meeting).
