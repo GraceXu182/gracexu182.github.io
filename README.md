@@ -17,6 +17,8 @@ My research lies at the intersection of computer science, medical imaging, and n
 
 ## NEWS
 
+* 12/22/2023, one paper titled ["TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers"](https://arxiv.org/pdf/2307.02588.pdf) was accepted by the **Neural Networks**.
+
 * 9/21/2023, our paper titled ["Norm-based generalization bounds for compositionally sparse neural networks"](https://arxiv.org/abs/2301.12033) has been accepted by **[NeurIPS2023](https://nips.cc/)**
 
 * 3/8/2023, our recent work entitled [Dynamics in Deep Classifiers trained with the Square Loss: normalization, low rank, neural collapse and generalization bounds](https://spj.science.org/doi/pdf/10.34133/research.0024) has been published in _Research_ journal [(MIT News)](https://news.mit.edu/2023/training-dynamics-deep-classifiers-0308)
@@ -49,7 +51,7 @@ My research lies at the intersection of computer science, medical imaging, and n
 
   AJ Varghese, A Bora, **M Xu<sup>+</sup>**, GE Karniadakis (Corresponding Author)
   
-  [arXiv preprint arXiv:2307.02588](https://arxiv.org/pdf/2307.02588.pdf) (Under Revision)
+  [arXiv preprint arXiv:2307.02588](https://arxiv.org/pdf/2307.02588.pdf) (Accepted, Dec 2023)
 
 - **[Norm-based Generalization Bounds for Compositionally Sparse Neural Networks](https://arxiv.org/abs/2301.12033)**
 
