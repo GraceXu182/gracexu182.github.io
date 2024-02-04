@@ -41,6 +41,19 @@
             text-align: center;
             padding: 5px 0;
         }
+        .photo-gallery {
+            display: flex;
+            flex-wrap: wrap; /* Allows items to wrap to the next line */
+            gap: 10px; /* Space between images */
+            padding: 10px; /* Padding around the gallery */
+        }
+        
+        .photo-gallery img {
+            flex: 1 0 200px; /* Grow to fill space, don't shrink, base width of 200px */
+            height: auto;
+            object-fit: cover; /* Ensures images cover the area without distortion */
+            border-radius: 5px; /* Optional: adds rounded corners to the images */
+        }
     </style>
 </head>
 <body>
