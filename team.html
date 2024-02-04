@@ -17,6 +17,38 @@
 /*             padding-right: 20px; /* Adds some space between the logo and the navbar */ */
             margin-right: 2px; /* Adds some space between the logo and the first link */
         }
+        .team-member {
+        display: flex;
+        align-items: center; /* Vertically centers the items */
+        justify-content: center; /* Horizontally centers the flex items */
+        margin: 20px auto; /* Centers the container on the page */
+        max-width: 800px; /* Adjust based on your design preference */
+        }
+        
+        .member-photo {
+            width: 150px; /* Adjust based on your preference */
+            margin-right: 20px; /* Space between photo and details */
+            border-radius: 50%; /* Optional: makes the photo circular */
+        }
+        
+        .member-info {
+            text-align: left; /* Aligns the text to the left */
+        }
+        
+        @media (max-width: 600px) {
+            .team-member {
+                flex-direction: column; /* Stacks photo above text on smaller screens */
+                text-align: center; /* Center-aligns text for a stacked layout */
+            }
+            .member-photo {
+                margin-bottom: 10px; /* Adds space between the photo and text */
+                margin-right: 0; /* Removes the right margin */
+            }
+            .member-info {
+                text-align: center; /* Center-aligns text for a stacked layout */
+            }
+        }
+
     </style>
 </head>
     
