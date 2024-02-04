@@ -6,14 +6,38 @@
     <title>Invited Talks - XuLAB</title>
     <style>
         body { font-family: Arial, sans-serif; text-align: justify;}
-        .navbar { display: flex; overflow: hidden; align-items: center; background-color: #8B0000; }
-        .navbar a { float: left; display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none; }
-        a:link, a:visited, a:hover, a:active {
-        color: #0000EE; /* Standard blue color for links */
+        /* Styles for the navigation bar */
+        .navbar {
+            display: flex;
+            overflow: hidden;
+            align-items: center;
+            background-color: #8B0000; /* Dark red background */
         }
-        .navbar a:hover { background-color: #ddd; text-align: center; color: black; }
-        .navbar a:link, .navbar a:visited, .navbar a:active {
-        color: white; /* Sets the text color to white */
+        
+        /* Styles for links within the navigation bar */
+        .navbar a {
+            float: left;
+            display: block;
+            color: white; /* White text color for nav links */
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none; /* Removes underline from nav links */
+        }
+        
+        /* Hover effect for links within the navigation bar */
+        .navbar a:hover {
+            background-color: #ddd; /* Light gray background on hover */
+            color: black; /* Black text color on hover */
+        }
+        
+        /* Styles for all links on the page */
+        a:link, a:visited, a:hover, a:active {
+            color: #0000EE; /* Standard blue color for links */
+        }
+        
+        /* Ensure nav links do not adopt the global link color styles */
+        .navbar a:link, .navbar a:visited, .navbar a:hover, .navbar a:active {
+            color: white; /* Keep nav links white in all states */
         }
         .section { padding: 10px; }
         #logo {
@@ -21,9 +45,6 @@
             float: left; /* Aligns the logo to the left */
             margin-right: 2px; /* Adds some space between the logo and the first link */
         }
-        
-        
-
         .talks-list {
             padding-left: 0; /* Removes the default padding */
             margin-right: 20px;
