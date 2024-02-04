@@ -36,6 +36,12 @@
         .show {
             display: list-item; /* Show items as list-item */
         }
+        footer {
+            background-color: #f0f0f0;
+            color: #333;
+            text-align: center;
+            padding: 5px 0;
+        }
     </style>
 </head>
 <body>
@@ -109,6 +115,11 @@
     <li>1/24/2020, presented the work “A deep learning-based graph gaussian embedding method for the analysis of brain networks” in the Computation in Mind and Brain Seminar Series of <a href="https://www.brown.edu/carney/node/1">Carney Institute for Brain Science</a> at <a href="https://www.brown.edu/">Brown University</a>, hosted by <a href="https://vivo.brown.edu/display/srj3">Prof. Stephanie Jones</a>. (Providence, RI, USA)</li>
     </ul>
 </ul>
-
+<footer>
+    <p>&copy; <span id="year"></span> All rights reserved. Designed by Dr. Xu</p>
+</footer> 
+<script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+</script>
 </body>
 </html>
