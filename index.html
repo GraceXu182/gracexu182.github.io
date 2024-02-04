@@ -96,8 +96,11 @@
     <p>&copy; <span id="year"></span> All rights reserved. Designed by Dr. Xu</p>
     <!-- Visitor Counter: You might need to use a third-party service to implement this -->
     <p>Visitor Count: <span id="visitorCount">Loading...</span></p>
-</footer>
-    
+</footer> 
+
+<script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+</script>   
    
 <!-- <div id="people" class="section">
     <h2>Team</h2>
