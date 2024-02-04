@@ -78,36 +78,9 @@
     <li>4/20/2021 - 4/21/2021, attended the <a href="https://topml.rice.edu/">“TOPML 2021 Workshop on the Theory of Overparameterized Machine Learning”</a>, our work “Dynamics and Neural Collapse in Deep Classifiers with the Square Loss” was presented by Prof. Tomaso Poggio. (Virtual)</li>
     <li>2/13/2021, gave a plenary talk on “A new stochastic graph embedding method for Alzheimer’s disease early‐stage prediction and intervention evaluation” in the <a href="https://grand-challenges.embs.org/2021datascience/">IEEE EMBS Grand Challenges Forum: Data Science and Engineering in Healthcare</a>. (Virtual)</li>
     <li>1/15/2021, presented “nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation” at the <a href="https://www.brown.edu/research/projects/crunch/machine-learning-x-seminars">“Machine Learning +X” CRUNCH Seminar</a>, invited by Prof. George Em Karniadakis at Brown University. (Virtual)</li>
-
-
     
 
 </ul>
-
-<button onclick="loadMore()" id="loadMoreBtn">Load More</button>
-
-<script>
-    let loadLimit = 5; // Number of items to show each time
-    let currentCount = 0;
-
-    // Function to show more items
-    function loadMore() {
-        let list = document.getElementById('talksList').getElementsByTagName('li');
-        let maxCount = currentCount + loadLimit;
-        for (; currentCount < maxCount && currentCount < list.length; currentCount++) {
-            list[currentCount].classList.add('show');
-        }
-        // If the end of the list is reached, hide the "Load More" button
-        if (currentCount >= list.length) {
-            document.getElementById('loadMoreBtn').style.display = 'none';
-        }
-    }
-
-    // Initial load
-    window.onload = function() {
-        loadMore();
-    };
-</script>
 
 </body>
 </html>
