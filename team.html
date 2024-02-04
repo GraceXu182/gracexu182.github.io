@@ -9,7 +9,7 @@
         .navbar { display: flex; overflow: hidden; align-items: center; background-color: #8B0000; }
         .navbar a { float: left; display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none; }
         .navbar a:hover { background-color: #ddd; text-align: center; color: black; }
-        .section { padding: 10px; }
+        .section { padding: 5px; }
         #logo {
             height: 70px; /* Adjust based on your logo's size */
             float: left; /* Aligns the logo to the left */
@@ -64,6 +64,31 @@
             margin-right: auto;
             max-width: 800px; /* Adjust based on your design preference */
         }
+        .student-row {
+        display: flex;
+        flex-wrap: wrap; /* Allows items to wrap to the next line as needed */
+        justify-content: flex-start; /* Aligns items to the start of the row */
+        gap: 20px; /* Adds space between team members */
+        }
+        
+        .team-member {
+        flex-basis: calc(50% - 20px); /* Sets the base size for each team member, adjusting for gap */
+        display: flex;
+        align-items: flex-start;
+        }
+        
+        .member-photo {
+        width: 150px;
+        margin-right: 20px;
+        border-radius: 50%;
+        }
+        
+        .member-info {
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        }
+
         footer {
             background-color: #f0f0f0;
             color: #333;
@@ -87,56 +112,6 @@
     <a href="talks.html">Talks</a>
     <a href="services.html">Services</a>
 </div>
-
-<!-- <!-- NEW!!!!!!! -->
-<div class="team-section">
-    <!--  PI  -->
-    <h2 class="section-title">Principle Investigator</h2>
-     <div class="team-member">
-        <img src="images/mjx.jpg" alt="mengjiaxu" class="member-photo">
-        <div class="member-info">
-            <h3>Mengjia Xu, PhD.</h3>
-            <p>Assistant Professor, Data Science at YWCC</p>
-            <p>Research Affiliate, McGovern Institute for Brain Research at MIT</p>
-            <p>Core Faculty, Center for AI Research, NJIT</p>
-            <p>Core Faculty, Center for Big Data, NJIT</p>
-            <p>Office: GITC3901E</p>
-            <p>Email: mx6@njit.edu</p>
-        </div>
-    </div>
-    
-    <!--  Masters' Students    -->
-    <h2 class="section-title">Students</h2>
-        
-    <div class="team-member">
-        <img src="images/YH_pic_square.png" alt="aditya_patel" class="member-photo">
-        <div class="member-info">
-            <h3><a href="https://www.theadityapatel.com/">Aditya Patel</a></h3>
-            <p>Major: Data Science</p>
-            <p>Research: Graph neural networks for climate modeling; </p>
-            <p>Email: ap2935@njit.edu</p>
-        </div>
-    </div>
-    
-    <div class="team-member">
-        <img src="images/rupsa.jpeg" alt="Rupsa Banerjee" class="member-photo">
-        <div class="member-info">
-            <h3><a href="https://birbaner.github.io/">Rupsa Banerjee</a></h3>
-            <p>Major: Data Science</p>
-            <p>Research: Dynamic functional connectivity estimation; Graph respresentation learning</p>
-            <p>Email: rb757@njit.edu</p>
-        </div>
-    </div> 
-    <div class="team-member">
-        <img src="images/LAB_Logo-8.png" alt="Rupsa Banerjee" class="member-photo">
-        <div class="member-info">
-            <h3>Hamid Razavi</h3>
-            <p>M.S. in Data Science; B.S. in NanoEngineering (UCSD)</p>
-            <p>Email: hr283@njit.edu</p>
-        </div>
-    </div> 
-    
-</div> -->
     
 <div class="team-section">
     <!-- PI Section -->
