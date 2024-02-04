@@ -17,22 +17,22 @@
 .member-info p, .member-info a {
     margin: 5px 0; /* Spacing between details */
 }
+
 body { 
     font-family: Arial, sans-serif; 
     text-align: justify; 
 }
-body { font-family: Arial, sans-serif; text-align: justify;}
-    .navbar { overflow: hidden; background-color: #8B0000; }
-    .navbar a { float: left; display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none; }
-    .navbar a:hover { background-color: #ddd; color: black; }
-    .section { padding: 20px; }
-    #logo {
+.navbar { overflow: hidden; background-color: #8B0000; }
+.navbar a { float: left; display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none; }
+.navbar a:hover { background-color: #ddd; color: black; }
+.section { padding: 20px; }
+#logo {
 /*             width: 100px; */
-        height: 50px; /* Adjust based on your logo's size */
-        float: left; /* Aligns the logo to the left */
+    height: 50px; /* Adjust based on your logo's size */
+    float: left; /* Aligns the logo to the left */
 /*             padding-right: 20px; /* Adds some space between the logo and the navbar */ */
-        margin-right: 2px; /* Adds some space between the logo and the first link */
-    }
+    margin-right: 2px; /* Adds some space between the logo and the first link */
+}
 .navbar { 
     display: flex; 
     align-items: center; 
