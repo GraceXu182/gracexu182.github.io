@@ -36,6 +36,12 @@
             font-weight: bold; 
             color:  #8B0000;
         }
+        footer {
+            background-color: #f0f0f0;
+            color: #333;
+            text-align: center;
+            padding: 5px 0;
+        }
     </style>
 </head>
 <body>
@@ -77,7 +83,13 @@
     <li class="publication-item"><span class="bold">Xu, M.</span>, Yang, J., Zhao, D. and Zhao, H. <a href = "https://content.iospress.com/articles/bio-medical-materials-and-engineering/bme1430">An image-enhancement method based on variable-order fractional differential operators.</a> <em>Bio-Medical Materials and Engineering</em>, 2015, 26: 1325-1333.</li>
     <li class="publication-item"><span class="bold">Xu, M.</span>, Yang, J., Zhao, H., Zhao, D. Survey of hemodynamics simulation for diagnosis and prediction in vascular disease. <em>Journal of Image and Graphics</em>, 2015, 20(3): 297-310.</li>
 </ul>
-
+    
+<footer>
+    <p>&copy; <span id="year"></span> All rights reserved. Designed by Dr. Xu</p>
+</footer> 
+<script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+</script>
 </body>
 </html>
 
