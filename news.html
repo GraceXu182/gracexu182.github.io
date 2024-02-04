@@ -28,6 +28,12 @@
 /*             color: #333; */
             margin: 0 0 6px 0;
         }
+        footer {
+            background-color: #f0f0f0;
+            color: #333;
+            text-align: center;
+            padding: 5px 0;
+        }
     </style>
 </head>
 <body>
@@ -60,7 +66,12 @@
     </ul>
 </div>
 
-<!-- Other sections -->
+<footer>
+    <p>&copy; <span id="year"></span> All rights reserved. Designed by Dr. Xu</p>
+</footer> 
+<script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+</script>
 
 </body>
 </html>
