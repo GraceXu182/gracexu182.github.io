@@ -9,6 +9,10 @@
         .navbar { display: flex; overflow: hidden; align-items: center; background-color: #8B0000; }
         .navbar a { float: left; display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none; }
         .navbar a:hover { background-color: #ddd; text-align: center; color: black; }
+        .navbar a#logo-link:hover {
+            background-color: transparent; /* Keeps the background color unchanged */
+            color: white; /* Keeps the text color unchanged, if there's any text */
+        }
         .section { padding: 10px; }
         #logo {
             height: 70px; /* Adjust based on your logo's size */
@@ -16,12 +20,13 @@
 /*             padding-right: 20px; /* Adds some space between the logo and the navbar */ */
             margin-right: 2px; /* Adds some space between the logo and the first link */
         }
+        
     </style>
 </head>
 <body>
 
 <div class="navbar">
-    <a href="index.html"><img src="images/LAB_Logo-7.png" alt="XuLAB Logo" id="logo"></a>
+    <a href="index.html", id="logo-link"><img src="images/LAB_Logo-7.png" alt="XuLAB Logo" id="logo"></a>
     <a href="#about">About</a>
     <a href="news.html">News</a>
     <a href="team.html">Team</a>
