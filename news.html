@@ -8,6 +8,12 @@
        body { font-family: Arial, sans-serif; text-align: justify;}
         .navbar { display: flex; overflow: hidden; align-items: center; background-color: #8B0000; }
         .navbar a { float: left; display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none; }
+        a:link, a:visited, a:hover, a:active {
+            color: #0000EE; /* Standard blue color for links */
+        }
+        .navbar a:link, .navbar a:visited, .navbar a:hover, .navbar a:active {
+            color: white; /* Keep nav links white in all states */
+        }
         .navbar a:hover { background-color: #ddd; text-align: center; color: black; }
         .section { padding: 10px; }
         #logo {
