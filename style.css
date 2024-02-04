@@ -1,0 +1,73 @@
+.team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Space between team members */
+}
+
+.member-photo {
+    width: 150px; /* Adjust based on your preference */
+    margin-right: 20px; /* Space between photo and details */
+    border-radius: 50%; /* Optional: makes the photo circular */
+}
+
+.member-info h3 {
+    margin-top: 0;
+}
+
+.member-info p, .member-info a {
+    margin: 5px 0; /* Spacing between details */
+}
+body { 
+    font-family: Arial, sans-serif; 
+    text-align: justify; 
+}
+.navbar { 
+    display: flex; 
+    align-items: center; 
+    background-color: purple; /* Dark red */
+    overflow: hidden; 
+    padding: 0 20px; 
+}
+.navbar a { 
+    display: block; 
+    color: white; 
+    text-align: center; 
+    padding: 14px 20px; 
+    text-decoration: none; 
+}
+.navbar a:hover { 
+    background-color: #ddd; 
+    color: black; 
+}
+.news-list {
+    list-style-type: none;
+    padding: 0;
+}
+.news-list li {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+.news-list li:last-child {
+    border-bottom: none;
+}
+.news-list strong {
+    color: #333;
+}
+.news-list a {
+    color: #007bff;
+    text-decoration: none;
+}
+.news-list a:hover {
+    text-decoration: underline;
+}
+.news-list em {
+    font-style: italic;
+}
+#logo {
+/*             width: 100px; */
+    height: 50px; /* Adjust based on your logo's size */
+    float: left; /* Aligns the logo to the left */
+/*             padding-right: 20px; /* Adds some space between the logo and the navbar */ */
+    margin-right: 2px; /* Adds some space between the logo and the first link */
+}
