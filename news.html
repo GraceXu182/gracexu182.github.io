@@ -32,26 +32,46 @@
             /* If you have a header or any other elements above .content-wrap, subtract their heights as well */
         }
         
-        .gallery {
+/*         .gallery {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             gap: 25px;
             padding: 20px;
             max-width: 1300px; /* Adjust as needed */
-            margin: auto; /* Centers the gallery horizontally if the width is defined */
-            width: 100%; /* Ensures the image width fills the container */
-            object-fit: cover; 
+/*             margin: auto; /* Centers the gallery horizontally if the width is defined */ */
+/*             width: 100%; /* Ensures the image width fills the container */ */
+/*             object-fit: cover;  */
+/*         } */ */
+        .gallery {
+            overflow: hidden;
+            max-width: 100%;
+            margin: auto;
+        }
+        
+        .gallery-inner {
+            display: flex;
+            animation: slideShow 10s linear infinite; /* Adjust duration for speed */
+        }
+        
+        @keyframes slideShow {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-50%); /* Moves the images by half of the container's width */
+            }
         }
 
         .figure {
 /*             display: flex; */
-            display: inline-block;
             flex-direction: column;
-            align-items: center;
+            align-items: center; */
+            flex: 0 0 auto;
+            width: 33.3333%; 
             transition: transform 0.5s ease-in-out;
         }
         .figure:hover {
-            transform: rotate(360deg);
+            transform: scale(1.1); 
         }
 
         .figure img {
@@ -112,30 +132,30 @@
         <h2>Media</h2>
     </div>
          
-    <div class="gallery">
+<div class="gallery">
+    <div class="gallery-inner">
         <div class="figure">
             <img src="images/media_research_2023.png" alt="DOE poster">
-<!--             <div class="description">
-                <p style="color: #333333;"><b>New insights into training dynamics of deep classifiers</b> (<a href= "https://spj.science.org/doi/pdf/10.34133/research.0024?adobe_mc=MCMID%3D63000837841860946489208149054056839995%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1675468800">Download Paper</a>)</p>
-                <p>Mar 08, 2023, <a href = "https://news.mit.edu/2023/training-dynamics-deep-classifiers-0308">MIT News</a></p>
-            </div> -->
         </div>
         <div class="figure">
-            <img src="images/SIAM.jpg" alt="SIAMREVIEW">
-<!--             <div class="description">
-                <p style="color: #333333;"><b>Invited Paper: Understanding Graph Embedding Methods and Their Applications</b> (<a href = "https://epubs.siam.org/doi/pdf/10.1137/20M1386062">Download paper</a>)</p>
-                 <p style="color: #333333;">November 4, 2021</p>
-            </div> -->
+            <img src="images/SIAM.jpg" alt="SIAM Review">
         </div>
         <div class="figure">
-            <img src="images/SCD_Media.png" alt="PLos paper"> 
-<!--             <div class="description">
-                 <p style="color: #333333;"><b>New machine learning system can automatically identify shapes of red blood cells</b> (<a href ="https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005746&type=printable">Download paper</a>)</p>
-                 <p style="color: #333333;">October 19, 2017, <a href = "https://www.sciencedaily.com/releases/2017/10/171019142659.htm">Science Daily News</a></p>
-            </div> -->
+            <img src="images/SCD_Media.png" alt="PLOS Paper">
         </div>
-        
+        <!-- Repeat images for continuous effect -->
+        <div class="figure">
+            <img src="images/media_research_2023.png" alt="DOE poster">
+        </div>
+        <div class="figure">
+            <img src="images/SIAM.jpg" alt="SIAM Review">
+        </div>
+        <div class="figure">
+            <img src="images/SCD_Media.png" alt="PLOS Paper">
+        </div>
     </div>
+</div>
+
     
 </div>
     
