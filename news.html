@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>News - XuLAB</title>
     <style>
-        html, body { height: 100%; font-family: Arial, sans-serif; text-align: justify;}
+        html, body { height: 100%; margin:0; font-family: Arial, sans-serif; text-align: justify;}
         .navbar { display: flex; overflow: hidden; align-items: center; background-color: #8B0000; }
         .navbar a { float: left; display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none; }
         a:link, a:visited, a:hover, a:active {
@@ -24,35 +24,39 @@
         .news{
             margin-bottom: 10px;
             font-size: 1em;
-/*             color: #333; */
             margin: 0 0 6px 0;
         }
-        main {
-            flex: 1; /* Allows the main content to grow and fill available space */
-        }
-        .content-wrap {
-            display: flex; /* Enables Flexbox */
-            flex-direction: column; /* Stacks children vertically */
-            min-height: 100vh; /* Minimum height is 100% of the viewport height */
-        }
+        
         footer {
             background-color: #f0f0f0;
             color: #333;
             text-align: center;
             padding: 5px 0;
         }
-        .photo-gallery {
-            display: flex;
-            flex-wrap: wrap; /* Allows items to wrap to the next line */
-            gap: 10px; /* Space between images */
-            padding: 10px; /* Padding around the gallery */
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            width: 80%;
+            max-width: 1200px;
         }
-        
-        .photo-gallery img {
-            flex: 1 0 50px; /* Grow to fill space, don't shrink, base width of 200px */
-            height: auto;
-            object-fit: cover; /* Ensures images cover the area without distortion */
-            border-radius: 5px; /* Optional: adds rounded corners to the images */
+
+        .figure {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .figure img {
+            width: 100%; /* Adjust the width of images */
+            height: auto; /* Maintain the aspect ratio */
+            border-radius: 10px;
+        }
+
+        .description {
+            margin-top: 10px;
+            text-align: center;
         }
     </style>
 </head>
@@ -86,21 +90,29 @@
     </ul>
 </div>
     
-<div, class="photo-gallery">
-    <img src="images/media_research_2023.png" alt="DOE poster">
-    <div class="text-content">
-        <h3>Title or Heading</h3>
-        <p>This is a paragraph describing the content related to the image. You can add more text here to provide more details or context.</p>
+<div class="gallery">
+    <div class="figure">
+        <img src="images/media_research_2023.png" alt="DOE poster">
+        <div class="description">
+            <li>New insights into training dynamics of deep classifiers</li>
+            <li>MIT News, 2023</li>
+        </div>
     </div>
-
-    <img src="images/media_research_2023.png" alt="DOE poster">
-     <div class="text-content">
-        <h3>Title or Heading</h3>
-        <p>This is a paragraph describing the content related to the image. You can add more text here to provide more details or context.</p>
+    <div class="figure">
+        <img src="path-to-your-image2.jpg" alt="Image 2 Description" style="max-height: 150px;"> <!-- Example of an image with a different size -->
+        <div class="description">Description of Image 2</div>
     </div>
-   
+    <div class="figure">
+        <img src="path-to-your-image3.jpg" alt="Image 3 Description" style="max-height: 200px;"> <!-- Another image with a different size -->
+        <div class="description">Description of Image 3</div>
+    </div>
+    <div class="figure">
+        <img src="path-to-your-image4.jpg" alt="Image 4 Description">
+        <div class="description">Description of Image 4</div>
+    </div>
 </div>
     
+
 <footer>
     <p>&copy; <span id="year"></span> All rights reserved. Designed by Dr. Xu</p>
 </footer> 
