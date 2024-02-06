@@ -1,1 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications - XuLAB</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: justify;}
+        .navbar { display: flex; overflow: auto; position: relative; align-items: center; background-color: #8B0000; }
+        .navbar a { float: left; display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none; }
+        a:link, a:visited, a:hover, a:active {
+            color: #0000EE; /* Standard blue color for links */
+        }
+        .navbar a:link, .navbar a:visited, .navbar a:hover, .navbar a:active {
+            color: white; /* Keep nav links white in all states */
+        }
+        .navbar a:hover { background-color: #ddd; text-align: center; color: black; }
+        .section { padding: 10px; }
+        #logo {
+            height: 70px; /* Adjust based on your logo's size */
+            float: left; /* Aligns the logo to the left */
+            margin-right: 2px; /* Adds some space between the logo and the first link */
+        }
+       .publications {
+            margin-left: 20px;
+            margin-right: 20px;
+           
+        }
+        .publication-item {
+            margin-bottom: 10px;
+        }
+        .bold { 
+            font-weight: bold; 
+        }
+        .highlight {
+            font-weight: bold; 
+            color:  #8B0000;
+        }
+        footer {
+            background-color: #f0f0f0;
+            color: #333;
+            text-align: center;
+            padding: 5px 0;
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="navbar">
+    <img src="images/LAB_Logo-7.png" alt="XuLAB Logo" id="logo">
+    <a href="index.html">Home</a> <!-- Make sure this link points to your homepage -->
+    <a href="index.html#about">About</a>
+    <a href="news.html">News</a>
+    <a href="publications.html">Publications</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="talks.html">Talks</a>
+    <a href="services.html">Services</a>
+    <a href="team.html">People</a>
+    <a href="seminar.html">Seminar</a>
+    <a href="index.html#contact">Contact</a>
+</div>
+
+<h2> I am organizing the Data Science Department Seminar from 2023 - 2024.</h2>
+ <li> Fall 2023, our invited guest speakers can be found from 
+   <a href = "https://docs.google.com/document/d/1VvOcwNowyuj-IYRJfGTnj8vbozTz9Get/edit?usp=sharing&ouid=104539450366585111033&rtpof=true&sd=true">here</a>
+ </li>
+    
+    
+<footer>
+    <p>&copy; <span id="year"></span> All rights reserved. Designed by Dr. Xu</p>
+</footer> 
+<script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+</body>
+</html>
+
+
+
 
