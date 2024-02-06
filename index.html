@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>XuLAB</title>
     <style>
-        body { font-family: Arial, sans-serif; text-align: justify;}
+        html, body {height: 100%; margin: 0; font-family: Arial, sans-serif; text-align: justify;}
         .navbar { display: flex; overflow: auto; position: relative; align-items: center; background-color: #8B0000; }
         .navbar a { float: left; display: block; color: white; text-align: center; padding: 14px 20px; text-decoration: none; }
         a:link, a:visited, a:hover, a:active {
@@ -21,6 +21,11 @@
             float: left; /* Aligns the logo to the left */
 /*             padding-right: 20px; /* Adds some space between the logo and the navbar */ */
             margin-right: 2px; /* Adds some space between the logo and the first link */
+        }
+        .content-wrap {
+            min-height: calc(100vh - 70px); /* Adjust 60px to your footer's height */
+            flex: 1 0 auto; 
+            /* If you have a header or any other elements above .content-wrap, subtract their heights as well */
         }
 
         footer {
