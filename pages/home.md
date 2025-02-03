@@ -16,7 +16,7 @@ permalink: /
 <p align="justify">
 <b>Welcome to Xu Lab, where innovation meets precision, and interdisciplinarity drives discovery in the realm of artificial intelligence (AI) and data science.</b>  
 
-Our research tackles complex challenges through foundational studies and diverse applications, spanning geometry-aware deep learning, large language models (LLMs), state-space models, and generative AI (GenAI) to address various scientific problems in healthcare, biology, neuroscience, and climate modeling. 
+Our research tackles complex challenges through foundational studies and diverse applications, spanning geometry-aware deep learning, large language models (LLMs), state-space models, and generative AI (GenAI) to address various scientific problems in healthcare, biology, neuroscience, and earth system modeling. 
 
 By combining expertise in <b>algorithm design, applied research, and interdisciplinary collaboration</b>, we are dedicated to pushing the boundaries of intelligent systems in AI, driving advancements that impact both theory and practice.
 
