@@ -1,0 +1,149 @@
+
+.cards {
+  // Mimics Bootstrap .card-deck, stretching cards to equal height, but without
+  // stretching width when there are fewer cards on one row (cards remain equal width)
+  div[class*="col"] {
+    display: flex;
+    align-items: stretch;
+  }
+}
+
+.card {
+  margin-bottom: $grid-gutter-width;
+  min-width: 100%; // Use allowed width even if content is smaller
+
+  .card-img-top {
+    height: 150px;
+    object-fit: cover;
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+      line-height: 150px;
+    }
+  }
+
+  .card-subtitle {
+    color: $gray-600;
+    margin-bottom: 0.5rem;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  .card-body {
+    a {
+      color: $body-color;
+    }   
+  }    
+
+  .card-footer {
+    background: inherit;
+    border-top: none;
+
+    // Smaller badge then the one defined in _jumbotron.scss
+    .badge {
+      border: 1px solid $michigan-arboretum-blue;
+      font-family: $font-family-base;
+      // text-transform: capitalize;
+
+      &:hover,
+      &:focus {
+        border: 1px solid $link-hover-color;
+      }
+    }
+  }
+}
+
+.project-top {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: white;
+  border-radius: 0;
+  color: #fff;
+  text-shadow: 2px 2px 3px #333;
+  position: relative;
+  text-align: center;
+  padding: 0 10px;
+  white-space: nowrap;
+  overflow-x: clip;
+}
+
+// projects 
+.project-card {
+  border-radius: 10px;
+  overflow: hidden;
+}
+.project-card:hover {
+  box-shadow: 4px 4px 8px #aaa;
+  border: 1px solid #aaa;
+}
+
+// newsfeed posts
+.post-card {
+  border: 1px solid transparent;
+  border-top: 1px solid grey;
+  border-radius: 0;
+  padding: 5px;
+
+  .card-body {
+    padding: 0;
+    a {
+      color: $body-color;
+    }    
+  }
+  .card-footer {
+    padding: 0;
+  }
+}
+.post-card:hover {
+  box-shadow: 4px 4px 8px #aaa;
+  border-left: 1px solid #ccc;
+}
+
+// publications
+.publication-card, .talk-card, .course-card, .event-card {
+  border: 1pt;
+  border-top: 1px solid rgb(146, 22, 22);
+  border-left: 1px solid grey;
+  border-radius: 0.5;
+  border-top-left-radius: 10px;
+
+  .external-link {
+    color: $link-color !important; 
+  }
+
+  .external-link:hover {
+    color: lighten($link-color, 10%) !important;
+  }
+}
+
+.recent-news {
+  display: inline-block;
+  color: #eee !important;
+  border: 1px solid #555;
+  border-radius: 9px;
+  width: 100px;
+  height: 24px;
+  line-height: 20px;
+  font-size: 0.8rem;
+  text-align: center;
+  font-family: "Source Code Pro", monospace;
+  text-shadow: 1px 1px 2px black;
+}
+.recent-news:hover {
+  color: white !important;
+  border-color: #888;
+  text-decoration: none;
+}
+.section-header-link {
+  color: $body-color !important;
+  text-decoration: none !important;
+}
+.section-header-link:hover {
+  color: lighten($body-color, 20%) !important;
+  text-shadow: 1px 1px #ddd;
+}

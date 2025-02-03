@@ -1,0 +1,18 @@
+---
+layout: base/base
+type: event
+embedded_lists: true
+suppress_narrow_ticker: true
+---
+
+<!-- determine whether there will be a ticker -->
+{% include lists/posts.html %}
+
+<div class="row">
+  <div class="col-md-10 mx-auto {{ item_class }}">
+    {{ content }}
+    {% include lists/funding.html %}
+  </div>
+
+  {% include lists/news-ticker.html %}
+</div>

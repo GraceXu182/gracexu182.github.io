@@ -1,0 +1,36 @@
+---
+layout: base/base
+description: Template for a list of project cards, with full width
+remarks: See also page.layout == 'projects' in footer.html
+---
+
+<div class="row">
+  <div class="col">
+    {{ content }}
+  </div>
+</div>
+
+<div class="row cards">
+  {% assign sorted_projects = site.projects | sort: "order" %}
+  {% for project in sorted_projects %}
+  <div class="col-md-6 col-lg-4">
+    {% include cards/project-card.html hide="d-none" %}
+  </div>
+  {% endfor %}
+</div>
+
+<!-- added by MX -->
+<div class="row">
+  <div class="col">
+    <!-- <h2></h2> -->
+    <p style="font-size: 1.2em;">We are grateful for the support of our sponsors:</p>
+    <div class="row justify-content-center align-items-center">
+      <div class="col-6 col-md-3">
+      <img src="../assets/images/DOE-logo.png" alt="DOE Logo" class="img-fluid">
+      </div>
+      <div class="col-6 col-md-3">
+      <img src="../assets/images/afosr-logo-1.png" alt="AFOSR Logo" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</div>

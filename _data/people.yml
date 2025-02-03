@@ -1,0 +1,239 @@
+#-------------------------------------------------------------------------------------
+# in addition to information enumerated here, a person may _optionally_ choose to 
+# create expanded information in _people/<id>.md
+#-------------------------------------------------------------------------------------
+# People are ordered on the People page as follows:
+#   in the order they are found in this file
+# However, we recommend using the order (but it is not enforced by the code):
+#   PI first, then active members, than inactive members (i.e., those with an end_date)
+#   within the active group, by start_date (oldest members first)
+#   within the inactive group, by end_date (most recently departed members first)
+#-------------------------------------------------------------------------------------
+# the 'id' field is the unique identifier used for tagging and md files
+# '_' characters are removed from the 'id' field to create the name used in Badges
+#-------------------------------------------------------------------------------------
+
+# - id: Postdoc_Fellow # used internally to identify this person, e.g., in a Newsfeed post "people" field
+#   name: Postdoc Fellow # as display on the web page People item
+#   role: Postdoctoral Fellow # will appear next to name
+#   program: null # omit if not applicable
+#   image: assets/images/vippng.com-face-silhouette-png-56170.png # can be external link
+#   orcid: null
+#   email: pfellow22@umich.edu
+#   github: null
+#   twitter: null
+#   description: Solved really important problems in project 2.
+#   status: active # or "collaborator" or "past"
+#   current_position: PhD student, Genetics and Genomics Program, University of Michigan # optional, to indicate where people are now
+#   badges:
+#     - TYPE=ID # e.g. person=John_Doe, project=project1 (no spaces)
+
+
+#-------------------------------------------------------------------------------------
+# Principal Investigator; many fields not relevant, they always apply to the PI for their own page
+#-------------------------------------------------------------------------------------
+- id: mengjia # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Mengjia Xu # as display on the web page People item
+  role: Principal Investigator # will appear next to name
+  program: Data Science # omit if not applicable
+  image: assets/images/default_female.jpg  # can be external link
+  image: assets/images/mjx_njit.png # can be external link
+  description: Dr.Xu is a tenure-track Assistant Professor in the Department of Data Science, Ying Wu College of Computing at NJIT. Dr. Xu received her Ph.D. in Computer Science from Northeastern University and completed a two-year joint Ph.D. study in the Division of Applied Mathematics at Brown University. She conducted postdoctoral research at both Brown University and the MIT McGovern Institute for Brain Research. Her research interests encompass deep learning, LLMs, graph machine learning, and their applications in various domains, including healthcare, biology, neuroscience, climate modeling, and solar physics. Dr. Xu has published in top-tier conferences and journals such as NeurIPS, MICCAI, TNNLS, SIAM Review, Neural Networks, and PLoS Computational Biology. She has received several prestigious awards, including grants from the DOE and AFOSR, in support of her research.
+  orcid: 0000-0000-0000-0000
+  email: mx6@njit.edu
+  github: GraceXu182
+  googlescholar: https://scholar.google.com/citations?user=Ok1giekAAAAJ&hl=en
+  twitter: null
+  status: pi
+  badges:
+   - project=project1
+   - project=project2
+   - project=project3
+
+ 
+#-------------------------------------------------------------------------------------
+# current group members
+#-------------------------------------------------------------------------------------
+- id: Sarang_Patil # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Sarang Patil # as display on the web page People item
+  role: PhD Student # will appear next to name
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/sarang.jpeg # can be external link
+  orcid: null
+  email: sp3463@njit.edu
+  github: null
+  twitter: null
+  description: #Spatial-temporal graphs, climate modeling, LLMs
+  status: active
+  badges:
+    - project=project1 
+    # - project=project3
+
+- id: Yiran_Huang # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Yiran Huang  # as display on the web page People item
+  role: PhD Student # will appear next to name
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/YiranHuang.jpeg  # can be external link
+  orcid: null
+  email: yh87@njit.edu
+  github: null
+  twitter: null
+  description: #Computer vision, LLMs
+  status: active
+  badges:
+    # - project=project1 
+    # - project=project3
+
+- id: Ashish_Pandey # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Ashish Pandey # as display on the web page People item
+  role: Matser's Student
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/ashish.jpeg # can be external link
+  orcid: null
+  email: ap2934@njit.edu
+  googlescholar: https://scholar.google.com/citations?user=E2vtJSIAAAAJ&hl=en
+  github: Dettrax
+  twitter: null
+  description: #Spatial-temporal graphs, Mamba, GNNs
+  status: active
+  badges:
+    - project=project1 
+    # - project=project3
+
+- id: Fatma # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Fatma Gizem Isir # as display on the web page People item
+  role: Master's student (Research intern, Spring'25) 
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/Fatma.jpeg # can be external link
+  orcid: null
+  email: null
+  googlescholar: null
+  github: null
+  twitter: null
+  description: #Gemomics data analysis，LLMs
+  status: active
+  badges:
+    # - project=project1 
+
+- id: Shreyas # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Shreyas Rajesh Shende  # as display on the web page People item
+  role: Master's student
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/default.jpg # can be external link
+  orcid: null
+  email: null
+  googlescholar: null
+  github: null
+  twitter: null
+  description: #Gemomics data analysis，LLMs
+  status: active
+  badges:
+    # - project=project1 
+
+- id: Amirhossein # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Amirhossein Nouranizadeh # as display on the web page People item
+  role: M.S. (Research intern, Spring'25) 
+  program: AI Engineering, Tehran Polytechnic # omit if not applicable
+  image: assets/images/Amirhossein.png # can be external link
+  orcid: null
+  email: nouranizadeh@aut.ac.ir
+  googlescholar: https://scholar.google.com/citations?user=6BiwqDcAAAAJ&hl=en
+  github: null
+  twitter: null
+  description: #Causal Graph Discovery, GNNs
+  status: active
+  badges:
+    # - project=project1    
+# - id: Yitong_Huang # used internally to identify this person, e.g., in a Newsfeed post "people" field
+#   name: Yitong Huang # as display on the web page People item
+#   role: High School Student (Summer Intern '25)
+#   program: Montgomery High School # omit if not applicable
+#   image: assets/images/default_female.jpg # can be external link
+#   orcid: null
+#   email: null
+#   github: null
+#   twitter: null
+#   description: TBD
+#   status: active
+#   badges:
+    # - project=project1 
+#-------------------------------------------------------------------------------------
+# past group members
+#-------------------------------------------------------------------------------------
+- id: Hamid_Razavi # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Hamid Razavi 
+  role: Master's Student (2024)
+  program: Data Science # omit if not applicable
+  image: assets/images/default.jpg # can be external link
+  end_date: 2024
+  orcid: null
+  email: null
+  github: null
+  twitter: null
+  description: #Explainable GNNs for stimulant medication misuse prediction (Thesis) 
+  status: past 
+  current_position: null #PhD student, XXX program, University XXX
+
+- id: Rupsa_Banerjee # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Rupsa Banerjee
+  role: Master's Student (2023-2024)
+  program: Data Science # omit if not applicable
+  image: assets/images/rupsa.jpeg # can be external link
+  end_date: 2024
+  orcid: null
+  email: null
+  github: null
+  twitter: null
+  description: #Temporal brain network embedding for Alzheimer's disease diagnosis using transformers and GNNs
+  status: past
+  current_position: AI Engineer (Reality AI Lab, New York, NY)
+
+- id: Aditya_Patel # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Aditya Patel
+  role: Master's Student (Spring'24)
+  program: Data Science  # omit if not applicable
+  image: assets/images/aditya_patel.png # can be external link
+  end_date: 2024
+  orcid: null
+  email: null
+  github: null
+  twitter: null
+  description: #Attention-driven U-Net for solving climate inverse problems
+  status: past
+  current_position: TBD
+
+############################################################################################################
+# Past MIT advidees (Cole and Hugo) are co-advised by Dr. Xu and Dr. Pantazis
+############################################################################################################
+
+- id: Hugo_Ramirez # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Hugo Ramirez (Co-advised)
+  role: Master's Student (2022-2023)
+  program: EECS&Math (MIT) # omit if not applicable
+  image: assets/images/hugo.jpg # can be external link
+  end_date: 2023
+  orcid: null
+  email: null
+  github: null
+  linkedin: https://www.linkedin.com/in/hugoramirez8aa155172/
+  description: #Fully Hyperbolic Neural Networks -- A Novel Approach to Studying Aging Trajectories
+  status: past 
+  current_position: Software Engineer ([Amazon Robotics](https://amazon.jobs/content/en/teams/ftr/amazon-robotics), Greater Boston Area, MA)
+  badges:
+    - project=project2 
+
+- id: Cole_Baker # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Cole Baker (Co-advised)
+  role: Master's Student (2021-2022)
+  program: EECS&Math (MIT) # omit if not applicable
+  image: assets/images/cole_MIT.png # can be external link
+  end_date: 2022
+  orcid: null
+  github: null
+  linkedin: https://www.linkedin.com/in/cole-baker-724573130/
+  description: #Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline
+  status: past 
+  current_position: AI Research Scientist ([1910 Genetics](https://www.1910genetics.com), Greater Boston, MA)
+  badges:
+    - project=project3 
+    - Newsfeed=

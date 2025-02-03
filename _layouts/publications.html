@@ -1,0 +1,14 @@
+---
+layout: base/base
+description: Template for publications page
+remark: See also page.layout == 'publications' in head.html and jumbotron.html
+type: publication
+---
+
+<div class="row">
+    <div class="col">
+        {{ content }}
+    </div>
+</div>
+
+{% include lists/publications.html %}

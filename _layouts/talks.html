@@ -1,0 +1,14 @@
+---
+layout: base/base
+description: Template for resources page
+remark: See also page.layout == 'resources' in head.html and jumbotron.html
+type: resource
+---
+
+<div class="row">
+    <div class="col">
+        {{ content }}
+    </div>
+</div>
+  
+{% include lists/talks.html %}

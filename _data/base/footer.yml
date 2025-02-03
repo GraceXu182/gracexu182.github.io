@@ -1,0 +1,31 @@
+# Footer content is organized in columns, with the first one reserved for social icons (defined in _config.yml).
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - description:
+    links:
+    - text: Ying Wu Collge of Computing, NJIT
+      href: https://computing.njit.edu/
+      new_window: true
+    - text: Academic Canlendar, NJIT
+      href: https://www.njit.edu/registrar/calendars
+      new_window: true
+    - text: Apply to the PhD Program in Data Science , NJIT
+      href: https://ds.njit.edu/phd-data-science
+      new_window: true
+
+    # - text: NJIT AI&DS Star Seminar Series (Spring 2025)
+    #   href: 
+    #   new_window: true
+    # add more departments as needed
+
+  # - description: > # e.g. funding acknowledgement.
+  #     Our work is supported by the DOE and AFOSR.
+  #   links: false
+  #   image: /assets/images/doe-logo.png
+  #   image_alt: Department of Energy 
+
+# Small print license statement to add at the bottom of the footer. Can be Markdown
+license:
+  Powered by Jekyll and hosted by GitHub Pages.

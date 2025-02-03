@@ -1,0 +1,17 @@
+<a id="{{ post.id }}"></a>
+<div class="card post-card pt-2 mb-4" >
+  <div class="card-body">
+    <a href="{{ post.url | relative_url }}">
+      <p>
+        {% include base/event-banner.html event_type=post.event_type %}
+        <strong class="{{ post.event_type }}-hue" style="float: right;" 
+                font-family="'Source Code Pro', monospace">{{ post.date | date: "%B %e, %Y" }}</strong>
+      </p>
+      <h6><b>{{post.title}}</b></h6>
+      <h7>{{post.description | truncatewords: site.max_words_card_short}}</h7>
+    </a>
+  </div>
+
+  {% assign item = post %}    
+  {% include base/badges.html %}
+</div>

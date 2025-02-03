@@ -1,0 +1,179 @@
+#-------------------------------------------------------------------------------------
+# site settings
+#-------------------------------------------------------------------------------------
+version: 1 # increment version to force a site rebuild and update Recent News even if content is unchanged
+title: "Xu Lab" # in top navigation bar (navbar) and <head>
+description: Xu Lab, New Jersey Institute of Technology # description in <head>
+author: Mengjia Xu                    # for copyright statement in footer
+url: "https://xulab.github.io" # no slash at the end
+baseurl: ""              # only required if your site is on a subdomain e.g. https://username.github.io/sitename
+                                    # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
+#-------------------------------------------------------------------------------------
+# social profile of the principal investigator; icon links shown in footer
+#-------------------------------------------------------------------------------------
+email: mx6@njit.edu
+twitter_username: null
+github_username: GraceXu182
+#-------------------------------------------------------------------------------------
+# theme display settings
+#-------------------------------------------------------------------------------------
+max_posts_newsfeed: 24  # Show x number of recent news posts on the dedicated Newsfeed page
+max_posts_home: 3       # Show x number of recent news posts on home page
+max_posts_other: 10     # Show x number of recent news posts on other pages
+max_projects_home: 12  # Show x number of active projects on home page
+max_words_card_short: 25  # truncate project, people and news descriptions after this many words in cards
+max_words_card_long: 50   # truncate other descriptions after this many words in cards
+logo: /assets/images/njit-logo.gif # Logo in navbar, will be displayed at 30px height
+colors:
+  links:  "#2F65A7"    # Color for links: use a readable color that contrasts well with dark text
+
+
+# !!! only developers should edit below this line !!!
+
+
+#-------------------------------------------------------------------------------------
+# collections of data pages; only developers should edit this section
+#-------------------------------------------------------------------------------------
+# collections folders carry markdown files with expanded views of some or all data items
+# Newsfeed items use the hard-coded Jekyll _posts collection
+#-------------------------------------------------------------------------------------
+collections_dir: content
+collections:
+#-------------------------------------------------------------------------------------
+  projects: # found in the _projects folder, etc.   
+    name: projects
+    item: project
+    link: page_always
+    output: true   
+    hue: 225 # blue
+  courses: 
+    name: courses
+    item: course
+    link: page_if_exists
+    output: true 
+    hue: 0 # red
+  people: 
+    name: people
+    item: person
+    link: hash_always
+    output: true   
+    hue: 45 # gold
+  talks: 
+    name: talks
+    item: talk
+    link: hash_always
+    output: true   
+    hue: 135 # green
+  publications: 
+    name: publications
+    item: publication
+    link: hash_always
+    output: true   
+    hue: 270 # purple
+  seminars: 
+    name: seminars
+    item: seminar
+    link: hash_always
+    output: true   
+    hue: 180 # cyan
+  newsfeed: 
+    name: newsfeed
+    item: post
+    link: never
+    output: true
+    hue: 315 # magenta
+
+
+# eight equally spaced color hues: 
+# 0 red = resources
+# 45 gold = people
+# 90 limegreen
+# 135 green = funding
+# 180 cyan = events
+# 225 blue = projects, also default banner color
+# 270 purple = publications
+# 315 magenta = newsfeed (color never used on live page)
+
+#-------------------------------------------------------------------------------------
+# frontmatter defaults; only developers should edit this section
+#-------------------------------------------------------------------------------------
+defaults:
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      permalink: "/projects/:slug/"
+      layout: "items/project"
+  -
+    scope:
+      path: ""
+      type: "people"
+    values:
+      permalink: "/people/:slug/"
+      layout: "items/person"
+  -
+    scope:
+      path: ""
+      type: "publications"
+    values:
+      permalink: "/publications/:slug/"
+      layout: "items/publication"
+  -
+    scope:
+      path: ""
+      type: "talks"
+    values:
+      permalink: "/talks/:slug/"
+      layout: "items/talks"
+  -
+    scope:
+      path: ""
+      type: "courses"
+    values:
+      permalink: "/courses/:slug/"
+      layout: "items/course" 
+  -
+    scope:
+      path: ""
+      type: "seminars"
+    values:
+      permalink: "/seminars/:slug/"
+      layout: "items/seminar" 
+  -
+    scope:
+      path: ""
+      type: "newsfeed"
+    values:
+      permalink: "/newsfeed/:slug/"
+      layout: "items/post"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "base/default" # Only required for Petridish website, implied for sites using a theme
+
+#-------------------------------------------------------------------------------------
+# build settings; only developers should edit this section
+#-------------------------------------------------------------------------------------
+remote_theme: wilsonte-umich/umich-labs
+markdown: kramdown
+plugins: # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+  - package-lock.json
+  - package.json
+  - petridish.gemspec
+
+#-------------------------------------------------------------------------------------
+# legacy color settings from petridish, not used by umich-labs
+#-------------------------------------------------------------------------------------
+banner: "red"    # Background color for page banners: use color that contrasts well with white
+footer: "red"    # Background color for footer: use color that contrasts well with white

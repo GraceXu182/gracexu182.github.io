@@ -1,0 +1,25 @@
+{% assign collection = site.data.publications %}
+{% include lists/filtered-list.html %}
+
+{% if filtered.size > 0 %}
+<div class="row publications">
+{% if layout.embedded_lists %}
+<h4 class="col mt-2"><a class="section-header-link" href="{{ 'publications' | relative_url }}">
+    Publications
+    <i class="fa fa-caret-right" style="font-size: 0.8em;"></i>
+</a></h4>
+{% endif %}
+
+{% assign group_by_year = filtered | group_by: "year" %}
+{% assign by_year_desc = group_by_year | sort: "name" | reverse %}
+
+{% for year_group in by_year_desc %}
+  {% for publication in year_group.items | sort: "pmid" | reverse %}
+  <div class="{% if page.layout == 'publications' %}col-xl-6{% else %}col-12{% endif %}">
+    {% include cards/publication-card.html %}
+  </div>
+  {% endfor %}
+{% endfor %}
+
+</div>
+{% endif %}

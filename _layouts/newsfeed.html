@@ -1,0 +1,59 @@
+---
+layout: base/base
+description: Template for extended news feed, with full width
+remarks: See also page.layout == 'newsfeed' in footer.html
+---
+
+<div class="row">
+  <div class="col">
+    {{ content }}
+  </div>
+</div>
+
+{% include lists/posts.html %}
+
+<div class="row">
+{% for post in filtered limit:site.max_posts_newsfeed %}
+    <div class="col-lg-4">
+    {% include cards/post-card.html %}
+    </div>
+{% endfor %}
+</div>
+<!-- added by MX -->
+<div class="row">
+  <div class="col">
+    <h2><b>Media Coverage</b></h2>
+    <!-- <p>Stay updated with our latest research and media coverage.</p> -->
+  </div>
+</div>
+<!-- media 1: MIT NEWS -->
+<div style="display: flex; align-items: flex-start; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.06)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="../assets/images/media_research_2023.png" alt="MIT News" style="width: 16%; height: 250px;">
+    <div class="description" style="margin-left: 10px;">
+        <p style="color: #333333;"><b>New insights into training dynamics of deep classifiers</b> (<a href="https://spj.science.org/doi/pdf/10.34133/research.0024?adobe_mc=MCMID%3D63000837841860946489208149054056839995%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1675468800">Download Paper</a>)</p>
+        <p style="color: #333333;"><a href="https://news.mit.edu/2023/training-dynamics-deep-classifiers-0308">MIT News (Homepage)</a></p>
+        <p style="color: #333333;">March 8, 2023</p>    
+    </div>
+</div>
+<!-- media 2 : SIAM REVIEW-->
+<div style="display: flex; margin-top: 10px; align-items: flex-start; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.06)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="../assets/images/SIAM.jpg" alt="SIAMREVIEW" style="width: 28%; height: 240px;">
+    <div class="description" style="margin-left: 10px;">
+        <p style="color: #333333;"><b>(Invited Paper) Understanding Graph Embedding Methods and Their Applications</b> (<a href="https://epubs.siam.org/doi/pdf/10.1137/20M1386062">Download paper</a>)</p>
+        <p style="color: #333333;">An overview of graph embedding methods, their theoretical foundations, and practical applications. It highlights strengths, limitations, and real-world uses in social network analysis, brain networks, and protein networks.</p>    
+        <p style="color: #333333;">November 4, 2021</p>
+    </div>
+</div>
+<!-- media 3: SCDpaper  -->
+<div style="display: flex; margin-top: 10px; margin-bottom: 10px; align-items: flex-start; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.06)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="../assets/images/SCD_Media.png" alt="PLos paper" style="width: 20%; height: 250px;">
+    <div class="description" style="margin-left: 10px;">
+        <p style="color: #333333;"><b>New machine learning system can automatically identify shapes of red blood cells from blood samples of sickle cell anemia patients.</b> (<a href="https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005746&type=printable">Download paper</a>)</p>
+        <p style="color: #333333;">
+            <!-- <a href="https://phys.org/news/2017-10-machine-automatically-red-blood-cells.html"> [Phys.org] -->
+            <a href="https://www.sciencedaily.com/releases/2017/10/171019142659.htm">[Science Daily News]</a>  
+            <a href="https://www.eurekalert.org/multimedia/539272"> [Eurekalert | AAAS News]</a>
+        </p>
+        <p style="color: #333333;">October 19, 2017</p>
+    </div>
+</div>

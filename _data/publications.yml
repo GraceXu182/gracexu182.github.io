@@ -1,0 +1,58 @@
+#-------------------------------------------------------------------------------------
+# in addition to information enumerated here, a PI may _optionally_ choose to 
+# create expanded publication information in _publications/<id>.md
+#-------------------------------------------------------------------------------------
+# Publications are ordered on the Publications page as follows:
+#   descending by year, then descending by pmid
+# thus, newest articles appear first, PubMed articles appear before books or other items
+#-------------------------------------------------------------------------------------
+# the 'id' field is the unique identifier used for tagging and md files
+#-------------------------------------------------------------------------------------
+# "authors[1] lastname et al. year" (e.g., 'Wilson et al. 2021') is used as the badge label
+#-------------------------------------------------------------------------------------
+
+# - id: bazzano_2021 # required, must be a string (e.g., quote a pmid as "00000000")
+#   date: 2021-09-30 # the day the publication appeared
+#   pmid:  00000000   # e.g., 00000000, can be missing or null
+#   pmcid: PMC0000000 # e.g., PMC0000000, can be missing or null  
+#   authors:  
+#     - Last AA
+#     - Lastt B
+#   title:    Title of the manuscript
+#   journal:  Journal or other source
+#   citation: xxxx  # typically volume(issue):page-page, or an online publication id
+#   year:     2021
+#   url:      null # a non-PubMed (Central) link; used only if pmid and pmcid are both null
+#   abstract: text # typically entered using the CMS, use on card
+#   badges:
+#     - TYPE=ID # e.g. person=John_Doe, project=project1 (no spaces)
+      
+# - id: DGmamba_2024
+#   date:  2024-12-15
+#   authors:  
+#     - Ashish Pandey, Alan John Varghese, Sarang Patil, Mengjia Xu
+#   title:  A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
+#   journal:  Neural Networks (under review)
+#   # citation: arXiv:2412.11293
+#   year:     2024
+#   url: 	https://arxiv.org/abs/2412.11293
+#   abstract: Dynamic graph embedding has emerged as an important technique for modeling complex time-evolving networks across diverse domains. While transformer-based models have shown promise in capturing long-range dependencies in temporal graph data, they face scalability challenges due to quadratic computational complexity. This study presents a comparative analysis of dynamic graph embedding approaches using transformers and the recently proposed Mamba architecture, a state-space model with linear complexity. We introduce three novel models TransformerG2G augment with graph convolutional networks, DG-Mamba, and GDG-Mamba with graph isomorphism network edge convolutions. Our experiments on multiple benchmark datasets demonstrate that Mamba-based models achieve comparable or superior performance to transformer-based approaches in link prediction tasks while offering significant computational efficiency gains on longer sequences. Notably, DG-Mamba variants consistently outperform transformer-based models on datasets with high temporal variability, such as UCI, Bitcoin, and Reality Mining, while maintaining competitive performance on more stable graphs like SBM. We provide insights into the learned temporal dependencies through analysis of attention weights and state matrices, revealing the models' ability to capture complex temporal patterns. By effectively combining state-space models with graph neural networks, our work addresses key limitations of previous approaches and contributes to the growing body of research on efficient temporal graph representation learning. These findings offer promising directions for scaling dynamic graph embedding to larger, more complex real-world networks, potentially enabling new applications in areas such as social network analysis, financial modeling, and biological system dynamics. 
+#   badges:
+#     - person=Ashish_Pandey
+#     - person=Sarang_Patil
+#     - project=project1
+
+# - id: Hyperbolic_brainaging_2024
+#   date:  2024-10-03
+#   authors:  
+#     - Hugo Ramirez, Davide Tabarelli, Arianna Brancaccio, Paolo Belardinelli, Elisabeth B. Marsh, Michael Funke, John C. Mosher, Fernando Maestu, Mengjia Xu*, and Dimitrios Pantazis*
+#   title:    Fully Hyperbolic Neural Networks - A Novel Approach to Studying Aging Trajectories
+#   journal:  IEEE Journal of Biomedical and Health Informatics (J-BHI) (under review)
+#   citation: 
+#   year:     2024
+#   url: www.biorxiv.org/content/biorxiv/early/2024/10/03/2024.10.01.616153.full.pdf   
+#   abstract: Characterizing age-related alterations in brain networks is crucial for understanding aging trajectories and identifying deviations indicative of neurodegenerative disorders, such as Alzheimer’s disease. In this study, we developed a Fully Hyperbolic Neural Network (FHNN) to embed functional brain connectivity graphs derived from magnetoencephalography (MEG) data into low dimensions on a Lorentz model of hyperbolic space. Using this model, we computed hyperbolic embeddings of the MEG brain networks of 587 individuals from the Cambridge Centre for Ageing and Neuroscience (Cam-CAN) dataset. Notably, we leveraged a unique metric—the radius of the node embeddings—which effectively captures the hierarchical organization of the brain, to characterize subtle hierarchical organizational changes in various brain subnetworks attributed to the aging process. Our findings revealed that a considerable number of subnetworks exhibited a reduction in hierarchy during aging, with some showing gradual changes and others undergoing rapid transformations in the elderly. Moreover, we demonstrated that hyperbolic features outperform traditional graph-theoretic measures in capturing age-related information in brain networks. Overall, our study represents the first evaluation of hyperbolic embeddings in MEG brain networks for studying aging trajectories, shedding light on critical regions undergoing significant age-related alterations in the large cohort of the Cam-CAN dataset.
+#   badges: 
+#     - person=Hugo_Ramirez
+#     - project=project2
+

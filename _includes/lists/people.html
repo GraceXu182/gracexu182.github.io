@@ -1,0 +1,39 @@
+{% assign group_by_status = site.data.people | group_by: "status" %}
+{% assign pi_group = group_by_status | where: "name", "pi" %}
+{% assign other_groups = group_by_status | where_exp: "group", "group.name != 'pi'" %}
+{% assign sorted_groups = pi_group | concat: other_groups %}
+
+{% for status_group in sorted_groups %}
+
+    {% if status_group.name == "pi" %}
+    <div class="col mb-4 pt-4" style="border-top: 0px solid #ccc;">
+    <h4><b>Principal Investigator</b></h4>
+    </div>
+    {% endif %}
+    
+    {% if status_group.name == "past" %}
+    <div class="col mb-4 pt-4" style="border-top: 1px solid #ccc;">
+    <!-- <h4>{{ status_group.name | capitalize}} members</h4> -->
+    <h4><b>Previous Mentored Stduents</b></h4>
+    </div>
+    {% endif %}
+    <!-- added by mengjia on Jan 15, 2025 -->
+    {% if status_group.name == "active" %}
+    <div class="col mb-4 pt-4" style="border-top: 1px solid #ccc;">
+    <h4><b>Current Students</b></h4>
+    </div>
+    {% endif %}
+
+    {% if status_group.name == "collaborator" %}
+    <div class="col mb-4 pt-4" style="border-top: 1px solid #ccc;">
+    <h4>{{ status_group.name | capitalize}}s and colleagues</h4>
+    </div>
+    {% endif %}
+
+    <div class="row people mb-4">
+    {% for person in status_group.items %}
+        {% include cards/person-card.html %}
+    {% endfor %}
+    </div>
+
+{% endfor %}

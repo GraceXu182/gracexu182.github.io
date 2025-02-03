@@ -1,0 +1,44 @@
+#-------------------------------------------------------------------------------------
+# in addition to information enumerated here, a PI may _optionally_ choose to 
+# create expanded resource information in _resources/<id>.md
+#-------------------------------------------------------------------------------------
+# Resources are ordered on the Resources page as follows:
+#   in the order they are found in this file
+#-------------------------------------------------------------------------------------
+# the 'id' field is the unique identifier used for tagging and md files
+# '_' characters are removed from the 'id' field to create the name used in Badges
+#-------------------------------------------------------------------------------------
+
+# - id: cell_protocol # internal identifier used in newsfeed posts and other places
+#   title: Cell Protocol
+#   type: protocol
+#   description: This is an important protocol for handling cells the way we do it. 
+#   url: https://link.to.protocol/
+#   badges:
+#     - TYPE=ID # e.g. person=John_Doe, project=project1 (no spaces)
+
+# - id: course1 # internal identifier used in newsfeed posts and other places
+#   title: DS677-005 Deep Learning (FALL 2024)
+#   type: Graduate Course
+#   description: null
+#   url: /course1/
+#   badges:
+#     - course=DS675-005
+
+# - id: course2 # internal identifier used in newsfeed posts and other places
+#   title: DS 677-002 Deep Learning (Spring 2024)
+#   type: Graduate Course
+#   description: XXXXX
+#   url: /course2/
+#   badges:
+#     - course=DS677-002
+
+# - id: course3 # internal identifier used in newsfeed posts and other places
+#   title: DS 675-005 - INTRODUCTION TO MACHINE LEARNIN (FALL 2023)
+#   type: Graduate Course
+#   description: 
+#   url: /course3/
+#   badges:
+#     - course=DS677-005
+
+  

@@ -1,0 +1,52 @@
+---
+layout: base/base
+type: post
+suppress_recent_news: true
+suppress_project_image: true
+force_wide_person: true
+---
+
+{% assign col_class = "col-md-10 mx-auto" %}
+
+<div class="row">
+
+  <div class="{{ col_class }}">
+    <p>
+      {% include base/event-banner.html event_type=page.event_type %}
+      <strong class="{{ page.event_type }}-hue" style="float: right;" 
+              font-family="'Source Code Pro', monospace">{{ page.date | date: "%B %e, %Y" }}</strong>
+    </p>
+    {{ content }}
+  </div>
+
+  {% include lists/post-card/post-list.html 
+    item_type="person" 
+    collection_name="People" 
+    badge_script="lists/post-card/post-person.html" %}
+
+  {% include lists/post-card/post-list.html 
+    item_type="project" 
+    collection_name="Projects" 
+    badge_script="lists/post-card/post-project.html" %}
+
+  {% include lists/post-card/post-list.html 
+    item_type="course" 
+    collection_name="Courses" 
+    badge_script="lists/post-card/post-resource.html" %}
+
+  {% include lists/post-card/post-list.html 
+    item_type="seminar" 
+    collection_name="Seminars" 
+    badge_script="lists/post-card/post-event.html" %}
+
+  {% include lists/post-card/post-list.html 
+    item_type="publication" 
+    collection_name="Publications" 
+    badge_script="lists/post-card/post-publication.html" %}
+
+  {% include lists/post-card/post-list.html 
+    item_type="talks" 
+    collection_name="Talks" 
+    badge_script="lists/post-card/post-funding.html" %}
+
+</div>
