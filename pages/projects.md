@@ -2,7 +2,7 @@
 layout: projects
 title: Research Scope
 subtitle: (Machine learning, Structure-aware Graph Machine Learning, LLMs)
-banner_image: assets/images/nyc-view.png
+banner_image: assets/images/nyc-view2.png
 permalink: /projects/
 ---
 
