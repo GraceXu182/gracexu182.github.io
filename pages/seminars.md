@@ -8,7 +8,7 @@ permalink: /seminars/
 
 <!-- Content here would show up above your list of events -->
 <h4><b>Spring 2025</b></h4>
-<span style="font-size: medium;">🔥 Stay tuned for the **NEW** upcoming [**AI & Data Science Stars Seminar Series**](https://ds.njit.edu/ai-data-science-stars-seminar-series) at NJIT. Further details will be shared shortly.</span>
+<span style="font-size: medium;">🔥 Stay tuned for the **NEW** upcoming [**AI & Data Science Stars Seminar Series**](https://ds.njit.edu/ai-data-science-stars-seminar-series) at NJIT.</span>
 
 <h4><b>Fall 2024</b></h4>
 <span style="font-size: medium;">The seminar information can be found [here](https://docs.google.com/document/d/10onh8XiWvocf3VHpHgHTL4Q5FqGYPd7d/edit?usp=sharing&ouid=104539450366585111033&rtpof=true&sd=true).</span>
