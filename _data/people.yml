@@ -146,7 +146,7 @@
     # - project=project1    
 - id: Varsha # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Varsha Narayanan  # as display on the web page People item
-  role: Undergraduate student (Research intern, Spring'25) 
+  role: Undergraduate student (Research intern) 
   program: Computer Science, NJIT # omit if not applicable
   image: assets/images/Varsha_25Spring.jpeg # can be external link
   orcid: null
