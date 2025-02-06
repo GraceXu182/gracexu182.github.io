@@ -1,8 +1,8 @@
 ---
-date: 2024-10-01
-title: New preprint on "Brain Age Prediction with MEG Brain Networks"
+date: 2025-02-05
+title: Accepted paper on the "Brain Age Prediction with MEG Brain Networks"
 subtitle: Fully Hyperbolic Neural Networks -- A Novel Approach to Studying Aging Trajectories
-description: Paper titled "Fully Hyperbolic Neural Networks -- A Novel Approach to Studying Aging Trajectories" has been uploaded to BioXiv.
+description: Paper titled "Fully Hyperbolic Neural Networks -- A Novel Approach to Studying Aging Trajectories" got accepted by IEEE JHBI.
 event_type: publication # primary type of the event, used to create the small, colored post callout
 banner_image: null #/assets/images/brainimage.jpg # the item whose banner image will be adopted by this event
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
