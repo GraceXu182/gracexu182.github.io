@@ -1,6 +1,6 @@
 ---
 date: 2025-02-05
-title: Accepted paper on the "Brain Age Prediction with MEG Brain Networks"
+title: New paper on "Brain Age Prediction with MEG Brain Networks" accepted for Publication
 subtitle: Fully Hyperbolic Neural Networks -- A Novel Approach to Studying Aging Trajectories
 description: Paper titled "Fully Hyperbolic Neural Networks -- A Novel Approach to Studying Aging Trajectories" got accepted by IEEE JHBI.
 event_type: publication # primary type of the event, used to create the small, colored post callout
