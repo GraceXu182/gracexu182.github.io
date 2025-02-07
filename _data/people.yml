@@ -113,21 +113,6 @@
   status: active
   badges:
     # - project=project1 
-- id: Fatma # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Fatma Gizem Isir # as display on the web page People item
-  role: Master's student (Research intern, Spring'25) 
-  program: Data Science, NJIT # omit if not applicable
-  image: assets/images/Fatma.jpeg # can be external link
-  orcid: null
-  email: null
-  googlescholar: null
-  github: null
-  twitter: null
-  description: #Gemomics data analysis，LLMs
-  status: active
-  badges:
-    # - project=project1 
-
 
 
 - id: Amirhossein # used internally to identify this person, e.g., in a Newsfeed post "people" field
@@ -143,7 +128,22 @@
   description: #Causal Graph Discovery, GNNs
   status: active
   badges:
-    # - project=project1    
+    # - project=project1   
+- id: Fatma # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Fatma Gizem Isir # as display on the web page People item
+  role: Master's student (Research intern, Spring'25) 
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/Fatma.jpeg # can be external link
+  orcid: null
+  email: null
+  googlescholar: null
+  github: null
+  twitter: null
+  description: #Gemomics data analysis，LLMs
+  status: active
+  badges:
+    # - project=project1 
+ 
 - id: Varsha # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Varsha Narayanan  # as display on the web page People item
   role: Undergraduate student (Research intern) 
