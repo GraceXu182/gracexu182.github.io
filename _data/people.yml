@@ -99,7 +99,20 @@
   badges:
     - project=project1 
     # - project=project3
-
+- id: Shreyas # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Shreyas Rajesh Shende  # as display on the web page People item
+  role: Master's student
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/default.jpg # can be external link
+  orcid: null
+  email: null
+  googlescholar: null
+  github: null
+  twitter: null
+  description: #Gemomics data analysis，LLMs
+  status: active
+  badges:
+    # - project=project1 
 - id: Fatma # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Fatma Gizem Isir # as display on the web page People item
   role: Master's student (Research intern, Spring'25) 
@@ -115,20 +128,7 @@
   badges:
     # - project=project1 
 
-- id: Shreyas # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Shreyas Rajesh Shende  # as display on the web page People item
-  role: Master's student
-  program: Data Science, NJIT # omit if not applicable
-  image: assets/images/default.jpg # can be external link
-  orcid: null
-  email: null
-  googlescholar: null
-  github: null
-  twitter: null
-  description: #Gemomics data analysis，LLMs
-  status: active
-  badges:
-    # - project=project1 
+
 
 - id: Amirhossein # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Amirhossein Nouranizadeh # as display on the web page People item
