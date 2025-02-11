@@ -2,7 +2,7 @@
 layout: people
 title: People
 subtitle: Lab Members, Interns, and Visiting students
-banner_image: assets/images/nyc-view.png
+banner_image: assets/images/nyc-view2.png
 permalink: /people/
 ---
 
