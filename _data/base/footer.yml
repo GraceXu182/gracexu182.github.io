@@ -20,8 +20,7 @@ columns:
     #   new_window: true
     # add more departments as needed
 
-  # - description: > # e.g. funding acknowledgement.
-  #     Our work is supported by the DOE and AFOSR.
+  # - description: > # e.g. funding acknowledgement. 
   #   links: false
   #   image: /assets/images/doe-logo.png
   #   image_alt: Department of Energy 
