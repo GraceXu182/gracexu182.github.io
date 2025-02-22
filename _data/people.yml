@@ -202,7 +202,7 @@
   twitter: null
   description: #Temporal brain network embedding for Alzheimer's disease diagnosis using transformers and GNNs
   status: past
-  current_position: AI Engineer (Reality AI Lab, New York, NY)
+  current_position: Software Engineer (Aegean AI Inc)
 
 - id: Aditya_Patel # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Aditya Patel
