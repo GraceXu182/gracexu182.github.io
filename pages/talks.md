@@ -12,7 +12,7 @@ permalink: /talks/
 <li>10/09/2024, joined the annual meeting of SEACROGS Center at <a href="https://www.stanford.edu/">Stanford University</a> (Stanford, CA).</li>
 <li>09/10/2024, joined the Hudson Forum 2024 at IBM (Yorktown Heights, NY).</li>
 <li>03/01/2024, presented at the <a href="https://logconference.org/">Learning on Graphs (LoG)</a> NYC meetup.</li>
-<li>02/16/2024, presented at the <a href="https://njbda.org/event/njbda-research-collaboration-forum/">NJ Big Data Alliance (NJBDA) Research Collaboration Forum</a>.</li>
+<li>02/16/2024, presented at the <a href="https://njbda.org/">NJ Big Data Alliance (NJBDA) Research Collaboration Forum</a>.</li>
 <li>02/07/2024, presented at the <a href="https://math.njit.edu/mathematical-biology-seminar-spring-2024">Mathematical Biology Seminar</a> in the Department of Mathematical Sciences at NJIT.</li>
 <li>01/08/2024-01/10/2024, presented at the <em>Applied Mathematics and MMICCs Principal Investigator Meeting</em>, sponsored by the DOE. (Albuquerque, NM, US)</li>
 </ul>
