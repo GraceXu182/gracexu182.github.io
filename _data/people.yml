@@ -159,7 +159,7 @@
   badges:
     # - project=project1 
 
-  - id: John_Girgis # used internally to identify this person, e.g., in a Newsfeed post "people" field
+- id: John_Girgis # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: John Girgis  # as display on the web page People item
   role: Undergraduate student
   program: Computer Science, NJIT # omit if not applicable
