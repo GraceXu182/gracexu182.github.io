@@ -17,13 +17,12 @@ For all publications, please visit my [Google Scholar](https://scholar.google.co
 
 <div style="text-align: justify;">
     <li class="publication-item">🔥Pandey, A., Varghese, A.J., Patil, S., <b>Xu, M.</b> <a href="https://arxiv.org/abs/2412.11293">A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers</a>. <em>arXiv preprint arXiv:2412.11293, December, 2024</em>.</li>
-
-    <li class="publication-item"> Candelori, L., Abanov, A.G., Berger, J., Hogan, C.J., Kirakosyan, V., Musaelian, K., Samson, R., Smith, J.E., Villani, D., Wells, M.T. and <b>Xu, M.</b> <a href="https://arxiv.org/abs/2409.12805">Robust estimation of the intrinsic dimension of data sets with quantum cognition machine learning</a>. <em>arXiv preprint arXiv:2409.12805, September, 2024</em>.</li>
 </div>  
 
 <h3>Selected Publications</h3>
 
 <div style="text-align: justify;">
+    <li class="publication-item"> Candelori, L., Abanov, A.G., Berger, J., Hogan, C.J., Kirakosyan, V., Musaelian, K., Samson, R., Smith, J.E., Villani, D., Wells, M.T. and <b>Xu, M.</b> <a href="https://arxiv.org/abs/2409.12805">Robust estimation of the intrinsic dimension of data sets with quantum cognition machine learning</a>. <em>Scientific Reports, Feb, 2025</em>.</li>
     <li class="publication-item">🔥Ramirez, H., Tabarelli, D., Brancaccio, A., Belardinelli, P., Marsh, E.B., Funke, M., Mosher, J.C., Maestu, F., <b>Xu, M.</b>, Pantazis, D. <a href="#">Fully Hyperbolic Neural Networks - A Novel Approach to Studying Aging Trajectories</a>. <em>IEEE Journal of Biomedical and Health Informatics, Feb, 2025</em>.<b>(Corresponding author)</b></li>
     <li class="publication-item">C Baker, G Smith, EB Marsh, M Funke, JC Mosher, F Maestu, <b>Xu, M.</b>+ D Pantazis, <a href="https://ieeexplore.ieee.org/abstract/document/10564006">Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline,</a> <em>IEEE Journal of Biomedical and Health Informatics, June, 2024</em>. <b>(Corresponding author)</b></li>
     <li class="publication-item">Yuhao Qiang*, <b>Mengjia Xu</b>, Mira Patel Pochron, Madhulika Jupelli, Ming Dao. <a href="https://www.frontiersin.org/articles/10.3389/fphy.2024.1331047/full">A framework of computer vision-enhanced microfluidic approach for automated assessment of the transient sickling kinetics in sickle red blood cells.</a> <em>Frontiers in Physics</em>, Feb, 2024.</li>
