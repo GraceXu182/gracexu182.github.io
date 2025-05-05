@@ -70,7 +70,7 @@ collections:
     item: publication
     link: hash_always
     output: true   
-    hue: 270 # purple
+    hue: 100 # purple
   seminars: 
     name: seminars
     item: seminar

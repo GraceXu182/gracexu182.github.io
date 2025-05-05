@@ -73,13 +73,12 @@ We utilized the hyperbolic radius of node embeddings as a new feature for predic
 #### Citation
 
 ```bibtex
-@article{ramirez2024fully,
-    title={Fully Hyperbolic Neural Networks: A Novel Approach to Studying Aging Trajectories},
-    author={Ramirez, Hugo and Tabarelli, Davide and Brancaccio, Arianna and Belardinelli, Paolo and Marsh, Elisabeth B and Funke, Michael and Mosher, John and Maestu, Fernando and Xu, Mengjia and Pantazis, Dimitrios},
-    journal={bioRxiv},
-    pages={2024--10},
-    year={2024},
-    publisher={Cold Spring Harbor Laboratory}
+@article{ramirez2025fully,
+  title={Fully hyperbolic neural networks: A novel approach to studying aging trajectories},
+  author={Ramirez, Hugo and Tabarelli, Davide and Brancaccio, Arianna and Belardinelli, Paolo and Marsh, Elisabeth B and Funke, Michael and Mosher, John C and Maestu, Fernando and Xu, Mengjia and Pantazis, Dimitrios},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
