@@ -4,7 +4,7 @@ title: Thesis Defense by Ashish Pandey
 subtitle: Congratulations to Ashish for successfully defending his Master's thesis! 🎉
 description: Ashish successfully defended his Master's Thesis titled <a href = ''> "A novel framework for ."</a>
 event_type: defense # primary type of the event, used to create the small, colored post callout
-banner_image: null # the item whose banner image will be adopted by this event
+banner_image: assets/images/seminar_banner2.jpg # the item whose banner image will be adopted by this event
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
   - project=project1
   - person=Ashish_Pandey
