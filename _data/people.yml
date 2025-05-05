@@ -102,7 +102,7 @@
 - id: Shreyas # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Shreyas Rajesh Shende  # as display on the web page People item
   role: Master's student
-  program: Data Science, NJIT # omit if not applicable
+  program: Computer Science, NJIT # omit if not applicable
   image: assets/images/default.jpg # can be external link
   orcid: null
   email: null
