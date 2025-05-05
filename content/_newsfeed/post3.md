@@ -4,7 +4,7 @@ title: New paper on "Brain Age Prediction with MEG Brain Networks" accepted for 
 subtitle: Fully Hyperbolic Neural Networks -- A Novel Approach to Studying Aging Trajectories
 description: Paper titled "Fully Hyperbolic Neural Networks -- A Novel Approach to Studying Aging Trajectories" got accepted by IEEE JHBI.
 event_type: publication # primary type of the event, used to create the small, colored post callout
-banner_image: null #/assets/images/brainimage.jpg # the item whose banner image will be adopted by this event
+banner_image: assets/images/seminar_banner2.jpg # the item whose banner image will be adopted by this event
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
   # - publication=Hyperbolic_brainaging_2024
   - project=project2

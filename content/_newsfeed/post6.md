@@ -4,7 +4,7 @@ title: New Paper on "Norm-Based Generalization Bounds for Compositionally Sparse
 # subtitle: Norm-Based Generalization Bounds for Compositionally Sparse Neural Networks
 description: Paper titled "Norm-Based Generalization Bounds for Compositionally Sparse Neural Networks" has been accepted by NeurIPS.
 event_type: publication # primary type of the event, used to create the small, colored post callout
-banner_image: null #/assets/images/brainimage.jpg # the item whose banner image will be adopted by this event
+banner_image: assets/images/seminar_banner2.jpg # the item whose banner image will be adopted by this event
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
   # - publication=Hyperbolic_brainaging_2024
   # - project=project2

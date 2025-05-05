@@ -30,7 +30,7 @@ Characterizing age-related alterations in brain networks is crucial for understa
 **Keywords:** Aging trajectories, Alzheimer’s disease, age prediction, magnetoencephalography, brain networks, hyperbolic space, graph embedding.
 
 <p align="center">
-    <a href="https://www.biorxiv.org/content/10.1101/2024.10.01.616153v1.full.pdf">Paper link</a> | 
+    <a href="https://ieeexplore.ieee.org/abstract/document/10916497">Paper link</a> | 
     <a href="https://github.com/Hramir/age_prediction">GitHub link</a>|
     <a href="#citation">Citation</a> 
 </p>

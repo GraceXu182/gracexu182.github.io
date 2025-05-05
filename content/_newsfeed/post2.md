@@ -4,7 +4,7 @@ title: Master's Thesis Defense by Hamid Razavi
 subtitle: Congratulations to Hamid for successfully defending his Master's thesis! 🎉
 description: Hamid successfully defended his Master's Thesis titled <a href = ''> "Advancing Prediction of Stimulant Medication Misuse Through Graph Representation Learning."</a>
 event_type: defense # primary type of the event, used to create the small, colored post callout
-banner_image: null # the item whose banner image will be adopted by this event
+banner_image: assets/images/seminar_banner2.jpg 
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
   # - project=project2
   - person=Hamid_Razavi

@@ -4,7 +4,7 @@ title: New Paper on "Subjective Cognitive Decline Detection with MEG Brain Netwo
 subtitle: Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline
 description: Paper titled "Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline" has been accepted by [IEEE Journal of Biomedical and Health Informatics](https://www.embs.org/jbhi/).
 event_type: publication # primary type of the event, used to create the small, colored post callout
-banner_image: null #/assets/images/brainimage.jpg # the item whose banner image will be adopted by this event
+banner_image: assets/images/seminar_banner2.jpg # the item whose banner image will be adopted by this event
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
   # - publication=Hyperbolic_brainaging_2024
   - project=project3
