@@ -4,7 +4,7 @@ title: New Paper on "Temporal graph embedding with transformers"
 subtitle: TransformerG2G - Adaptive Time-Stepping for Learning Temporal Graph Embeddings Using Transformers
 description: Paper titled "TransformerG2G - Adaptive Time-Stepping for Learning Temporal Graph Embeddings Using Transformers" has been accepted by Neural Networks.
 event_type: publication # primary type of the event, used to create the small, colored post callout
-banner_image: null #/assets/images/brainimage.jpg # the item whose banner image will be adopted by this event
+banner_image: assets/images/seminar_banner2.jpg # the item whose banner image will be adopted by this event
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
   # - publication=Hyperbolic_brainaging_2024
   # - project=project2
