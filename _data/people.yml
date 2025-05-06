@@ -163,8 +163,8 @@
   name: John Girgis  # as display on the web page People item
   role: Undergraduate student
   program: Computer Engineering, Albert Dorman Honors College, NJIT # omit if not applicable
-  image: assets/images/default.jpg # can be external link
-  orcid: null
+  image: assets/images/ # can be external link
+  orcid: null 
   email: jlg62@njit.edu
   googlescholar: 
   github: null
