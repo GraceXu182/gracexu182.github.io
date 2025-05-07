@@ -4,7 +4,7 @@ subtitle: (Cole Baker, Isabel Suárez-Méndez , Grace Smith, Elisabeth B. Marsh,
 description: This study develops a hyperbolic MEG brain network embedding framework to analyze early Alzheimer’s disease (SCD stage) by mapping brain networks into low-dimensional hyperbolic space. The model reveals hierarchical differences in key subnetworks and their correlation with cognitive decline, offering new insights for early diagnosis.
 order: 3
 active: false
-card_image: "/assets/images/brainimage.jpg"
+card_image: "/assets/images/SCD_project.jpg"
 # card_image: "assets/images/SCD_project.jpg"
 card_title:  # used if card_image is null; defaults to title
 categories: 
