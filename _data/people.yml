@@ -267,3 +267,19 @@
   badges:
     - project=project3 
     # - Newsfeed=
+
+- id: Apoorva # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Apoorva Vikram Singh
+  role: Undergraduate Student intern (2020-2021)
+  program: EE (NIT, Silchar) 
+  image: assets/images/default.jpg # can be external link
+  end_date: 2021
+  orcid: null
+  github: null
+  linkedin: null
+  description: #Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline
+  status: past 
+  current_position: PhD Student, [Max Planck Institute for Brain Research] (https://brain.mpg.de/helmstaedter/team), Frankfurt, Germany) 
+  badges:
+    # - project=project3 
+    # - publication=
