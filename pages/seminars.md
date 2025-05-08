@@ -5,7 +5,7 @@ subtitle: (Current and Previous Seminars)
 banner_image: assets/images/nyc-view2.png
 permalink: /seminars/
 ---
-I have been organizing Data Science Seminar for the Department, welcome to join the exiting seminars.
+I’ve been organizing the Data Science Seminar Series for our department, you're very welcome to join the upcoming sessions.
 <!-- Content here would show up above your list of events -->
 <h4><b>Spring 2025</b></h4>
 <span style="font-size: medium;">🔥 Stay tuned for the **NEW** [**AI & Data Science Stars Seminar Series**](https://ds.njit.edu/ai-data-science-stars-seminar-series) at NJIT.</span>
