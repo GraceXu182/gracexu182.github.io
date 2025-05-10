@@ -6,9 +6,11 @@ banner_image: assets/images/nyc-view.png
 permalink: /courses/
 ---
 
-##### 🏆 New Course -- <span style="font-size: 1.em;">**Foundations and Applications of Graph Neural Networks** coming Fall 2025.</span>
+<!-- ##### 🏆 New Course -- <span style="font-size: 1.em;">**Foundations and Applications of Graph Neural Networks** coming Fall 2025.</span> -->
 
----
+<!-- --- -->
+<span style="font-size: 1.1em;">Fall 2025: [DS 683 - Graph Neural Networks](course4/)</span>
+
 <span style="font-size: 1.1em;">Fall 2024: [DS 677-005 - Deep Learning](course3/)</span>
 
 <span style="font-size: 1.1em;">Spring 2024: [DS 677-002 - Deep Learning](course2/)</span>
