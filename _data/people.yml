@@ -173,8 +173,7 @@
   status: active
   badges: 
   
-
-  - id: Arnav_Saraogi # used internally to identify this person, e.g., in a Newsfeed post "people" field
+- id: Arnav_Saraogi # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Arnav Saraogi  # as display on the web page People item
   role: Undergraduate student Intern (Summer '25)
   program: Computer Science and Physics, University of Illinois at Urbana-Champaign # omit if not applicable
