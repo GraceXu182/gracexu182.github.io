@@ -145,7 +145,7 @@
     # - project=project1 
  
 - id: Varsha # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Varsha Narayanan  # as display on the web page People item
+  name: Varsha Narayanan (Spring'25 - )  # as display on the web page People item
   role: Undergraduate student
   program: Computer Science, Albert Dorman Honors College, NJIT # omit if not applicable
   image: assets/images/Varsha_25Spring.jpeg # can be external link
@@ -173,19 +173,19 @@
   status: active
   badges: 
   
-# - id: Arnav_Saraogi # used internally to identify this person, e.g., in a Newsfeed post "people" field
-#   name: Arnav Saraogi  # as display on the web page People item
-#   role: Undergraduate student Intern (Summer '25)
-#   program: Computer Science and Physics, University of Illinois at Urbana-Champaign # omit if not applicable
-#   image: assets/images/arnav_saraogi.jpeg # can be external link
-#   orcid: null 
-#   email: arnavs10@illinois.edu
-#   googlescholar: 
-#   github: null
-#   twitter: null
-#   description: 
-#   status: active
-#   badges: 
+- id: Arnav_Saraogi # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Arnav Saraogi  # as display on the web page People item
+  role: Undergraduate student Intern (Summer '25)
+  program: Computer Science and Physics, University of Illinois at Urbana-Champaign # omit if not applicable
+  image: assets/images/arnav_saraogi.jpeg # can be external link
+  orcid: null 
+  email: arnavs10@illinois.edu
+  googlescholar: 
+  github: null
+  twitter: null
+  description: 
+  status: active
+  badges: 
   
   
 # - id: Yitong_Huang # used internally to identify this person, e.g., in a Newsfeed post "people" field
