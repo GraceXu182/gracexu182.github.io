@@ -145,8 +145,8 @@
     # - project=project1 
  
 - id: Varsha # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Varsha Narayanan (Spring'25 - )  # as display on the web page People item
-  role: Undergraduate student
+  name: Varsha Narayanan  # as display on the web page People item
+  role: Undergraduate student 
   program: Computer Science, Albert Dorman Honors College, NJIT # omit if not applicable
   image: assets/images/Varsha_25Spring.jpeg # can be external link
   orcid: null
