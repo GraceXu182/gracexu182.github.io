@@ -86,7 +86,7 @@
 
 - id: Ashish_Pandey # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Ashish Pandey # as display on the web page People item
-  role: Matser's Student
+  role: PhD Student
   program: Data Science, NJIT # omit if not applicable
   image: assets/images/ashish.jpeg # can be external link
   orcid: null
@@ -114,10 +114,9 @@
   badges:
     # - project=project1 
 
-
 - id: Amirhossein # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Amirhossein Nouranizadeh # as display on the web page People item
-  role: M.S. (Research intern, Spring'25) 
+  role: M.S. (Research intern) 
   program: AI Engineering, Tehran Polytechnic # omit if not applicable
   image: assets/images/Amirhossein.png # can be external link
   orcid: null
@@ -129,20 +128,7 @@
   status: active
   badges:
     # - project=project1   
-- id: Fatma # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Fatma Gizem Isir # as display on the web page People item
-  role: Master's student (Research intern, Spring'25) 
-  program: Data Science, NJIT # omit if not applicable
-  image: assets/images/Fatma.jpeg # can be external link
-  orcid: null
-  email: null
-  googlescholar: null
-  github: null
-  twitter: null
-  description: #Gemomics data analysis，LLMs
-  status: active
-  badges:
-    # - project=project1 
+
  
 - id: Varsha # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Varsha Narayanan  # as display on the web page People item
@@ -204,6 +190,20 @@
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
+- id: Fatma # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Fatma Gizem Isir # as display on the web page People item
+  role: Master's student (2025)
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/Fatma.jpeg # can be external link
+  orcid: null
+  email: null
+  googlescholar: null
+  github: null
+  twitter: null
+  description: #Gemomics data analysis，LLMs
+  status: past
+  badges:
+    # - project=project1 
 - id: Hamid_Razavi # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Hamid Razavi 
   role: Master's Student (2024)
