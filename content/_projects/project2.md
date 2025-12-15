@@ -1,85 +1,88 @@
 ---
-title:  Fully Hyperbolic Neural Networks - A Novel Approach to Studying Aging Trajectories
-subtitle: (Hugo Ramirez, Davide Tabarelli, Arianna Brancaccio, Paolo Belardinelli, Elisabeth B. Marsh, Michael Funke, John C. Mosher, Fernando Maestu, Mengjia Xu*, and Dimitrios Pantazis*)
-description: This study uses a Fully Hyperbolic Neural Network (FHNN) to embed MEG brain networks, uncovering age-related hierarchical changes and highlighting the superiority of hyperbolic features in aging analysis.
-order: 2
+title: A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
+subtitle: (Ashish Parmanand Pandey, Alan John Varghese, Sarang Patil, Mengjia Xu)
+description: This project investigates dynamic graph embedding techniques utilizing transformer models and the Mamba architecture. It introduces innovative models that improve performance and efficiency in temporal link prediction tasks, offering insights into temporal dependencies with enhanced explainability. The findings suggest promising directions for scalable graph representation learning.
+order: 1
 active: true
-card_image: "/assets/images/brainimage.jpg"
+card_image: "assets/images/dynamicgraph.jpg"
 card_title: null # used if card_image is null; defaults to title
 categories: 
-    - MEG Neuroimaging
-    - Graph Neural Networks
-    - Hyperbolic Geometry
-    - Human Brain Aging
+    - Dynamic graph
+    - Transformer
+    - State-Space Models (Mamba)  
+    - Temporal link forecasting
 ---
 
-<!-- This is complete description of my third project. -->
+<!-- This is complete description of my second project. -->
 
+<!-- <a href="../">&lt;&lt;All Projects</a> -->
 <div style="width: 100%; padding: 10px; ; background-color: #f8f8f8;">
     <div style="display: flex; justify-content: space-between;">
-        <a href="../project1">&lt;&lt;Previous Project</a>
-        <a href="../project3">Next Project&gt;&gt;</a>
+        <a href="../#recent-projects">&lt;&lt;All Projects</a>
+        <a href="../project2">Next Project&gt;&gt;</a>
     </div>
 </div>
 
+
 ### Overview
-<p align = 'justify'>
-Characterizing age-related alterations in brain networks is crucial for understanding aging trajectories and identifying deviations indicative of neurodegenerative disorders, such as Alzheimer’s disease. In this study, we developed a Fully Hyperbolic Neural Network (FHNN) to embed functional brain connectivity graphs derived from magnetoencephalography (MEG) data into low dimensions on a Lorentz model of hyperbolic space. Using this model, we computed hyperbolic embeddings of the MEG brain networks of 587 individuals from the Cambridge Centre for Ageing and Neuroscience (Cam-CAN) dataset. Notably, we leveraged a unique metric—the radius of the node embeddings—which effectively captures the hierarchical organization of the brain, to characterize subtle hierarchical organizational changes in various brain subnetworks attributed to the aging process. Our findings revealed that a considerable number of subnetworks exhibited a reduction in hierarchy during aging, with some showing gradual changes and others undergoing rapid transformations in the elderly. Moreover, we demonstrated that hyperbolic features outperform traditional graph-theoretic measures in capturing age-related information in brain networks. Overall, our study represents the first evaluation of hyperbolic embeddings in MEG brain networks for studying aging trajectories, shedding light on critical regions undergoing significant age-related alterations in the large cohort of the Cam-CAN dataset.
+<p align="justify">
+Dynamic graph embedding has emerged as an important technique for modeling complex time-evolving networks across diverse domains. While transformer-based models have shown promise in capturing long-range dependencies in temporal graph data, they face scalability challenges due to quadratic computational complexity. This study presents a comparative analysis of dynamic graph embedding approaches using transformers and the recently proposed Mamba architecture, a state-space model with linear complexity. We introduce three novel models: TransformerG2G augment with graph convolutional networks, DG-Mamba, and GDG-Mamba with graph isomorphism network edge convolutions. Our experiments on multiple benchmark datasets demonstrate that Mamba-based models achieve comparable or superior performance to transformer-based approaches in link prediction tasks while offering significant computational efficiency gains on longer sequences. Notably, DG-Mamba variants consistently outperform transformer-based models on datasets with high temporal variability, such as UCI, Bitcoin, and Reality Mining, while maintaining competitive performance on more stable graphs like SBM. We provide insights into the learned temporal dependencies through analysis of attention weights and state matrices, revealing the models’ ability to capture complex temporal patterns. By effectively combining state-space models with graph neural networks, our work addresses key limitations of previous approaches and contributes to the growing body of research on efficient temporal graph representation learning. These findings offer promising directions for scaling dynamic graph embedding to larger, more complex real-world networks, potentially enabling new applications in areas such as social network analysis, financial modeling, and biological system dynamics.
+<br>
+<b>Keywords:</b> graph embedding, transformers, dynamic graphs, link prediction, state-space models, long-term dependencies
 </p>
 
-**Keywords:** Aging trajectories, Alzheimer’s disease, age prediction, magnetoencephalography, brain networks, hyperbolic space, graph embedding.
-
 <p align="center">
-    <a href="https://ieeexplore.ieee.org/abstract/document/10916497">Paper link</a> | 
-    <a href="https://github.com/Hramir/age_prediction">GitHub link</a>|
+    <a href="https://arxiv.org/pdf/2412.11293">Paper link</a> | 
+    <a href="https://github.com/Dettrax/DG-Mamba">GitHub link</a>|
     <a href="#citation">Citation</a> 
 </p>
 
-### **Methodology**
+### Methodology
 
-<p align = 'justify'>
-The FHNNs contain three main components: feature transformation, neighborhood aggregation, and non-linear activation. The feature transformation corresponds to a Lorentz linear layer, while the closed-form centroid of neighboring node features defined before is used for neighborhood aggregation. Non-linearity is integrated into the Lorentz linear layer without the need for an explicit non-linear activation function. 
-</p>
+#### ST-TransformerG2G Model
+The proposed ST-TransformerG2G model enhances the previous [TransformerG2G model](../../newsfeed/post5) with Graph Convolutional Networks (GCNs). Key features include:
+- An additional GCN block with three GCN layers to capture spatial interactions for each graph snapshot.
+- Node embeddings generated by the GCN block are fed into a vanilla transformer encoder module.
+- Positional encoding is added to each input node token embedding.
+- The final output representation of each node is a multivariate normal distribution.
 
-<img src="{{ '/assets/images/projects/brain_aging_FHNN.png' | relative_url }}" alt="FHNN Model for Age Prediction">
+#### DG-Mamba Model
+The main architecture of the proposed DG-Mamba model processes a sequence of discrete-time graph snapshots {G_t}_{t=1}^{T}. Key features include:
+- A look-back parameter l = {1,2,3,4,5} for historical context integration.
+- Each graph snapshot undergoes projection and convolution to capture localized node features while maintaining spatial relationships.
+- A State-Space Model (SSM) layer efficiently captures long-range temporal dependencies using the selective scan mechanism (Mamba architecture).
+- The output of the Mamba layer is passed through an activation function for non-linearity, followed by mean pooling to generate an aggregate representation.
+- A linear projection layer with tanh activation refines the node embeddings.
+- Two additional projection heads (one linear projection layer and one nonlinear projection mapping with ELU activation function) are used to obtain the mean and variance of Gaussian embeddings.
 
-### **Results**
-
-#### A. Alterations of brain network hierarchy across age
-
-<p align="justify">
-We estimated the average hyperbolic radius for brain regions within 22 brain subnetworks across participants of the same decade (Table I, Fig. 4). The results show a consistent increase in hyperbolic radius over time, indicating a diminishing hierarchical significance. Some subnetworks exhibit more rapid changes than others.
-</p>
-<img src="{{ '/assets/images/projects/slope_radius_subnets.png' | relative_url }}" alt="slope_radius_subnets">
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="{{ '/assets/images/projects/hyperbolic_slope_brain_visualization.png' | relative_url }}" alt="Age Prediction" style="width: 48%; height: 70%">
-    <img src="{{ '/assets/images/projects/subnet_comparison.png' | relative_url }}" alt="Age Prediction" style="width: 48%;">
-</div>
+#### GDG-Mamba Model
+The main architecture of the GDG-Mamba model processes a series of discrete-time graph snapshots {G_t}_{t=1}^{T} using GINE convolution. Key features include:
+- Enhanced spatial representation of the graph by considering both node and edge-level features at each timestamp.
+- Generated graph sequence representations are processed through the Mamba block to capture temporal dynamics.
+- Mean pooling and a linear layer with tanh nonlinearity are applied before outputting the final Gaussian embeddings.
+- The model incorporates node and edge-level features across both spatial and temporal dimensions.
+<img src="{{ '/assets/images/projects/DGMamba_3models.png' | relative_url }}" alt="DGmamba" style="width: 100%; height: 100%">
 
 
-#### B. Age prediction with hyperbolic radius
+### Results
+We used five different graph benchmarks to validate and compare our proposed models. A summary of the dataset statistics - including the number of nodes, number of edges, number of timesteps, and the distribution of train/validation/test splits with specific numbers of timesteps, as well as the embedding size - is provided in Table 1.
 
-<p align="justify">
-We utilized the hyperbolic radius of node embeddings as a new feature for predicting the age of individuals. Our model outperformed traditional graph-theoretic measures, showcasing the potential of hyperbolic features in capturing age-related information. The table below depicts the mean average error (MAE) of age predictions using hyperbolic radius compared to other methods.
-</p>
-
- <img src="{{ '/assets/images/projects/age_prediction.png' | relative_url }}" alt="Age Prediction">
+ <img src="{{ '/assets/images/projects/DGmamba-datasets.png' | relative_url }}" alt="DGmamba" >
+ <img src="{{ '/assets/images/projects/map_mrr.png' | relative_url }}" alt="DGmamba" >
+ <small>Figure 4. Comparison of MAP and MRR for temporal link prediction task for DynG2G, TransformerG2G, ST-TransformerG2G (i.e., TransformerG2G + GCN), DG-Mamba, GDG-Mamba (i.e., DG-Mamba + GINEConv) models.</small>
 
 #### Aknowlegement
-
-> <p align="justify">This work was supported by a Jameel Clinic at MIT grant award (to DP); the National Institute on Aging of the National Institutes of Health under award numbers RF1AG074204 (to MF, JCM, MF, FM, and DP) and RF1AG079324 (to EBM, MF, JCM, MF, FM, and DP); and was partially supported by the DOE SEA-CROGS project (DE-SC0023191) to MX. 
+><p align="justify">
+We would like to acknowledge support from the DOE SEA-CROGS project (DE-SC0023191) and the AFOSR project (FA9550-24-1-0231).</p>
 
 #### Citation
 
 ```bibtex
-@article{ramirez2025fully,
-  title={Fully hyperbolic neural networks: A novel approach to studying aging trajectories},
-  author={Ramirez, Hugo and Tabarelli, Davide and Brancaccio, Arianna and Belardinelli, Paolo and Marsh, Elisabeth B and Funke, Michael and Mosher, John C and Maestu, Fernando and Xu, Mengjia and Pantazis, Dimitrios},
-  journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2025},
-  publisher={IEEE}
+@article{parmanand2024comparative,
+  title={A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers},
+  author={Parmanand Pandey, Ashish and Varghese, Alan John and Patil, Sarang and Xu, Mengjia},
+  journal={arXiv e-prints},
+  pages={arXiv--2412},
+  year={2024}
 }
 ```
-
-

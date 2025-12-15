@@ -1,16 +1,17 @@
 ---
-title: A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers
-subtitle: (Ashish Parmanand Pandey, Alan John Varghese, Sarang Patil, Mengjia Xu)
-description: This project investigates dynamic graph embedding techniques utilizing transformer models and the Mamba architecture. It introduces innovative models that improve performance and efficiency in temporal link prediction tasks, offering insights into temporal dependencies with enhanced explainability. The findings suggest promising directions for scalable graph representation learning.
+title: Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings
+subtitle: (Sarang Patil, Ashish Parmanand Pandey, Ioannis Koutis, Mengjia Xu)
+description: 
 order: 1
 active: true
 card_image: "assets/images/dynamicgraph.jpg"
 card_title: null # used if card_image is null; defaults to title
 categories: 
-    - Dynamic graph
-    - Transformer
+    - Hierachical reasoning
     - State-Space Models (Mamba)  
-    - Temporal link forecasting
+    - Hyperbolic Geometry
+    - Medical ontology
+    - Natural Language Inference
 ---
 
 <!-- This is complete description of my second project. -->
@@ -26,14 +27,14 @@ categories:
 
 ### Overview
 <p align="justify">
-Dynamic graph embedding has emerged as an important technique for modeling complex time-evolving networks across diverse domains. While transformer-based models have shown promise in capturing long-range dependencies in temporal graph data, they face scalability challenges due to quadratic computational complexity. This study presents a comparative analysis of dynamic graph embedding approaches using transformers and the recently proposed Mamba architecture, a state-space model with linear complexity. We introduce three novel models: TransformerG2G augment with graph convolutional networks, DG-Mamba, and GDG-Mamba with graph isomorphism network edge convolutions. Our experiments on multiple benchmark datasets demonstrate that Mamba-based models achieve comparable or superior performance to transformer-based approaches in link prediction tasks while offering significant computational efficiency gains on longer sequences. Notably, DG-Mamba variants consistently outperform transformer-based models on datasets with high temporal variability, such as UCI, Bitcoin, and Reality Mining, while maintaining competitive performance on more stable graphs like SBM. We provide insights into the learned temporal dependencies through analysis of attention weights and state matrices, revealing the models’ ability to capture complex temporal patterns. By effectively combining state-space models with graph neural networks, our work addresses key limitations of previous approaches and contributes to the growing body of research on efficient temporal graph representation learning. These findings offer promising directions for scaling dynamic graph embedding to larger, more complex real-world networks, potentially enabling new applications in areas such as social network analysis, financial modeling, and biological system dynamics.
+Selective state-space models have achieved great success in long-sequence modeling. However, their capacity for language representation, especially in complex hierarchical reasoning tasks, remains underexplored. Most large language models rely on flat Euclidean embeddings, limiting their ability to capture latent hierarchies. To address this limitation, we propose Hierarchical Mamba (HiM), integrating efficient Mamba2 with exponential growth and curved nature of hyperbolic geometry to learn hierarchy-aware language embeddings for deeper linguistic understanding. Mamba2-processed sequences are projected to the Poincare ball (via tangent-based mapping) or Lorentzian manifold (via cosine and sine-based mapping) with "learnable" curvature, optimized with a combined hyperbolic loss. Our HiM model facilitates the capture of relational distances across varying hierarchical levels, enabling effective long-range reasoning. This makes it well-suited for tasks like mixed-hop prediction and multi-hop inference in hierarchical classification. We evaluated our HiM with four linguistic and medical datasets for mixed-hop prediction and multi-hop inference tasks. Experimental results demonstrated that: 1) Both HiM models effectively capture hierarchical relationships for four ontological datasets, surpassing Euclidean baselines. 2) HiM-Poincare captures fine-grained semantic distinctions with higher h-norms, while HiM-Lorentz provides more stable, compact, and hierarchy-preserving embeddings favoring robustness over detail.
 <br>
-<b>Keywords:</b> graph embedding, transformers, dynamic graphs, link prediction, state-space models, long-term dependencies
+<b>Keywords:</b> language embedding, mamba, hyperbolic geometry, long-term dependencies, hierachical reasoning
 </p>
 
 <p align="center">
-    <a href="https://arxiv.org/pdf/2412.11293">Paper link</a> | 
-    <a href="https://github.com/Dettrax/DG-Mamba">GitHub link</a>|
+    <a href="https://arxiv.org/pdf/2505.18973">Paper link</a> | 
+    <a href="https://github.com/BerryByte/HiM">GitHub link</a>|
     <a href="#citation">Citation</a> 
 </p>
 

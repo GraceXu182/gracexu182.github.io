@@ -99,20 +99,6 @@
   badges:
     - project=project1 
     # - project=project3
-- id: Shreyas # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Shreyas Rajesh Shende  # as display on the web page People item
-  role: Master's student
-  program: Computer Science, NJIT # omit if not applicable
-  image: assets/images/Shreyas.jpg # can be external link
-  orcid: null
-  email: null
-  googlescholar: null
-  github: null
-  twitter: null
-  description: #Gemomics data analysis，LLMs
-  status: active
-  badges:
-    # - project=project1 
 
 - id: Amirhossein # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Amirhossein Nouranizadeh # as display on the web page People item
@@ -129,7 +115,6 @@
   badges:
     # - project=project1   
 
- 
 - id: Varsha # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Varsha Narayanan  # as display on the web page People item
   role: Undergraduate student 
@@ -144,7 +129,34 @@
   status: active
   badges:
     # - project=project1 
+- id: Jonas_Tirona # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Jonas Tirona  # as display on the web page People item
+  role: Undergraduate student
+  program: Computer Science, Albert Dorman Honors College, NJIT # omit if not applicable
+  image: assets/images/Jonas_Tirona.jpeg # can be external link
+  orcid: null 
+  email: jst26@njit.edu
+  googlescholar: 
+  github: null
+  twitter: null
+  description: 
+  status: active
+  badges: 
 
+- id: Eren_Dogan # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Eren Berke Dogan  # as display on the web page People item
+  role: Undergraduate student
+  program: Computer Science, Albert Dorman Honors College, NJIT # omit if not applicable
+  image: assets/images/Eren_Dogan.jpeg # can be external link
+  orcid: null 
+  email: ebd@njit.edu
+  googlescholar: 
+  github: null
+  twitter: null
+  description: 
+  status: active
+  badges: 
+  
 - id: John_Girgis # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: John Girgis  # as display on the web page People item
   role: Undergraduate student
@@ -158,6 +170,7 @@
   description: 
   status: active
   badges: 
+
   
 - id: Arnav_Saraogi # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Arnav Saraogi  # as display on the web page People item
@@ -190,6 +203,22 @@
 #-------------------------------------------------------------------------------------
 # past group members
 #-------------------------------------------------------------------------------------
+- id: Shreyas # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Shreyas Rajesh Shende  # as display on the web page People item
+  role: M.S. Student (2024-2025)
+  program: Computer Science, NJIT # omit if not applicable
+  image: assets/images/Shreyas.jpg # can be external link
+  orcid: null
+  email: null
+  googlescholar: null
+  github: null
+  twitter: null
+  description: #Gemomics data analysis，LLMs
+  status: past
+  badges:
+    # - project=project1 
+  current_position: Software Engineer ([Morgan Stanley](https://www.morganstanley.com/), NYC, US)
+
 - id: Fatma # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Fatma Gizem Isir # as display on the web page People item
   role: Master's student (2025)
@@ -277,7 +306,7 @@
   linkedin: https://www.linkedin.com/in/cole-baker-724573130/
   description: #Hyperbolic graph embedding of magnetoencephalography brain networks to study brain alterations in patients with subjective cognitive decline
   status: past 
-  current_position: AI Research Scientist ([1910 Genetics](https://www.1910genetics.com), Greater Boston, MA)
+  current_position: AI Research Scientist ([1910 Genetics](https://www.1910genetics.com), Greater Boston Area, MA)
   badges:
     - project=project3 
     # - Newsfeed=

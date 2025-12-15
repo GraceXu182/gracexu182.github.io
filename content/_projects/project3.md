@@ -1,74 +1,85 @@
 ---
-title: Hyperbolic Graph Embedding of MEG Brain Networks to Study Brain Alterations in Individuals With Subjective Cognitive Decline
-subtitle: (Cole Baker, Isabel Suárez-Méndez , Grace Smith, Elisabeth B. Marsh, Michael Funke, John C. Mosher, Fernando Maestu, Mengjia Xu*, and Dimitrios Pantazis*)
-description: This study develops a hyperbolic MEG brain network embedding framework to analyze early Alzheimer’s disease (SCD stage) by mapping brain networks into low-dimensional hyperbolic space. The model reveals hierarchical differences in key subnetworks and their correlation with cognitive decline, offering new insights for early diagnosis.
-order: 3
-active: false
-card_image: "/assets/images/SCD_project.jpg"
-# card_image: "assets/images/SCD_project.jpg"
-card_title:  # used if card_image is null; defaults to title
+title:  Fully Hyperbolic Neural Networks - A Novel Approach to Studying Aging Trajectories
+subtitle: (Hugo Ramirez, Davide Tabarelli, Arianna Brancaccio, Paolo Belardinelli, Elisabeth B. Marsh, Michael Funke, John C. Mosher, Fernando Maestu, Mengjia Xu*, and Dimitrios Pantazis*)
+description: This study uses a Fully Hyperbolic Neural Network (FHNN) to embed MEG brain networks, uncovering age-related hierarchical changes and highlighting the superiority of hyperbolic features in aging analysis.
+order: 2
+active: true
+card_image: "/assets/images/brainimage.jpg"
+card_title: null # used if card_image is null; defaults to title
 categories: 
-    - Alzheimer’s disease
-    - MEG Brain Networks
+    - MEG Neuroimaging
+    - Graph Neural Networks
     - Hyperbolic Geometry
+    - Human Brain Aging
 ---
+
+<!-- This is complete description of my third project. -->
 
 <div style="width: 100%; padding: 10px; ; background-color: #f8f8f8;">
     <div style="display: flex; justify-content: space-between;">
-        <a href="../project2">&lt;&lt;Previous Project</a>
+        <a href="../project1">&lt;&lt;Previous Project</a>
         <a href="../project3">Next Project&gt;&gt;</a>
     </div>
 </div>
 
 ### Overview
-
-<p align="justify">
-An expansive area of research focuses on discerning patterns of alterations in functional brain networks from the early stages of Alzheimer’s disease, even at the subjective cognitive decline (SCD) stage. Here, we developed a novel hyperbolic MEG brain network embedding framework for transforming high-dimensional complex MEG brain networks into lower-dimensional hyperbolic representations. Using this model, we computed hyperbolic embeddings of the MEG brain networks of two distinct participant groups: individuals with SCD and healthy controls. We demonstrated that these embeddings preserve both local and global geometric information, presenting reduced distortion compared to rival models, even when brain networks are mapped into low-dimensional spaces. In addition, our findings showed that the hyperbolic embeddings encompass unique SCD-related information that improves the discriminatory power above and beyond that of connectivity features alone. Notably, we introduced a unique metric–the radius of the node embeddings–which effectively proxies the hierarchical organization of the brain. Using this metric, we identified subtle hierarchy organizational differences between the two participant groups, suggesting increased hierarchy in the dorsal attention, frontoparietal, and ventral attention subnetworks among the SCD group. Last, we assessed the correlation between these hierarchical variations and cognitive assessment scores, revealing associations with diminished performance across multiple cognitive evaluations in the SCD group. Overall, this study presents the first evaluation of hyperbolic embeddings of MEG brain networks, offering novel insights into brain organization, cognitive decline, and potential diagnostic avenues of Alzheimer’s disease.
+<p align = 'justify'>
+Characterizing age-related alterations in brain networks is crucial for understanding aging trajectories and identifying deviations indicative of neurodegenerative disorders, such as Alzheimer’s disease. In this study, we developed a Fully Hyperbolic Neural Network (FHNN) to embed functional brain connectivity graphs derived from magnetoencephalography (MEG) data into low dimensions on a Lorentz model of hyperbolic space. Using this model, we computed hyperbolic embeddings of the MEG brain networks of 587 individuals from the Cambridge Centre for Ageing and Neuroscience (Cam-CAN) dataset. Notably, we leveraged a unique metric—the radius of the node embeddings—which effectively captures the hierarchical organization of the brain, to characterize subtle hierarchical organizational changes in various brain subnetworks attributed to the aging process. Our findings revealed that a considerable number of subnetworks exhibited a reduction in hierarchy during aging, with some showing gradual changes and others undergoing rapid transformations in the elderly. Moreover, we demonstrated that hyperbolic features outperform traditional graph-theoretic measures in capturing age-related information in brain networks. Overall, our study represents the first evaluation of hyperbolic embeddings in MEG brain networks for studying aging trajectories, shedding light on critical regions undergoing significant age-related alterations in the large cohort of the Cam-CAN dataset.
 </p>
-**Keywords:** Alzheimer’s disease, subjective cognitive decline, magnetoencephalography, brain networks, hyperbolic space, graph embedding
+
+**Keywords:** Aging trajectories, Alzheimer’s disease, age prediction, magnetoencephalography, brain networks, hyperbolic space, graph embedding.
 
 <p align="center">
-    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10564006">Paper link</a> | 
-    <a href="https://github.com/ColeSBaker/hyperBrain">GitHub link</a>|
+    <a href="https://ieeexplore.ieee.org/abstract/document/10916497">Paper link</a> | 
+    <a href="https://github.com/Hramir/age_prediction">GitHub link</a>|
     <a href="#citation">Citation</a> 
 </p>
 
 ### **Methodology**
+
 <p align = 'justify'>
-Main workflow of our proposed hyperbolic embedding framework for MEG brain networks is shown in the figure below. It contains four main components: (a) MEG functional connectivity matrix calculated based on phase locking values across all 90 regions of the AAL brain atlas. (b) Illustrative visualization of the binary MEG brain network on the cortex, after applying a threshold of 0.329 to the phase locking values. Node attributes incorporate one-hot identity vectors. (c) A two-layer hyperbolic graph convolutional network (HGCN) model performs feature transformation and neighborhood aggregation, followed by the SELU activation function. (d) Example hyperbolic embeddings of brain regions in the 2-dimensional space. Subnetwork and hemisphere are indicated by color and shape, respectively.
+The FHNNs contain three main components: feature transformation, neighborhood aggregation, and non-linear activation. The feature transformation corresponds to a Lorentz linear layer, while the closed-form centroid of neighboring node features defined before is used for neighborhood aggregation. Non-linearity is integrated into the Lorentz linear layer without the need for an explicit non-linear activation function. 
 </p>
-<img src="{{ '/assets/images/projects/SCD_method.png' | relative_url }}" alt="main framework for SCD prediction">
+
+<img src="{{ '/assets/images/projects/brain_aging_FHNN.png' | relative_url }}" alt="FHNN Model for Age Prediction">
 
 ### **Results**
 
-<p align = 'justify'>
-The hyperbolic embedding model for MEG brain networks was initally evaluated by performing link prediction task with different embedding sizes (D), see results in Table II. According to the obtained MEG brain network embeddings, subjective cognitive decline (SCD) classification results are illustrated in Fig. 5. Additionally, Figures 6 and 7 depict the hierarchical changes of 8 subnetworks between normal controls and individuals with subjective cognitive decline, based on the cluster radius metric derived from the corresponding hyperbolic MEG brain network embeddings.
+#### A. Alterations of brain network hierarchy across age
+
+<p align="justify">
+We estimated the average hyperbolic radius for brain regions within 22 brain subnetworks across participants of the same decade (Table I, Fig. 4). The results show a consistent increase in hyperbolic radius over time, indicating a diminishing hierarchical significance. Some subnetworks exhibit more rapid changes than others.
+</p>
+<img src="{{ '/assets/images/projects/slope_radius_subnets.png' | relative_url }}" alt="slope_radius_subnets">
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="{{ '/assets/images/projects/hyperbolic_slope_brain_visualization.png' | relative_url }}" alt="Age Prediction" style="width: 48%; height: 70%">
+    <img src="{{ '/assets/images/projects/subnet_comparison.png' | relative_url }}" alt="Age Prediction" style="width: 48%;">
+</div>
+
+
+#### B. Age prediction with hyperbolic radius
+
+<p align="justify">
+We utilized the hyperbolic radius of node embeddings as a new feature for predicting the age of individuals. Our model outperformed traditional graph-theoretic measures, showcasing the potential of hyperbolic features in capturing age-related information. The table below depicts the mean average error (MAE) of age predictions using hyperbolic radius compared to other methods.
 </p>
 
-<img src="{{ '/assets/images/projects/SCD_results_all.png' | relative_url }}" alt="main framework for SCD prediction">
-
+ <img src="{{ '/assets/images/projects/age_prediction.png' | relative_url }}" alt="Age Prediction">
 
 #### Aknowlegement
 
-> <p align="justify"> This work was supported by a Jameel Clinic at MIT grant award (to DP); the National Institute on Aging of the National Institutes of Health under award numbers RF1AG074204 (to MF, JCM, MF, FM, and DP) and RF1AG079324 (to EBM, MF, JCM, MF, FM, and DP); and was partially supported by the DOE SEA-CROGS project (DE-SC0023191) to MX. 
+> <p align="justify">This work was supported by a Jameel Clinic at MIT grant award (to DP); the National Institute on Aging of the National Institutes of Health under award numbers RF1AG074204 (to MF, JCM, MF, FM, and DP) and RF1AG079324 (to EBM, MF, JCM, MF, FM, and DP); and was partially supported by the DOE SEA-CROGS project (DE-SC0023191) to MX. 
 
 #### Citation
 
 ```bibtex
-@article{baker2024hyperbolic,
-  title={Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline},
-  author={Baker, Cole and Su{\'a}rez-M{\'e}ndez, Isabel and Smith, Grace and Marsh, Elisabeth B and Funke, Michael and Mosher, John C and Maest{\'u}, Fernando and Xu, Mengjia and Pantazis, Dimitrios},
+@article{ramirez2025fully,
+  title={Fully hyperbolic neural networks: A novel approach to studying aging trajectories},
+  author={Ramirez, Hugo and Tabarelli, Davide and Brancaccio, Arianna and Belardinelli, Paolo and Marsh, Elisabeth B and Funke, Michael and Mosher, John C and Maestu, Fernando and Xu, Mengjia and Pantazis, Dimitrios},
   journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2024},
+  year={2025},
   publisher={IEEE}
 }
 ```
 
 
-<!-- This is an example of a PubMed citation {% include citation.html search="njit" %}. -->
-
-<!-- {% include figure.html  
-    image="assets/images/chemical-reaction-science-chemistry.jpg"
-    title="This is the 'title' provided to figure.html."
-    caption="This is the text in the 'caption' provided to figure.html."
-%} -->
