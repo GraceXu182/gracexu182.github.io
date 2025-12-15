@@ -147,7 +147,7 @@
   name: Eren Berke Dogan  # as display on the web page People item
   role: Undergraduate student
   program: Computer Science, Albert Dorman Honors College, NJIT # omit if not applicable
-  image: assets/images/Eren_Dogan.jpeg # can be external link
+  image: assets/images/eren_dogan.jpeg # can be external link
   orcid: null 
   email: ebd@njit.edu
   googlescholar: 
