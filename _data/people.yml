@@ -102,7 +102,7 @@
 
 - id: Amirhossein # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Amirhossein Nouranizadeh # as display on the web page People item
-  role: M.S. (Research intern) 
+  role: M.S.
   program: AI Engineering, Tehran Polytechnic # omit if not applicable
   image: assets/images/Amirhossein.png # can be external link
   orcid: null
@@ -156,7 +156,7 @@
   description: 
   status: active
   badges: 
-  
+
 - id: John_Girgis # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: John Girgis  # as display on the web page People item
   role: Undergraduate student
