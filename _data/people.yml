@@ -205,7 +205,7 @@
   badges: 
 - id: Shreyas # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Shreyas Rajesh Shende  # as display on the web page People item
-  role: M.S. Student (2024-2025)
+  role: M.S. (2024-2025)
   program: Computer Science, NJIT # omit if not applicable
   image: assets/images/Shreyas.jpg # can be external link
   orcid: null
