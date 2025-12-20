@@ -90,7 +90,7 @@
   image: assets/images/Zeyong.png # can be external link
   orcid: null
   email: zz@njit.edu
-  googlescholar: 
+  googlescholar: https://scholar.google.com/citations?user=DjfBpfwAAAAJ&hl=zh-CN
   github: 
   twitter: null
   description: #Spatial-temporal graphs, Mamba, GNNs
