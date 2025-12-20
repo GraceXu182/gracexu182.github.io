@@ -87,7 +87,7 @@
   name: Zeyong Zhang # as display on the web page People item
   role: PhD Student
   program: Data Science, NJIT # omit if not applicable
-  image: assets/images/Zeyong.png # can be external link
+  image: assets/images/zeyong.jpg # can be external link
   orcid: null
   email: zz63@njit.edu
   googlescholar: https://scholar.google.com/citations?user=DjfBpfwAAAAJ&hl=zh-CN
