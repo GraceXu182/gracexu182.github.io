@@ -83,21 +83,6 @@
   badges:
     # - project=project1 
     # - project=project3
-- id: Zeyong_Zhang # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Zeyong Zhang # as display on the web page People item
-  role: PhD Student
-  program: Data Science, NJIT # omit if not applicable
-  image: assets/images/zeyong.jpg # can be external link
-  orcid: null
-  email: zz63@njit.edu
-  googlescholar: https://scholar.google.com/citations?user=DjfBpfwAAAAJ&hl=zh-CN
-  github: 
-  twitter: null
-  description: #Spatial-temporal graphs, Mamba, GNNs
-  status: active
-  badges:
-    # - project=project1 
-    # - project=project3
 - id: Ashish_Pandey # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Ashish Pandey # as display on the web page People item
   role: PhD Student
@@ -113,7 +98,21 @@
   badges:
     # - project=project1 
     # - project=project3
-
+- id: Zeyong_Zhang # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Zeyong Zhang # as display on the web page People item
+  role: PhD Student
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/zeyong.jpg # can be external link
+  orcid: null
+  email: zz63@njit.edu
+  googlescholar: 
+  github: 
+  twitter: null
+  description: #Spatial-temporal graphs, Mamba, GNNs
+  status: active
+  badges:
+    # - project=project1 
+    # - project=project3
 - id: Amirhossein # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Amirhossein Nouranizadeh # as display on the web page People item
   role: M.S.
@@ -128,6 +127,21 @@
   status: active
   badges:
     # - project=project1   
+
+- id: Varsha_Narayana # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Varsha Narayana  # as display on the web page People item
+  role: Undergraduate student
+  program: Computer Science, Albert Dorman Honors College, NJIT # omit if not applicable
+  image: assets/images/Varsha_25Spring.jpeg # can be external link
+  orcid: null 
+  email: vn299@njit.edu
+  googlescholar: 
+  github: null
+  twitter: null
+  description: 
+  status: active
+  badges: 
+
 
 - id: Jonas_Tirona # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Jonas Tirona  # as display on the web page People item
