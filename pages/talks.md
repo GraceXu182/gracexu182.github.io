@@ -8,7 +8,7 @@ permalink: /talks/
 
 <h3>2025</h3>
 <ul>
-  <li>11/02/2025, present at the co-organized minisympisium "Foundation Models: From Theory to Practice" at the SIAM-NNP</a> (PSU, PA).</li>
+  <li>11/02/2025, present at the co-organized minisympisium "Foundation Models: From Theory to Practice" at the SIAM-NNP (PSU, PA).</li>
   <li>08/22/2025, presented at the AFOSR Annual Review Meeting (Washington, DC).</li>
   <li>08/09/2025, gave a lightning talk and served as a panelist at the MIT CBMM Summer School workshop “Learning Theory” (Woods Hole, MA).</li>
   <li>07/22/2025, present at the 18th USNCCM (Chicago, IL).</li>
