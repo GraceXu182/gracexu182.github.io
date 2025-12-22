@@ -6,9 +6,18 @@ banner_image: assets/images/nyc-view2.png
 permalink: /talks/
 ---
 
+<h3>2025</h3>
+<ul>
+  <li>11/02/2025, present at the co-organized minisympisium "Foundation Models: From Theory to Practice" at the SIAM-NNP</a> (PSU, PA).</li>
+  <li>08/22/2025, presented at the AFOSR Annual Review Meeting (Washington, DC).</li>
+  <li>08/09/2025, gave a lightning talk and served as a panelist at the MIT CBMM Summer School workshop “Learning Theory” (Woods Hole, MA).</li>
+  <li>07/22/2025, present at the 18th USNCCM (Chicago, IL).</li>
+  <li>04/23/2025, Guest Lecture on “Graph Neural Networks” for the MATH707 course at NJIT.</li>
+</ul>
+
 <h3>2024</h3>
 <ul>
-<li>10/30/2024, gave a talk at the <a href="https://iqb.rutgers.edu/">Institute for Quantitative Biomedicine (IQB)</a> at Rutgers University.</li>
+<li>10/30/2024, present at the <a href="https://iqb.rutgers.edu/">Institute for Quantitative Biomedicine (IQB)</a> at Rutgers University.</li>
 <li>10/09/2024, joined the annual meeting of SEACROGS Center at <a href="https://www.stanford.edu/">Stanford University</a> (Stanford, CA).</li>
 <li>09/10/2024, joined the Hudson Forum 2024 at IBM (Yorktown Heights, NY).</li>
 <li>03/01/2024, presented at the <a href="https://logconference.org/">Learning on Graphs (LoG)</a> NYC meetup.</li>
