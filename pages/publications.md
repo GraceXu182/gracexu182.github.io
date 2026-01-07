@@ -16,8 +16,15 @@ For all publications, please visit my [Google Scholar](https://scholar.google.co
 <h3>Preprints</h3>
 
 <div style="text-align: justify;">
-    <li class="publication-item">🔥Patil, S., Pandey, A.P., Koutis, I. and <b>Xu, M.</b> <a href = "https://arxiv.org/abs/2505.18973">Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings</a>. <em>arXiv preprint arXiv:2505.18973, 2025.</em></li>
-    <li class="publication-item">🔥Pandey, A., Varghese, A.J., Patil, S., <b>Xu, M.</b> <a href="https://arxiv.org/abs/2412.11293">A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers</a>. <em>arXiv preprint arXiv:2412.11293, 2024</em>.</li>
+    <li class="publication-item">🔥Patil, S., Zhang, Z., Huang, Y., Ma, T. and <b>Xu, M.</b> 
+        <a href="https://arxiv.org/abs/2509.05757"> Hyperbolic Large Language Model</a>. <em>arXiv preprint arXiv:2509.05757, 2025.</em>
+    </li>
+    <li class="publication-item">🔥Patil, S., Pandey, A.P., Koutis, I. and <b>Xu, M.</b> 
+        <a href = "https://arxiv.org/abs/2505.18973">Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings</a>. <em>arXiv preprint arXiv:2505.18973, 2025.</em>
+    </li>
+    <li class="publication-item">🔥Pandey, A., Varghese, A.J., Patil, S., <b>Xu, M.</b> 
+        <a href="https://arxiv.org/abs/2412.11293">A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers</a>. <em>arXiv preprint arXiv:2412.11293, 2024</em>.
+    </li>
 </div>  
 
 <h3>Selected Publications</h3>
