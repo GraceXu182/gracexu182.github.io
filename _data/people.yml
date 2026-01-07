@@ -113,20 +113,20 @@
   badges:
     # - project=project1 
     # - project=project3
-- id: Amirhossein # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Amirhossein Nouranizadeh # as display on the web page People item
-  role: M.S.
-  program: AI Engineering # omit if not applicable
-  image: assets/images/Amirhossein.png # can be external link
-  orcid: null
-  email: amirhossein.nouranizadeh@gmail.com
-  googlescholar: https://scholar.google.com/citations?user=6BiwqDcAAAAJ&hl=en
-  github: null
-  twitter: null
-  description: #Causal Graph Discovery, GNNs
-  status: active
-  badges:
-    # - project=project1   
+# - id: Amirhossein # used internally to identify this person, e.g., in a Newsfeed post "people" field
+#   name: Amirhossein Nouranizadeh # as display on the web page People item
+#   role: M.S.
+#   program: AI Engineering # omit if not applicable
+#   image: assets/images/Amirhossein.png # can be external link
+#   orcid: null
+#   email: amirhossein.nouranizadeh@gmail.com
+#   googlescholar: https://scholar.google.com/citations?user=6BiwqDcAAAAJ&hl=en
+#   github: null
+#   twitter: null
+#   description: #Causal Graph Discovery, GNNs
+#   status: active
+#   badges:
+#     # - project=project1   
 
 - id: Varsha_Narayana # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Varsha Narayana  # as display on the web page People item
