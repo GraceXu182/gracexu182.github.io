@@ -85,12 +85,12 @@
     # - project=project3
 - id: Ashish_Pandey # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Ashish Pandey # as display on the web page People item
-  role: PhD Student
+  role: Master's Student
   program: Data Science, NJIT # omit if not applicable
   image: assets/images/AshishPandey.png # can be external link
   orcid: null
   email: ap2934@njit.edu
-  googlescholar: https://scholar.google.com/citations?user=E2vtJSIAAAAJ&hl=en
+  googlescholar: 
   github: Dettrax
   twitter: null
   description: #Spatial-temporal graphs, Mamba, GNNs
