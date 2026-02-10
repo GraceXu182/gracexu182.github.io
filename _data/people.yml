@@ -77,7 +77,8 @@
   image: assets/images/YiranHuang.jpeg  # can be external link
   orcid: null
   email: yh87@njit.edu
-  github: nullh
+  googlescholar: https://scholar.google.com/citations?user=bieYyXYAAAAJ&hl=en&oi=ao
+  github: null
   twitter: null
   description: #Computer vision, LLMs
   status: active
