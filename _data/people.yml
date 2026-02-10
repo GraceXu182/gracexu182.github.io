@@ -61,6 +61,7 @@
   image: assets/images/sarang.jpeg # can be external link
   orcid: null
   email: sp3463@njit.edu
+  googlescholar: https://scholar.google.com/citations?user=8Rnp8G8AAAAJ&hl=en&oi=ao
   github: null
   twitter: null
   description: #Spatial-temporal graphs, climate modeling, LLMs
@@ -76,28 +77,14 @@
   image: assets/images/YiranHuang.jpeg  # can be external link
   orcid: null
   email: yh87@njit.edu
-  github: null
+  github: nullh
   twitter: null
   description: #Computer vision, LLMs
   status: active
   badges:
     # - project=project1 
     # - project=project3
-- id: Ashish_Pandey # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Ashish Pandey # as display on the web page People item
-  role: M.S. (2024-2025)
-  program: Data Science, NJIT # omit if not applicable
-  image: assets/images/AshishPandey.png # can be external link
-  orcid: null
-  email: 
-  googlescholar: 
-  github: Dettrax
-  twitter: null
-  description: #Spatial-temporal graphs, Mamba, GNNs
-  status: past
-  badges:
-    # - project=project1 
-    # - project=project3
+
 - id: Zeyong_Zhang # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Zeyong Zhang # as display on the web page People item
   role: PhD Student
@@ -105,7 +92,7 @@
   image: assets/images/zeyong.jpg # can be external link
   orcid: null
   email: zz63@njit.edu
-  googlescholar: 
+  googlescholar: https://scholar.google.com/citations?user=DjfBpfwAAAAJ&hl=en&oi=ao
   github: 
   twitter: null
   description: #Spatial-temporal graphs, Mamba, GNNs
@@ -218,6 +205,7 @@
   description: 
   status: past
   badges: 
+
 - id: Shreyas # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Shreyas Rajesh Shende  # as display on the web page People item
   role: M.S. (2024-2025)
@@ -233,6 +221,22 @@
   badges:
     # - project=project1 
   current_position: Software Engineer ([Morgan Stanley](https://www.morganstanley.com/), NYC, US)
+
+- id: Ashish_Pandey # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Ashish Pandey # as display on the web page People item
+  role: M.S. (2024-2025)
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/AshishPandey.png # can be external link
+  orcid: null
+  email: 
+  googlescholar: 
+  github: Dettrax
+  twitter: null
+  description: #Spatial-temporal graphs, Mamba, GNNs
+  status: past
+  badges:
+    # - project=project1 
+    # - project=project3
 
 - id: Fatma # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Fatma Gizem Isir # as display on the web page People item
