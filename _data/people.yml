@@ -101,6 +101,21 @@
   badges:
     # - project=project1 
     # - project=project3
+- id: Rubaith_Bashar # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Rubaith Bashar # as display on the web page People item
+  role: PhD Student (Coadvise with Dr. Geller)
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/rubaith.jpeg # can be external link
+  orcid: null
+  email: tb439@njit.edu
+  googlescholar: https://scholar.google.com/citations?user=bnG-TYkAAAAJ&hl=en
+  github: 
+  twitter: null
+  description: #Spatial-temporal graphs, Mamba, GNNs
+  status: active
+  badges:
+    # - project=project1 
+    # - project=project3
 - id: Amirhossein # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Amirhossein Nouranizadeh # as display on the web page People item
   role: M.S.
