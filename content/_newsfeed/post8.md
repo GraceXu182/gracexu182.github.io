@@ -4,7 +4,7 @@ title: New paper accepted by the MIDL 2026
 subtitle: Congratulations to Yiran!
 description: Paper titled "BrainATCL - Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation" has been accepted by MIDL 2026.
 event_type: publication # primary type of the event, used to create the small, colored post callout
-banner_image: assets/images/banner_banner3.jpg # the item whose banner image will be adopted by this event
+banner_image: assets/images/banner_banner3.png # the item whose banner image will be adopted by this event
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
 #   - project=project1
   - person=Yiran_Huang
@@ -20,15 +20,9 @@ We are excited to share our latest accepted *MIDL* paper, a collaboration with e
 BibTeX
 </a>
 
-<!-- #### Overview -->
-
-<p align="justify">
-<b><span style="color: darkred"></span></b>.
-</p>
-
 <div style="width: 100%; padding: 10px; border: 1px solid #ccc; background-color: #f8f8f8;">
   <div style="display: flex; justify-content: space-between;">
-    <a href="../post6/">&lt;&lt;Previous News</a>
-    <a href="../post7/">Next News&gt;&gt;</a>
+    <a href="../post7/">&lt;&lt;Previous News</a>
+    <a href="../">Next News&gt;&gt;</a>
   </div>
 </div>
