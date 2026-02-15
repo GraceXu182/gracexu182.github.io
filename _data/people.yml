@@ -102,8 +102,8 @@
     # - project=project1 
     # - project=project3
 - id: Rubaith_Bashar # used internally to identify this person, e.g., in a Newsfeed post "people" field
-  name: Rubaith Bashar # as display on the web page People item
-  role: PhD Student (Co-advised with [Prof. James Geller](https://web.njit.edu/~geller/)
+  name: T M Rubaith Bashar # as display on the web page People item
+  role: PhD Student (Co-advised with Prof. James Geller)
   program: Data Science, NJIT # omit if not applicable
   image: assets/images/rubaith.jpeg # can be external link
   orcid: null
