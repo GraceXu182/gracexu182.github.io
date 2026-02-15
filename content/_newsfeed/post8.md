@@ -12,7 +12,7 @@ badges: # e.g. person=John_Doe, project=project1 (no spaces)
 
 <a href="../#latest-news"><b>&lt;&lt;All News</b></a>
 
-We are excited to share our latest accepted *MIDL* paper, a collaboration with esteemed collaborator from the <b>University of Oxford</b>.
+We are excited to share our latest accepted *[MIDL](https://2026.midl.io/)* paper, a collaboration with esteemed collaborator [Dr. Christine Ahrends](https://christineahrends.org/) from the <b>University of Oxford</b>.
 
 **Title:** **<span style="color: darkred">BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation</span>**  
 **Authors:** **<span style="color: darkred">Yiran Huang, Amirhossein Nouranizadeh, Christine Ahrends, Mengjia Xu</span>**  
