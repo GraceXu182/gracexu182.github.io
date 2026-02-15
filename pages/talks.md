@@ -7,7 +7,7 @@ permalink: /talks/
 ---
 <h3>2026</h3>
 <ul>
-    <li>2/20/2026, upcoming talk at the Department of Computer and Information Sciences, University of Delaware (Newark, DE)</li>
+    <li>2/20/2026, upcoming talk at the Department of Computer \& Information Sciences, University of Delaware (Newark, DE)</li>
 </ul>
 <h3>2025</h3>
 <ul>
