@@ -4,7 +4,7 @@ title: New paper accepted by the MIDL 2026
 subtitle: Congratulations to Yiran!
 description: Paper titled "BrainATCL - Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation" has been accepted by MIDL 2026.
 event_type: publication # primary type of the event, used to create the small, colored post callout
-banner_image: assets/images/banner_banner3.png # the item whose banner image will be adopted by this event
+banner_image: assets/images/seminar_banner2.jpg # the item whose banner image will be adopted by this event
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
 #   - project=project1
   - person=Yiran_Huang
@@ -15,7 +15,7 @@ badges: # e.g. person=John_Doe, project=project1 (no spaces)
 We are excited to share our latest accepted *MIDL* paper, a collaboration with esteemed collaborator from the <b>University of Oxford</b>.
 
 **Title:** **<span style="color: darkred">BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation</span>**  
-**Authors:** **<span style="color: darkred">Yiran Huang, Amirhossein Nouranizadeh, Amirhossein Nouranizadeh, Christine Ahrends, Mengjia Xu</span>**  
+**Authors:** **<span style="color: darkred">Yiran Huang, Amirhossein Nouranizadeh, Christine Ahrends, Mengjia Xu</span>**  
 **Links:** [Download paper](https://arxiv.org/abs/2508.07106) | <a href="#" id="bibtex" onclick="navigator.clipboard.writeText('@article{huang2025brainatcl, \n title={BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation}, \n author={Huang, Yiran and Nouranizadeh, Amirhossein and Ahrends, Christine and Xu, Mengjia}, \n journal={arXiv preprint arXiv:2508.07106}, \n year={2025}}'); alert('BibTeX copied to clipboard!');">
 BibTeX
 </a>
