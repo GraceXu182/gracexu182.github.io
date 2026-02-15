@@ -1,8 +1,8 @@
 ---
 date: 2026-02-14
 title: One paper get accepted by MIDL 2026
-subtitle: Congratulations to Yiran! 🎉
-description: Paper titled "BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation" has been accepted by MIDL 2026.
+subtitle: Congratulations to Yiran!
+description: Paper titled "BrainATCL - Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation" has been accepted by MIDL 2026.
 event_type: publication # primary type of the event, used to create the small, colored post callout
 banner_image: assets/images/seminar_banner2.jpg # the item whose banner image will be adopted by this event
 badges: # e.g. person=John_Doe, project=project1 (no spaces)
@@ -11,6 +11,7 @@ badges: # e.g. person=John_Doe, project=project1 (no spaces)
 ---
 
 <a href="../#latest-news"><b>&lt;&lt;All News</b></a>
+
 We are excited to share our latest accepted *MIDL* paper, a collaboration with esteemed collaborator from the <b>University of Oxford</b>.
 
 **Title:** **<span style="color: darkred">BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation</span>**  
