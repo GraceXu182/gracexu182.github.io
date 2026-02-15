@@ -7,9 +7,9 @@ permalink: /talks/
 ---
 <h3>2026</h3>
 <ul>
-    <li>7/8-10/2026, upcoming presentation at the [MIDL 2026](https://2026.midl.io/)</li>
-    <li>6/14-18/2026, upcoming presentation at the [OHBM 2026 Annual Meeting (Palais 2 l’Atlantique in Bordeaux, France)](https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4317)</li>
-    <li>2/20/2026, upcoming talk at the [Department of Computer and Information Sciences](https://www.cis.udel.edu/), University of Delaware (Newark, DE)</li>
+    <li>7/8-10/2026, upcoming presentation at the <a href="https://2026.midl.io/">MIDL 2026</a></li>
+    <li>6/14-18/2026, upcoming presentation at the <a href= "https://humanbrainmapping.org/i4a/pages/index.cfm?pageid=4317">OHBM 2026 Annual Meeting</a> (Palais 2 l’Atlantique in Bordeaux, France)</li>
+    <li>2/20/2026, upcoming talk at the <a href= "https://www.cis.udel.edu/">Department of Computer and Information Sciences</a>, University of Delaware (Newark, DE)</li>
 </ul>
 <h3>2025</h3>
 <ul>
