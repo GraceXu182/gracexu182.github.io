@@ -16,10 +16,7 @@ We are excited to share our latest accepted *MIDL* paper, a collaboration with e
 
 **Title:** **<span style="color: darkred">BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation</span>**  
 **Authors:** **<span style="color: darkred">Yiran Huang, Amirhossein Nouranizadeh, Amirhossein Nouranizadeh, Christine Ahrends, Mengjia Xu</span>**  
-**Links:** [Download paper]() | <a href="#" id="bibtex" onclick="navigator.clipboard.writeText('@article{galanti2024norm, \n title={Norm-based generalization bounds for sparse neural networks}, \n author={Galanti, Tomer and Xu, Mengjia and Galanti, Liane and Poggio, Tomaso}, \n journal={Advances in Neural Information Processing Systems}, \n volume={36}, \n year={2024}}'); alert('BibTex copied to clipboard!');">BibTex</a>
-
-<a href="https://arxiv.org/abs/2508.07106" target="_blank">Download paper</a> | 
-<a href="#" id="bibtex" onclick="navigator.clipboard.writeText('@article{huang2025brainatcl, \n title={BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation}, \n author={Huang, Yiran and Nouranizadeh, Amirhossein and Ahrends, Christine and Xu, Mengjia}, \n journal={arXiv preprint arXiv:2508.07106}, \n year={2025}}'); alert('BibTeX copied to clipboard!');">
+**Links:** [Download paper](https://arxiv.org/abs/2508.07106) | <a href="#" id="bibtex" onclick="navigator.clipboard.writeText('@article{huang2025brainatcl, \n title={BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation}, \n author={Huang, Yiran and Nouranizadeh, Amirhossein and Ahrends, Christine and Xu, Mengjia}, \n journal={arXiv preprint arXiv:2508.07106}, \n year={2025}}'); alert('BibTeX copied to clipboard!');">
 BibTeX
 </a>
 
