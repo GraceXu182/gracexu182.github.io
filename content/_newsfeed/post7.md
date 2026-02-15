@@ -31,7 +31,7 @@ Dynamic graph embedding has emerged as an important technique for modeling compl
 
 <div style="width: 100%; padding: 10px; border: 1px solid #ccc; background-color: #f8f8f8;">
   <div style="display: flex; justify-content: space-between;">
-    <a href="../post1/">&lt;&lt;Previous News</a>
-    <a href="../post2/">Next News&gt;&gt;</a>
+    <a href="../post6/">&lt;&lt;Previous News</a>
+    <a href="../post8/">Next News&gt;&gt;</a>
   </div>
 </div>
