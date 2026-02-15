@@ -1,0 +1,33 @@
+---
+date: 2026-02-12
+title: New Abstract accepted at the OHBM 2026 Annual Meeting 
+subtitle: Congratulations to Yiran! 🎉
+description: The team will present a poster at the OHBM 2026 Annual Meeting on "Adaptive temporal graph learning for predictive dynamic functional connectivity in resting state fMRI."
+event_type: publication # primary type of the event, used to create the small, colored post callout
+banner_image: assets/images/seminar_banner2.jpg # the item whose banner image will be adopted by this event
+badges: # e.g. person=John_Doe, project=project1 (no spaces)
+#   - project=project1
+  - person=Yiran_Huang
+---
+
+<a href="../#latest-news"><b>&lt;&lt;All News</b></a>
+
+We are excited to share our latest accepted abstract at the OHBM 2026, a collaboration with esteemed collaborator [Dr. Christine Ahrends](https://christineahrends.org/) from the <b>University of Oxford</b>.
+
+**Title:** **<span style="color: darkred">BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation</span>**  
+**Authors:** **<span style="color: darkred">Yiran Huang, Amirhossein Nouranizadeh, Christine Ahrends, Mengjia Xu</span>**  
+**Links:** [Download paper](https://arxiv.org/abs/2508.07106) | <a href="#" id="bibtex" onclick="navigator.clipboard.writeText('@article{huang2025brainatcl, \n title={BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation}, \n author={Huang, Yiran and Nouranizadeh, Amirhossein and Ahrends, Christine and Xu, Mengjia}, \n journal={arXiv preprint arXiv:2508.07106}, \n year={2025}}'); alert('BibTeX copied to clipboard!');">
+BibTeX
+</a>
+
+### Abstract
+<p align = 'justify'>
+Functional Magnetic Resonance Imaging (fMRI) is an imaging technique widely used to study human brain activity. fMRI signals in areas across the brain transiently synchronise and desynchronise their activity in a highly structured manner, even when an individual is at rest. These functional connectivity dynamics may be related to behaviour and neuropsychiatric disease. To model these dynamics, temporal brain connectivity representations are essential, as they reflect evolving interactions between brain regions and provide insight into transient neural states and network reconfigurations. However, conventional graph neural networks (GNNs) often struggle to capture long-range temporal dependencies in dynamic fMRI data. To address this challenge, we propose BrainATCL, an unsupervised, nonparametric framework for adaptive temporal brain connectivity learning, enabling functional link prediction and age estimation. Our method dynamically adjusts the lookback window for each snapshot based on the rate of newly added edges. Graph sequences are subsequently encoded using a GINE-Mamba2 backbone to learn spatial-temporal representations of dynamic functional connectivity in resting-state fMRI data of 1,000 participants from the Human Connectome Project. To further improve spatial modeling, we incorporate brain structure and function-informed edge attributes, i.e., the left/right hemispheric identity and subnetwork membership of brain regions, enabling the model to capture biologically meaningful topological patterns. We evaluate our BrainATCL on two tasks: functional link prediction and age estimation. The experimental results demonstrate superior performance and strong generalization, including in cross-session prediction scenarios.
+</p>
+
+<div style="width: 100%; padding: 10px; border: 1px solid #ccc; background-color: #f8f8f8;">
+  <div style="display: flex; justify-content: space-between;">
+    <a href="../2025-04-29/">&lt;&lt;Previous News</a>
+    <a href="../">Next News&gt;&gt;</a>
+  </div>
+</div>
