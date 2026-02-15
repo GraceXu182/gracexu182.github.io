@@ -1,6 +1,6 @@
 ---
 date: 2023-9-21
-title: New Paper on "Norm-Based Generalization Bounds for Compositionally Sparse Neural Networks"
+title: New accepted Paper on "Norm-Based Generalization Bounds for Compositionally Sparse Neural Networks"
 # subtitle: Norm-Based Generalization Bounds for Compositionally Sparse Neural Networks
 description: Paper titled "Norm-Based Generalization Bounds for Compositionally Sparse Neural Networks" has been accepted by NeurIPS.
 event_type: publication # primary type of the event, used to create the small, colored post callout
