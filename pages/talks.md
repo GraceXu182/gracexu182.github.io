@@ -5,7 +5,10 @@ subtitle: null
 banner_image: assets/images/nyc-view2.png
 permalink: /talks/
 ---
-
+<h3>2026</h3>
+<ul>
+    <li>2/20/2026, upcoming talk at the Department of Computer and Information Sciences, University of Delaware (Newark, DE)</li>
+</ul>
 <h3>2025</h3>
 <ul>
   <li>11/02/2025, presented at the co-organized minisympisium <em>"Foundation Models: From Theory to Practice"</em>, SIAM-NNP 2025 (University Park, PA).</li>
