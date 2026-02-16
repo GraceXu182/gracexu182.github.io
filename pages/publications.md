@@ -15,9 +15,12 @@ For all publications, please visit my [Google Scholar](https://scholar.google.co
 
 <h3>Preprints</h3>
 
-<div style="text-align: justify;">
-    <li class="publication-item">🔥Patil, S., Zhang, Z., Huang, Y., Ma, T. and <b>Xu, M.</b> 
-        <a href="https://arxiv.org/abs/2509.05757"> Hyperbolic Large Language Model</a>. <em>arXiv preprint arXiv:2509.05757, 2025.</em>
+<div style="text-align: justify;">  
+    <li class="publication-item">🔥Shende, S., Narayanan, V., Fenn, V., Huang, Y., Goksuluk, D., Choudhary,G., <b>Xu, M.</b> 
+        <a href="https://arxiv.org/abs/2512.04333">RGE-GCN: Recursive Gene Elimination with Graph Convolutional Networks for RNA-seq based Early Cancer Detection</a>. <em>arXiv preprint arXiv:2512.04333, 2025</em>.
+    </li>
+    <li class="publication-item">🔥Chavan, J., Lal, R., Kamat, A., <b>Xu, M.</b> 
+        <a href="https://arxiv.org/abs/2511.11243">Arcee: Differentiable Recurrent State Chain for Generative Vision Modeling with Mamba SSMs</a>. <em>arXiv preprint arXiv:2511.11243, 2025</em>.
     </li>
     <li class="publication-item">🔥Patil, S., Pandey, A.P., Koutis, I. and <b>Xu, M.</b> 
         <a href = "https://arxiv.org/abs/2505.18973">Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings</a>. <em>arXiv preprint arXiv:2505.18973, 2025.</em>
@@ -30,6 +33,12 @@ For all publications, please visit my [Google Scholar](https://scholar.google.co
 <h3>Selected Publications</h3>
 
 <div style="text-align: justify;">
+    <li class="publication-item">🔥Y Huang, A Nouranizadeh, C Ahrends, <b>Xu, M.</b> 
+        <a href="https://arxiv.org/abs/2508.07106">BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation</a>. <em>accepted, MIDL 2026</em> (Taipei, Taiwan).
+    </li>
+    <li class="publication-item">🔥Patil, S., Zhang, Z., Huang, Y., Ma, T. and <b>Xu, M.</b> 
+        <a href="https://arxiv.org/abs/2509.05757"> Hyperbolic Large Language Model</a>. <em>accepted, SIAM Review</em>, Nov. 2025.
+    </li>
     <li class="publication-item"> Candelori, L., Abanov, A.G., Berger, J., Hogan, C.J., Kirakosyan, V., Musaelian, K., Samson, R., Smith, J.E., Villani, D., Wells, M.T. and <b>Xu, M.</b> <a href="https://arxiv.org/abs/2409.12805">Robust estimation of the intrinsic dimension of data sets with quantum cognition machine learning</a>. <em>Scientific Reports, Feb, 2025</em>.</li>
     <li class="publication-item">🔥Ramirez, H., Tabarelli, D., Brancaccio, A., Belardinelli, P., Marsh, E.B., Funke, M., Mosher, J.C., Maestu, F., <b>Xu, M.</b>, Pantazis, D. <a href="#">Fully Hyperbolic Neural Networks - A Novel Approach to Studying Aging Trajectories</a>. <em>IEEE Journal of Biomedical and Health Informatics, Feb, 2025</em>.<b>(Corresponding author)</b></li>
     <li class="publication-item">C Baker, G Smith, EB Marsh, M Funke, JC Mosher, F Maestu, <b>Xu, M.</b>+ D Pantazis, <a href="https://ieeexplore.ieee.org/abstract/document/10564006">Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline,</a> <em>IEEE Journal of Biomedical and Health Informatics, June, 2024</em>. <b>(Corresponding author)</b></li>
