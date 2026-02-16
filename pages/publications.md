@@ -16,16 +16,16 @@ For all publications, please visit my [Google Scholar](https://scholar.google.co
 <h3>Preprints</h3>
 
 <div style="text-align: justify;">  
-    <li class="publication-item">🔥Shende, S., Narayanan, V., Fenn, V., Huang, Y., Goksuluk, D., Choudhary,G., <b>Xu, M.</b> 
+    <li class="publication-item">Shende, S., Narayanan, V., Fenn, V., Huang, Y., Goksuluk, D., Choudhary,G., <b>Xu, M.</b> 
         <a href="https://arxiv.org/abs/2512.04333">RGE-GCN: Recursive Gene Elimination with Graph Convolutional Networks for RNA-seq based Early Cancer Detection</a>. <em>arXiv preprint arXiv:2512.04333, 2025</em>.
     </li>
-    <li class="publication-item">🔥Chavan, J., Lal, R., Kamat, A., <b>Xu, M.</b> 
+    <li class="publication-item">Chavan, J., Lal, R., Kamat, A., <b>Xu, M.</b> 
         <a href="https://arxiv.org/abs/2511.11243">Arcee: Differentiable Recurrent State Chain for Generative Vision Modeling with Mamba SSMs</a>. <em>arXiv preprint arXiv:2511.11243, 2025</em>.
     </li>
-    <li class="publication-item">🔥Patil, S., Pandey, A.P., Koutis, I. and <b>Xu, M.</b> 
+    <li class="publication-item">Patil, S., Pandey, A.P., Koutis, I. and <b>Xu, M.</b> 
         <a href = "https://arxiv.org/abs/2505.18973">Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings</a>. <em>arXiv preprint arXiv:2505.18973, 2025.</em>
     </li>
-    <li class="publication-item">🔥Pandey, A., Varghese, A.J., Patil, S., <b>Xu, M.</b> 
+    <li class="publication-item">Pandey, A., Varghese, A.J., Patil, S., <b>Xu, M.</b> 
         <a href="https://arxiv.org/abs/2412.11293">A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers</a>. <em>arXiv preprint arXiv:2412.11293, 2024</em>.
     </li>
 </div>  
@@ -33,23 +33,23 @@ For all publications, please visit my [Google Scholar](https://scholar.google.co
 <h3>Selected Publications</h3>
 
 <div style="text-align: justify;">
-    <li class="publication-item">🔥Y Huang, A Nouranizadeh, C Ahrends, <b>Xu, M.</b> 
+    <li class="publication-item">Y Huang, A Nouranizadeh, C Ahrends, <b>Xu, M.</b> 
         <a href="https://arxiv.org/abs/2508.07106">BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation</a>. <em>accepted, MIDL 2026</em> (Taipei, Taiwan).
     </li>
-    <li class="publication-item">🔥Patil, S., Zhang, Z., Huang, Y., Ma, T. and <b>Xu, M.</b> 
+    <li class="publication-item">Patil, S., Zhang, Z., Huang, Y., Ma, T. and <b>Xu, M.</b> 
         <a href="https://arxiv.org/abs/2509.05757"> Hyperbolic Large Language Model</a>. <em>accepted, SIAM Review</em>, Nov. 2025.
     </li>
     <li class="publication-item"> Candelori, L., Abanov, A.G., Berger, J., Hogan, C.J., Kirakosyan, V., Musaelian, K., Samson, R., Smith, J.E., Villani, D., Wells, M.T. and <b>Xu, M.</b> <a href="https://arxiv.org/abs/2409.12805">Robust estimation of the intrinsic dimension of data sets with quantum cognition machine learning</a>. <em>Scientific Reports, Feb, 2025</em>.</li>
-    <li class="publication-item">🔥Ramirez, H., Tabarelli, D., Brancaccio, A., Belardinelli, P., Marsh, E.B., Funke, M., Mosher, J.C., Maestu, F., <b>Xu, M.</b>, Pantazis, D. <a href="#">Fully Hyperbolic Neural Networks - A Novel Approach to Studying Aging Trajectories</a>. <em>IEEE Journal of Biomedical and Health Informatics, Feb, 2025</em>.<b>(Corresponding author)</b></li>
+    <li class="publication-item">Ramirez, H., Tabarelli, D., Brancaccio, A., Belardinelli, P., Marsh, E.B., Funke, M., Mosher, J.C., Maestu, F., <b>Xu, M.</b>, Pantazis, D. <a href="#">Fully Hyperbolic Neural Networks - A Novel Approach to Studying Aging Trajectories</a>. <em>IEEE Journal of Biomedical and Health Informatics, Feb, 2025</em>.<b>(Corresponding author)</b></li>
     <li class="publication-item">C Baker, G Smith, EB Marsh, M Funke, JC Mosher, F Maestu, <b>Xu, M.</b>+ D Pantazis, <a href="https://ieeexplore.ieee.org/abstract/document/10564006">Hyperbolic graph embedding of MEG brain networks to study brain alterations in individuals with subjective cognitive decline,</a> <em>IEEE Journal of Biomedical and Health Informatics, June, 2024</em>. <b>(Corresponding author)</b></li>
     <li class="publication-item">Yuhao Qiang*, <b>Mengjia Xu</b>, Mira Patel Pochron, Madhulika Jupelli, Ming Dao. <a href="https://www.frontiersin.org/articles/10.3389/fphy.2024.1331047/full">A framework of computer vision-enhanced microfluidic approach for automated assessment of the transient sickling kinetics in sickle red blood cells.</a> <em>Frontiers in Physics</em>, Feb, 2024.</li>
     <li class="publication-item">Varghese, A.J., Bora, A., <b>Xu, M.</b>+ and Karniadakis, G.E.. <a href="https://pdf.sciencedirectassets.com/271125/1-s2.0-S0893608023X00136/1-s2.0-S0893608023007475/main.pdf">TransformerG2G: Adaptive time-stepping for learning temporal graph embeddings using transformers</a>. <em>Neural Networks</em>, Dec, 2023. <b>(Corresponding author) (IF: 7.8)</b></li>
     <li class="publication-item"><b>Xu, M.</b>, Galanti, T., Rangamani, A., Rosasco, L. and Poggio, T., <a href="https://dspace.mit.edu/handle/1721.1/153227">The Janus effects of SGD vs GD: high noise and low rank,</a> CBMM Memo 144, 2023.</li>
     <li class="publication-item">Galanti, T., <b>Xu, M.</b>, Galanti, L., Poggio, T. <a href="https://openreview.net/forum?id=COPzNA10hZ">Norm-based Generalization Bounds for Compositionally Sparse Neural Networks,</a> <em>In Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)</em>, 2023. (Dec 10-16, New Orleans, LA)</li>
-    <li class="publication-item">🔥<b>Xu, M.</b>, Rangamani, A., Liao, Q., Galanti, T., Poggio, T. <a href="https://spj.science.org/doi/full/10.34133/research.0024">Dynamics in Deep Classifiers with Square Loss: Normalization, Low Rank and Neural Collapse.</a> <em>Research</em>, vol.6, January 10, 2023. (IF:11.03) <b>(Highlighted in MIT News)</b></li>
+    <li class="publication-item"><b>Xu, M.</b>, Rangamani, A., Liao, Q., Galanti, T., Poggio, T. <a href="https://spj.science.org/doi/full/10.34133/research.0024">Dynamics in Deep Classifiers with Square Loss: Normalization, Low Rank and Neural Collapse.</a> <em>Research</em>, vol.6, January 10, 2023. (IF:11.03) <b>(Highlighted in MIT News)</b></li>
     <li class="publication-item">Shukla, K., <b>Xu, M.</b>, Trask, N. and Karniadakis, G. <a href="https://www.cambridge.org/core/journals/data-centric-engineering/article/scalable-algorithms-for-physicsinformed-neural-and-graph-networks/D3C3AE6E34E195DF539071BD09ED8583">Scalable algorithms for physics-informed neural and graph networks.</a> <em>Data-Centric Engineering</em>, 3, e24-1-e-24-26, 2022.</li>
     <li class="publication-item"><b>Xu, M</b>, Singh, V. A. and Karniadakis, G. <a href="https://ieeexplore.ieee.org/abstract/document/9793727">DynG2G: an efficient stochastic graph embedding method for temporal graphs.</a> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, June 10, 2022. (IF: 14.25)</li>
-    <li class="publication-item">🔥<b>Xu, M.</b> <a href="https://epubs.siam.org/doi/abs/10.1137/20M1386062">Understanding graph embedding methods and their applications.</a> SIAM Review, 63(4):825-853, 2021. <b>(Invited paper)</b></li>
+    <li class="publication-item"><b>Xu, M.</b> <a href="https://epubs.siam.org/doi/abs/10.1137/20M1386062">Understanding graph embedding methods and their applications.</a> SIAM Review, 63(4):825-853, 2021. <b>(Invited paper)</b></li>
     <li class="publication-item">Zhang, Q*, Sampani, K*, <b>Xu, M</b>*, Cai, S, Deng, Y, Li, H, Sun JK, Karniadakis, G. <a href="https://tvst.arvojournals.org/article.aspx?articleid=2783552">AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images.</a> <em>Translational Vision Science & Technology (TVST)</em>, 11 (8), 7-17, 2022. (Co-first author)</li>
     <li class="publication-item"><b>Xu, M.</b>, Sanz, D., Garces, P., Maestu, F., Li, Q. & Pantazis, D. <a href="https://ieeexplore.ieee.org/abstract/document/9314203">A graph Gaussian embedding method for predicting Alzheimer’s disease progression with MEG brain networks.</a> <em>IEEE Transactions on Biomedical Engineering</em>, 68(5):1579-1588, 2021. (IF: 4.75)</li>
     <li class="publication-item"><b>Xu, M.</b>, Wang, Z., Zhang, H., Pantazis, D., Wang, H., & Li, Q. <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008186">A new Graph Gaussian embedding method for analyzing the effects of cognitive training</a>. <em>PLoS Computational Biology</em>, 16 (9), e1008186, 2020. (IF: 4.78)</li>
