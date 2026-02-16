@@ -268,7 +268,7 @@
   status: past
   badges:
     # - project=project1 
-  current_position: Business Analyst (SKF Electric Corp., NY)
+  current_position: Business Analyst ([SKF Electric Corp.](), NY)
 
 - id: Hamid_Razavi # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Hamid Razavi 
