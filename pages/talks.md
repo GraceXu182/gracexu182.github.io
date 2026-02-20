@@ -88,7 +88,7 @@ permalink: /talks/
 <li>09/09/2020, presented “Learning graph embeddings for network analysis” in the <a href="https://cbmm.mit.edu/9-58/2020/course-overview">MIT 9.58 course (Fall 2020) for the projects in Science of Intelligence</a>. (Instructor: Prof. Tomaso Poggio)</li>
 <li>07/31/2020, presented “Understanding deep neural network-based Graph Embedding Methods” at the Massachusetts General Hospital, Harvard Medical School. (Virtual)</li>
 <li>07/28/2020, presented a poster on “A New Stochastic Graph Embedding Method for Alzheimer’s Disease Early-Stage Prediction and Intervention Evaluation” in the <a href="https://aaic2020.vfairs.com/">Alzheimer's Association International Conference (AAIC)</a>. (Virtual)</li>
-<li>06/12/2020, presented “Overview of self-supervised learning” in <a href="https://projects.iq.harvard.edu/camca">MGH CAMCA group</a> meeting at Harvard Medical School. (Virtual)</li>
+<li>06/12/2020, presented “Overview of self-supervised learning” in <a href="">MGH CAMCA group</a> meeting at Harvard Medical School. (Virtual)</li>
 <li>05/15/2020, presented "Automated data augmentation and their applications" at the <a href="https://www.brown.edu/research/projects/crunch/machine-learning-x-seminars">“Machine Learning + X” CRUNCH Seminar</a> at Brown University. (Virtual)</li>
 <li>03/30/2020, presented the work “A deep learning-based graph embedding method for the analysis of brain networks” in <a href="https://poggio-lab.mit.edu/">Poggio Lab</a> meeting at MIT. (Cambridge, MA, USA)</li>
 <li>03/19/2020, presented the work “MEG brain network Gaussian embeddings for predicting Alzheimer’s disease progression” in the online <a href="https://ohbmx.org/">OHBM EQUINOX TWITTER CONFERENCE</a>. (Cambridge, MA, USA)</li>
