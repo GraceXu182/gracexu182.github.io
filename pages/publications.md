@@ -22,9 +22,6 @@ For all publications, please visit my [Google Scholar](https://scholar.google.co
     <li class="publication-item">Chavan, J., Lal, R., Kamat, A., <b>Xu, M.</b> 
         <a href="https://arxiv.org/abs/2511.11243">Arcee: Differentiable Recurrent State Chain for Generative Vision Modeling with Mamba SSMs</a>. <em>arXiv preprint arXiv:2511.11243, 2025</em>.
     </li>
-    <li class="publication-item">Patil, S., Pandey, A.P., Koutis, I. and <b>Xu, M.</b> 
-        <a href = "https://arxiv.org/abs/2505.18973">Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings</a>. <em>arXiv preprint arXiv:2505.18973, 2025.</em>
-    </li>
     <li class="publication-item">Pandey, A., Varghese, A.J., Patil, S., <b>Xu, M.</b> 
         <a href="https://arxiv.org/abs/2412.11293">A Comparative Study on Dynamic Graph Embedding based on Mamba and Transformers</a>. <em>arXiv preprint arXiv:2412.11293, 2024</em>.
     </li>
@@ -33,6 +30,9 @@ For all publications, please visit my [Google Scholar](https://scholar.google.co
 <h3>Selected Publications</h3>
 
 <div style="text-align: justify;">
+    <li class="publication-item">Patil, S., Pandey, A.P., Koutis, I. and <b>Xu, M.</b> 
+        <a href = "https://arxiv.org/abs/2505.18973">Hierarchical Mamba Meets Hyperbolic Geometry: A New Paradigm for Structured Language Embeddings</a>. <em>TMLR, 2026.</em>
+    </li>
     <li class="publication-item">Y Huang, A Nouranizadeh, C Ahrends, <b>Xu, M.</b> 
         <a href="https://arxiv.org/abs/2508.07106">BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation</a>. <em>accepted, MIDL 2026</em> (Taipei, Taiwan).
     </li>
