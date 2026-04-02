@@ -131,7 +131,21 @@
   status: active
   badges:
     # - project=project1   
-
+- id: Vishal_Fenn # used internally to identify this person, e.g., in a Newsfeed post "people" field
+  name: Vishal Fenn # as display on the web page People item
+  role: Master's Student
+  program: Data Science, NJIT # omit if not applicable
+  image: assets/images/default.jpg  # can be external link
+  orcid: null
+  email: vkf@njit.edu
+  googlescholar: 
+  github: 
+  twitter: null
+  description: 
+  status: active
+  badges:
+    # - project=project1 
+    # - project=project3
 - id: Varsha_Narayana # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Varsha Narayana  # as display on the web page People item
   role: Undergraduate student
